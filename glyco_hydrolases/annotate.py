@@ -9,7 +9,7 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Blast import NCBIXML
 
 
-GLHYD_DIR = os.path.dirname(os.path.realpath(_file_))
+GLHYD_DIR = os.path.dirname(os.path.realpath(__file__))
 PRODIGAL_PROTEINS = 'predicted_proteins.faa'
 PRODIGAL_GENES = 'predicted_genes.txt'
 
@@ -26,7 +26,7 @@ def run_prodigal(genome,outdir):
 	Creates two files, predicted_genes.txt and predicted_proteins.faa.
 	'''
 	command = [
-		'prodigal'.'-i',genome,'-o',outdir+PRODIGAL_GENES,
+		'prodigal','-i',genome,'-o',outdir+PRODIGAL_GENES,
 		'-a',outdir+PROTIGAL_PROTEINS
 	]
 	subprocess.run(command)
@@ -85,7 +85,7 @@ def go_through(blast_record):
 	prot_functions = []
 	for alignment in blast_record.alignments:
 		title = alignment.title
-		index = title.find("sp") if "sp" in title 0
+		index = title.find("sp") if "sp" in title else 0
 		prot_function = title[title.find(" ",index):title.find('OS')]
 		prot_functions.append(prot_function)
 	return prot_functions
