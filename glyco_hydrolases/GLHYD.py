@@ -28,12 +28,14 @@ def main():
 				)
 	parser.add_argument("dbname",
 				type=str,
-				meavar="<database name>",
+				metavar="<database name>",
 				help="Name for the blast database."
+			   	)
 	parser.add_argument("dbseqs",
 				type=str,
 				metavar="<database sequences>",
 				help="Set of reference proteins."
+			   	)
 
 	args = parser.parse_args()
 
@@ -51,5 +53,5 @@ def main():
 		args.dbseqs
 	)
 
-if _name_== "_main_":
+if __name__== "__main__":
 	main()
