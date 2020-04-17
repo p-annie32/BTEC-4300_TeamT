@@ -24,17 +24,17 @@ def main():
 	parser.add_argument("R",
 				type=str,
 				metavar="<reverse reads>",
-				help="Reverse reads in FastQ format."
+				help="Reverse reads in FastQ format.",
 				)
 	parser.add_argument("dbname",
 				type=str,
 				metavar="<database name>",
-				help="Name for the blast database."
+				help="Name for the blast database.",
 			   	)
 	parser.add_argument("dbseqs",
 				type=str,
 				metavar="<database sequences>",
-				help="Set of reference proteins."
+				help="Set of reference proteins.",
 			   	)
 
 	args = parser.parse_args()

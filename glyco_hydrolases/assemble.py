@@ -26,7 +26,7 @@ def run_spades(forward_reads,reverse_reads,outdir):
 	spades.py assembly in spades_output directory
 	"""
 	command = ["spades.py","-1",forward_reads,"-2",reverse_reads,"--only-assembler","-o",outdir+"spades_output"]
-	subprocess.run(command)	
+	subprocess.run(command)
 
 def run_trimmomatic(forward_reads,reverse_reads,forward_paired_reads,forward_unpaired_reads,reverse_paired_reads,reverse_unpaired_reads):
 	"""
@@ -35,7 +35,7 @@ def run_trimmomatic(forward_reads,reverse_reads,forward_paired_reads,forward_unp
 	reverse_reads: fiilename of reverse reads
 	forward paired reads: trimmomatic result file for forward paired reads
 	forward_unpaired_reads: result file for forward unpaired reads
-	reverse_paired_reads: result file for reverse paired reads	
+	reverse_paired_reads: result file for reverse paired reads
 	reverse_unpaired_reads: result file for reverse unpaired reads
 	Results:
 	Four result files for forward and reverse reads both paired and unpaired.
@@ -55,7 +55,7 @@ def assemble_genome(forward_reads,reverse_reads,outdir):
 		base_Rfile = os.path.basename(reverse_reads)
 
 		forward_paired = outdir+base_Ffile.replace('.','_paired.')
-		forward_unpaired = outdir+baseFfile.replace('.','_unpaired.')
+		forward_unpaired = outdir+base_Ffile.replace('.','_unpaired.')
 		reverse_paired = outdir+base_Rfile.replace('.','_paired.')
 		reverse_unpaired = outdir+base_Rfile.replace('.','_unpaired.')
 
@@ -63,7 +63,7 @@ def assemble_genome(forward_reads,reverse_reads,outdir):
 		run_trimmomatic(
 			forward_reads,reverse_reads,
 			forward_paired,forward_unpaired,
-			reverse_paaired,reverse_unpaired
+			reverse_paired,reverse_unpaired
 		)
 
 		#FastQC

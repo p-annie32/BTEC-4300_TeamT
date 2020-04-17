@@ -27,7 +27,7 @@ def run_prodigal(genome,outdir):
 	'''
 	command = [
 		'prodigal','-i',genome,'-o',outdir+PRODIGAL_GENES,
-		'-a',outdir+PROTIGAL_PROTEINS
+		'-a',outdir+PRODIGAL_PROTEINS
 	]
 	subprocess.run(command)
 
@@ -60,7 +60,7 @@ def run_blastp(query,dbname,outdir):
 	'''
 	command = [
 		"blastp","-db",dbname,"-query",query,
-		'-evalue','1e-16','-max_target-seqs','2',
+		'-evalue','1e-16','-max_target_seqs','2',
 		'-out',outdir+"blast_results.xml","-outfmt","5"
 	]
 
@@ -113,14 +113,15 @@ def label_proteins(predicted_proteins_file,blast_result_file,outfile):
 
 	annotations = []
 	for i,item in enumerate(hits.items()):
-		fasta_id,predicted_function = item
-		new_record = SeqRecord(
-			id="glhyd{}".format(i),
-			description="glhyd{} {}".format(i,predicted_function),	
-			seq=seq
-		)
-		annotations.append(new_record)
-	SeqIO.write(annotations,outfile,"fasta")
+            fasta_id,predicted_function = item
+            seq = lookup_table[fasta_id]
+            new_record = SeqRecord(
+                id="glhyd{}".format(i),
+                description="glhyd{} {}".format(i,predicted_function),
+                seq=seq
+            )
+            annotations.append(new_record)
+            SeqIO.write(annotations,outfile,"fasta")
 
 def annotate_proteins(genome,outdir,dbname,dbseqs):
 
@@ -131,6 +132,7 @@ def annotate_proteins(genome,outdir,dbname,dbseqs):
 	run_prodigal(genome,outdir)
 	makeblastdb(dbname,dbseqs)
 	run_blastp(outdir+PRODIGAL_PROTEINS,NEW_DB+dbname,outdir)
-	label_proteins(outdir+"blast_results.xml",
-			outdir+"glhyd_annotations.faa"
+	label_proteins(outdir+PRODIGAL_PROTEINS,
+			outdir+"blast_results.xml",
+                        outdir+"glhyd_annotations.faa"
 			)
