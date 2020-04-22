@@ -1,0 +1,13 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:21.283   100M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:24.358   100M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 2
+ * 0:00:24.358   100M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 2
+ * 0:01:01.560   100M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 52
+ * 0:01:02.852    24M / 3G    WARN    General                 (simplification.cpp        : 578)   The determined erroneous connection coverage threshold may be determined improperly
+ * 0:00:37.956   120M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 3
+ * 0:00:37.958   120M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 3
+ * 0:00:38.648   120M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 4
+ * 0:00:38.651   120M / 3G    WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 4
+ * 0:00:51.092    92M / 3G    WARN    General                 (pair_info_count.cpp       : 355)   Estimated mean insert size 269.637 is very small compared to read length 250
+======= Warnings saved to /home/biotech/probak/spades_corrected/corrected/spades_default_assembly/warnings.log
