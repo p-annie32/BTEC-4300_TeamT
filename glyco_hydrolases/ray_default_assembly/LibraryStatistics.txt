@@ -1,0 +1,14 @@
+NumberOfPairedLibraries: 1
+
+LibraryNumber: 0
+ InputFormat: TwoFiles,Paired
+ DetectionType: Automatic
+ File: Geobac_1_pair.cor.fastq
+  NumberOfSequences: 54848
+ File: Geobac_2_pair.cor.fastq
+  NumberOfSequences: 54848
+ Distribution: ray_default_assembly/LibraryData.xml
+ Peak 0
+  AverageOuterDistance: 294
+  StandardDeviation: 35
+

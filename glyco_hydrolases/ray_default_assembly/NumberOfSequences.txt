@@ -1,0 +1,19 @@
+Files: 2
+
+FileNumber: 0
+	FilePath: Geobac_1_pair.cor.fastq
+ 	NumberOfSequences: 54848
+	FirstSequence: 0
+	LastSequence: 54847
+
+FileNumber: 1
+	FilePath: Geobac_2_pair.cor.fastq
+ 	NumberOfSequences: 54848
+	FirstSequence: 54848
+	LastSequence: 109695
+
+
+Summary
+	NumberOfSequences: 109696
+	FirstSequence: 0
+	LastSequence: 109695

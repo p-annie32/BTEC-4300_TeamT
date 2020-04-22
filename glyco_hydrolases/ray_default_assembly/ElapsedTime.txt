@@ -1,0 +1,23 @@
+#Step	Date	Elapsed time	Since Beginning
+Network testing	2020-04-21T09:03:23	0 seconds	0 seconds
+Counting sequences to assemble	2020-04-21T09:03:23	0 seconds	0 seconds
+Sequence loading	2020-04-21T09:03:24	1 seconds	1 seconds
+K-mer counting	2020-04-21T09:03:43	19 seconds	20 seconds
+Coverage distribution analysis	2020-04-21T09:03:46	3 seconds	23 seconds
+Graph construction	2020-04-21T09:04:08	22 seconds	45 seconds
+Null edge purging	2020-04-21T09:04:38	30 seconds	1 minutes, 15 seconds
+Selection of optimal read markers	2020-04-21T09:05:08	30 seconds	1 minutes, 45 seconds
+Detection of assembly seeds	2020-04-21T09:06:18	1 minutes, 10 seconds	2 minutes, 55 seconds
+Estimation of outer distances for paired reads	2020-04-21T09:06:22	4 seconds	2 minutes, 59 seconds
+Bidirectional extension of seeds	2020-04-21T09:08:11	1 minutes, 49 seconds	4 minutes, 48 seconds
+Merging of redundant paths	2020-04-21T09:10:17	2 minutes, 6 seconds	6 minutes, 54 seconds
+Generation of contigs	2020-04-21T09:10:18	1 seconds	6 minutes, 55 seconds
+Scaffolding of contigs	2020-04-21T09:10:56	38 seconds	7 minutes, 33 seconds
+Counting sequences to search	2020-04-21T09:10:56	0 seconds	7 minutes, 33 seconds
+Graph coloring	2020-04-21T09:10:59	3 seconds	7 minutes, 36 seconds
+Counting contig biological abundances	2020-04-21T09:11:02	3 seconds	7 minutes, 39 seconds
+Counting sequence biological abundances	2020-04-21T09:11:02	0 seconds	7 minutes, 39 seconds
+Loading taxons	2020-04-21T09:11:04	2 seconds	7 minutes, 41 seconds
+Loading tree	2020-04-21T09:11:06	2 seconds	7 minutes, 43 seconds
+Processing gene ontologies	2020-04-21T09:11:11	5 seconds	7 minutes, 48 seconds
+Computing neighbourhoods	2020-04-21T09:11:11	0 seconds	7 minutes, 48 seconds

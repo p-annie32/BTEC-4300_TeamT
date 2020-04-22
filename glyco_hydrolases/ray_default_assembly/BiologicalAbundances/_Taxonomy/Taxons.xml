@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<sample>ray_default_assembly</sample>
+<totalAssembledKmerObservations>21898680</totalAssembledKmerObservations>
+<totalColoredAssembledKmerObservations>21898680</totalColoredAssembledKmerObservations>
+<ranks>
+</ranks>
+<entry><taxon><identifier>unknown</identifier><name>unknown</name><rank>unknown</rank></taxon>
+<path></path>
+<self><kmerObservations>0</kmerObservations><proportion>0</proportion><coloredProportion>0</coloredProportion><coloredProportionInRank>0</coloredProportionInRank></self></entry>
+</root>

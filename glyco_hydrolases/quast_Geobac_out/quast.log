@@ -1,0 +1,149 @@
+/home/biotech/miniconda3/envs/genomics/bin/quast -o quast_Geobac_out -R Geobac.fna.gz -g Geobac.gff.gz -l Spades_default, Spades_careful, Megahit_default, Megahit_min_3, Ray spades_default_assembly/contigs.fasta spades_careful_assembly/contigs.fasta megahit_default_assembly/final.contigs.fa megahit_min_count_3_assembly/final.contigs.fa ray_default_assembly/Contigs.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-4.4.0-18362-Microsoft-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.6.7
+  CPUs number: 8
+
+Started: 2020-04-21 09:29:36
+
+Logging to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/quast.log
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /home/biotech/probak/spades_corrected/corrected
+Main parameters: 
+  MODE: default, threads: 2, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/biotech/probak/spades_corrected/corrected/Geobac.fna.gz ==> Geobac
+
+Contigs:
+  Pre-processing...
+  1  spades_default_assembly/contigs.fasta ==> Spades_default
+  2  spades_careful_assembly/contigs.fasta ==> Spades_careful
+  3  megahit_default_assembly/final.contigs.fa ==> Megahit_default
+  4  megahit_min_count_3_assembly/final.contigs.fa ==> Megahit_min_3
+  5  ray_default_assembly/Contigs.fasta ==> Ray
+
+2020-04-21 09:29:39
+Running Basic statistics processor...
+  Reference genome:
+    Geobac.fna, length = 1641481, num fragments = 1, GC % = 30.55
+  Contig files: 
+    1  Spades_default
+    2  Spades_careful
+    3  Megahit_default
+    4  Megahit_min_3
+    5  Ray
+  Calculating N50 and L50...
+    1  Spades_default, N50 = 1819, L50 = 356, Total length = 2259200, GC % = 50.96, # N's per 100 kbp =  0.00
+    2  Spades_careful, N50 = 1815, L50 = 357, Total length = 2258397, GC % = 50.97, # N's per 100 kbp =  0.00
+    3  Megahit_default, N50 = 1763, L50 = 360, Total length = 2230061, GC % = 50.86, # N's per 100 kbp =  0.00
+    4  Megahit_min_3, N50 = 1673, L50 = 371, Total length = 2149633, GC % = 50.66, # N's per 100 kbp =  0.00
+    5  Ray, N50 = 1115, L50 = 407, Total length = 1621643, GC % = 49.57, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/GC_content_plot.pdf
+  Drawing Spades_default GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Spades_default_GC_content_plot.pdf
+  Drawing Spades_careful GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Spades_careful_GC_content_plot.pdf
+  Drawing Megahit_default GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Megahit_default_GC_content_plot.pdf
+  Drawing Megahit_min_3 GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Megahit_min_3_GC_content_plot.pdf
+  Drawing Ray GC content plot...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Ray_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/coverage_histogram.pdf
+  Drawing Spades_default coverage histogram (bin size: 1x)...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Spades_default_coverage_histogram.pdf
+  Drawing Spades_careful coverage histogram (bin size: 1x)...
+    saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/basic_stats/Spades_careful_coverage_histogram.pdf
+Done.
+
+2020-04-21 09:29:43
+Running Contig analyzer...
+  1  Spades_default
+  2  Spades_careful
+  1  Logging to files /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/contigs_report_Spades_default.stdout and contigs_report_Spades_default.stderr...
+  2  Logging to files /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/contigs_report_Spades_careful.stdout and contigs_report_Spades_careful.stderr...
+  1  Aligning contigs to the reference
+  2  Aligning contigs to the reference
+  1  /home/biotech/miniconda3/envs/genomics/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_Geobac_out/quast_corrected_input/Geobac.fna \
+     quast_Geobac_out/quast_corrected_input/Spades_default.fasta > quast_Geobac_out/contigs_reports/minimap_output/Spades_default.coords_tmp \
+     2>> quast_Geobac_out/contigs_reports/contigs_report_Spades_default.stderr
+  2  /home/biotech/miniconda3/envs/genomics/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_Geobac_out/quast_corrected_input/Geobac.fna \
+     quast_Geobac_out/quast_corrected_input/Spades_careful.fasta > quast_Geobac_out/contigs_reports/minimap_output/Spades_careful.coords_tmp \
+     2>> quast_Geobac_out/contigs_reports/contigs_report_Spades_careful.stderr
+  2  Analysis is finished.
+
+  3  Megahit_default
+  3  Logging to files /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/contigs_report_Megahit_default.stdout and contigs_report_Megahit_default.stderr...
+  3  Aligning contigs to the reference
+  1  Analysis is finished.
+
+  4  Megahit_min_3
+  4  Logging to files /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/contigs_report_Megahit_min_3.stdout and contigs_report_Megahit_min_3.stderr...
+  4  Aligning contigs to the reference
+  3  /home/biotech/miniconda3/envs/genomics/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_Geobac_out/quast_corrected_input/Geobac.fna \
+     quast_Geobac_out/quast_corrected_input/Megahit_default.fa > quast_Geobac_out/contigs_reports/minimap_output/Megahit_default.coords_tmp \
+     2>> quast_Geobac_out/contigs_reports/contigs_report_Megahit_default.stderr
+  4  /home/biotech/miniconda3/envs/genomics/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_Geobac_out/quast_corrected_input/Geobac.fna \
+     quast_Geobac_out/quast_corrected_input/Megahit_min_3.fa > quast_Geobac_out/contigs_reports/minimap_output/Megahit_min_3.coords_tmp \
+     2>> quast_Geobac_out/contigs_reports/contigs_report_Megahit_min_3.stderr
+  3  Analysis is finished.
+
+  5  Ray
+  5  Logging to files /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/contigs_report_Ray.stdout and contigs_report_Ray.stderr...
+  4  Analysis is finished.
+
+  5  Aligning contigs to the reference
+  5  /home/biotech/miniconda3/envs/genomics/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_Geobac_out/quast_corrected_input/Geobac.fna \
+     quast_Geobac_out/quast_corrected_input/Ray.fasta > quast_Geobac_out/contigs_reports/minimap_output/Ray.coords_tmp \
+     2>> quast_Geobac_out/contigs_reports/contigs_report_Ray.stderr
+  5  Analysis is finished.
+
+Failed aligning the contigs for all the assemblies. Only basic stats are going to be evaluated.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-04-21 09:29:44
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-21 09:29:46
+RESULTS:
+  Text versions of total report are saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/report.html
+  PDF version (tables and plots) is saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/report.pdf
+  Icarus (contig browser) is saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/icarus.html
+  Log is saved to /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/quast.log
+
+Finished: 2020-04-21 09:29:47
+Elapsed time: 0:00:10.532393
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

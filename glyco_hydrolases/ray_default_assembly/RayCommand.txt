@@ -1,0 +1,8 @@
+mpiexec -n 4 Ray \
+ -k \
+ 31 \
+ -p \
+ Geobac_1_pair.cor.fastq \
+ Geobac_2_pair.cor.fastq \
+ -o \
+ ray_default_assembly

@@ -1,0 +1,42 @@
+\documentclass[12pt,a4paper]{article}
+\begin{document}
+\begin{table}[ht]
+\begin{center}
+\caption{All statistics are based on contigs of size $\geq$ 500 bp, unless otherwise noted (e.g., "\# contigs ($\geq$ 0 bp)" and "Total length ($\geq$ 0 bp)" include all contigs).}
+\begin{tabular}{|l*{5}{|r}|}
+\hline
+Assembly & Spades\_default & Spades\_careful & Megahit\_default & Megahit\_min\_3 & Ray \\ \hline
+\# contigs ($\geq$ 0 bp) & 2035 & 2093 & 2122 & 2148 & 4428 \\ \hline
+\# contigs ($\geq$ 1000 bp) & 830 & 829 & 812 & 799 & 498 \\ \hline
+\# contigs ($\geq$ 5000 bp) & 39 & 38 & 35 & 34 & 18 \\ \hline
+\# contigs ($\geq$ 10000 bp) & 4 & 4 & 5 & 4 & 4 \\ \hline
+\# contigs ($\geq$ 25000 bp) & 0 & 0 & 0 & 0 & 0 \\ \hline
+\# contigs ($\geq$ 50000 bp) & 0 & 0 & 0 & 0 & 0 \\ \hline
+Total length ($\geq$ 0 bp) & 2434372 & 2447015 & {\bf 2453443} & 2378273 & 2419922 \\ \hline
+Total length ($\geq$ 1000 bp) & {\bf 1760743} & 1756775 & 1711882 & 1619713 & 907403 \\ \hline
+Total length ($\geq$ 5000 bp) & {\bf 280572} & 274821 & 254002 & 240766 & 136847 \\ \hline
+Total length ($\geq$ 10000 bp) & 50602 & 50349 & {\bf 60920} & 48701 & 47149 \\ \hline
+Total length ($\geq$ 25000 bp) & 0 & 0 & 0 & 0 & 0 \\ \hline
+Total length ($\geq$ 50000 bp) & 0 & 0 & 0 & 0 & 0 \\ \hline
+\# contigs & 1536 & 1540 & 1547 & 1565 & 1523 \\ \hline
+Largest contig & 13402 & 13402 & 13387 & {\bf 13405} & 12496 \\ \hline
+Total length & {\bf 2259200} & 2258397 & 2230061 & 2149633 & 1621643 \\ \hline
+Reference length & 1641481 & 1641481 & 1641481 & 1641481 & 1641481 \\ \hline
+GC (\%) & 50.96 & 50.97 & 50.86 & 50.66 & 49.57 \\ \hline
+Reference GC (\%) & 30.55 & 30.55 & 30.55 & 30.55 & 30.55 \\ \hline
+N50 & {\bf 1819} & 1815 & 1763 & 1673 & 1115 \\ \hline
+NG50 & 2413 & {\bf 2415} & 2333 & 2137 & 1106 \\ \hline
+N75 & {\bf 1056} & 1054 & 1038 & 1003 & 751 \\ \hline
+NG75 & {\bf 1636} & 1635 & 1591 & 1438 & 737 \\ \hline
+L50 & {\bf 356} & 357 & 360 & 371 & 407 \\ \hline
+LG50 & {\bf 207} & 208 & 213 & 234 & 416 \\ \hline
+L75 & {\bf 766} & 768 & 774 & 792 & 858 \\ \hline
+LG75 & {\bf 415} & 416 & 430 & 472 & 878 \\ \hline
+\# unaligned contigs & 1536 + 0 part & 1540 + 0 part & 1547 + 0 part & 1565 + 0 part & {\bf 1523 + 0 part} \\ \hline
+Unaligned length & 2259200 & 2258397 & 2230061 & 2149633 & {\bf 1621643} \\ \hline
+\# N's per 100 kbp & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\ \hline
+NGA50 & - & - & - & - & - \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+\end{document}

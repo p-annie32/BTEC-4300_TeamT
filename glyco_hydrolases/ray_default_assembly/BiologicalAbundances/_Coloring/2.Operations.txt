@@ -1,0 +1,41 @@
+
+**********************************************************
+Coloring summary
+  Number of virtual colors: 1
+  Number of real colors: 0
+
+Keys in index: 0
+Observed collisions when populating the index: 0
+COLOR_NAMESPACE_MULTIPLIER= 10000000000000000
+
+Operations
+
+  OPERATION_getVirtualColorFrom operations: 0
+
+  OPERATION_IN_PLACE_ONE_REFERENCE: 0
+  OPERATION_NO_VIRTUAL_COLOR_HAS_HASH_CREATION operations: 0
+  OPERATION_VIRTUAL_COLOR_HAS_COLORS_FETCH operations: 0
+  OPERATION_NO_VIRTUAL_COLOR_HAS_COLORS_CREATION operations: 0
+
+  OPERATION_createVirtualColorFrom  operations: 0
+
+  OPERATION_allocateVirtualColorHandle operations: 0
+  OPERATION_NEW_FROM_EMPTY operations: 0
+  OPERATION_NEW_FROM_SCRATCH operations: 0
+
+  OPERATION_applyHashOperation operations: 0
+  OPERATION_getHash operations: 0
+
+  OPERATION_incrementReferences  operations: 0
+  OPERATION_decrementReferences  operations: 0
+
+  OPERATION_purgeVirtualColor  operations: 0
+**********************************************************
+
+
+<referencesPerVirtualColor><frequencies>
+0	1
+</frequencies></referencesPerVirtualColor>
+<physicalColorsPerVirtualColor><frequencies>
+0	1
+</frequencies></physicalColorsPerVirtualColor>

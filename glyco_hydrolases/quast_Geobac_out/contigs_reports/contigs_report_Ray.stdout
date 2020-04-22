@@ -1,0 +1,6133 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [NC_002163.1]
+	Total Regions: 1
+	Total Region Length: 1641481
+Analyzing contigs...
+CONTIG: contig_0 (11744bp)
+		This contig is unaligned. (11744 bp)
+		Unaligned bases: 11744 (number of Ns: 0)
+
+CONTIG: contig_1000000 (7294bp)
+		This contig is unaligned. (7294 bp)
+		Unaligned bases: 7294 (number of Ns: 0)
+
+CONTIG: contig_2000000 (4097bp)
+		This contig is unaligned. (4097 bp)
+		Unaligned bases: 4097 (number of Ns: 0)
+
+CONTIG: contig_3000000 (4005bp)
+		This contig is unaligned. (4005 bp)
+		Unaligned bases: 4005 (number of Ns: 0)
+
+CONTIG: contig_4000000 (2674bp)
+		This contig is unaligned. (2674 bp)
+		Unaligned bases: 2674 (number of Ns: 0)
+
+CONTIG: contig_5000000 (2477bp)
+		This contig is unaligned. (2477 bp)
+		Unaligned bases: 2477 (number of Ns: 0)
+
+CONTIG: contig_6000000 (2499bp)
+		This contig is unaligned. (2499 bp)
+		Unaligned bases: 2499 (number of Ns: 0)
+
+CONTIG: contig_7000000 (2423bp)
+		This contig is unaligned. (2423 bp)
+		Unaligned bases: 2423 (number of Ns: 0)
+
+CONTIG: contig_8000000 (2481bp)
+		This contig is unaligned. (2481 bp)
+		Unaligned bases: 2481 (number of Ns: 0)
+
+CONTIG: contig_9000000 (2140bp)
+		This contig is unaligned. (2140 bp)
+		Unaligned bases: 2140 (number of Ns: 0)
+
+CONTIG: contig_10000000 (2114bp)
+		This contig is unaligned. (2114 bp)
+		Unaligned bases: 2114 (number of Ns: 0)
+
+CONTIG: contig_11000000 (2488bp)
+		This contig is unaligned. (2488 bp)
+		Unaligned bases: 2488 (number of Ns: 0)
+
+CONTIG: contig_12000000 (2032bp)
+		This contig is unaligned. (2032 bp)
+		Unaligned bases: 2032 (number of Ns: 0)
+
+CONTIG: contig_13000000 (2262bp)
+		This contig is unaligned. (2262 bp)
+		Unaligned bases: 2262 (number of Ns: 0)
+
+CONTIG: contig_14000000 (1918bp)
+		This contig is unaligned. (1918 bp)
+		Unaligned bases: 1918 (number of Ns: 0)
+
+CONTIG: contig_15000000 (1923bp)
+		This contig is unaligned. (1923 bp)
+		Unaligned bases: 1923 (number of Ns: 0)
+
+CONTIG: contig_16000000 (1926bp)
+		This contig is unaligned. (1926 bp)
+		Unaligned bases: 1926 (number of Ns: 0)
+
+CONTIG: contig_17000000 (1859bp)
+		This contig is unaligned. (1859 bp)
+		Unaligned bases: 1859 (number of Ns: 0)
+
+CONTIG: contig_18000000 (1857bp)
+		This contig is unaligned. (1857 bp)
+		Unaligned bases: 1857 (number of Ns: 0)
+
+CONTIG: contig_19000000 (1794bp)
+		This contig is unaligned. (1794 bp)
+		Unaligned bases: 1794 (number of Ns: 0)
+
+CONTIG: contig_20000000 (1783bp)
+		This contig is unaligned. (1783 bp)
+		Unaligned bases: 1783 (number of Ns: 0)
+
+CONTIG: contig_21000000 (1762bp)
+		This contig is unaligned. (1762 bp)
+		Unaligned bases: 1762 (number of Ns: 0)
+
+CONTIG: contig_22000000 (1712bp)
+		This contig is unaligned. (1712 bp)
+		Unaligned bases: 1712 (number of Ns: 0)
+
+CONTIG: contig_23000000 (3053bp)
+		This contig is unaligned. (3053 bp)
+		Unaligned bases: 3053 (number of Ns: 0)
+
+CONTIG: contig_24000000 (1685bp)
+		This contig is unaligned. (1685 bp)
+		Unaligned bases: 1685 (number of Ns: 0)
+
+CONTIG: contig_25000000 (1937bp)
+		This contig is unaligned. (1937 bp)
+		Unaligned bases: 1937 (number of Ns: 0)
+
+CONTIG: contig_26000000 (2029bp)
+		This contig is unaligned. (2029 bp)
+		Unaligned bases: 2029 (number of Ns: 0)
+
+CONTIG: contig_27000000 (1613bp)
+		This contig is unaligned. (1613 bp)
+		Unaligned bases: 1613 (number of Ns: 0)
+
+CONTIG: contig_28000000 (1607bp)
+		This contig is unaligned. (1607 bp)
+		Unaligned bases: 1607 (number of Ns: 0)
+
+CONTIG: contig_29000000 (1555bp)
+		This contig is unaligned. (1555 bp)
+		Unaligned bases: 1555 (number of Ns: 0)
+
+CONTIG: contig_30000000 (1549bp)
+		This contig is unaligned. (1549 bp)
+		Unaligned bases: 1549 (number of Ns: 0)
+
+CONTIG: contig_31000000 (1644bp)
+		This contig is unaligned. (1644 bp)
+		Unaligned bases: 1644 (number of Ns: 0)
+
+CONTIG: contig_32000000 (1536bp)
+		This contig is unaligned. (1536 bp)
+		Unaligned bases: 1536 (number of Ns: 0)
+
+CONTIG: contig_33000000 (1533bp)
+		This contig is unaligned. (1533 bp)
+		Unaligned bases: 1533 (number of Ns: 0)
+
+CONTIG: contig_34000000 (1527bp)
+		This contig is unaligned. (1527 bp)
+		Unaligned bases: 1527 (number of Ns: 0)
+
+CONTIG: contig_35000000 (1524bp)
+		This contig is unaligned. (1524 bp)
+		Unaligned bases: 1524 (number of Ns: 0)
+
+CONTIG: contig_36000000 (1502bp)
+		This contig is unaligned. (1502 bp)
+		Unaligned bases: 1502 (number of Ns: 0)
+
+CONTIG: contig_37000000 (1500bp)
+		This contig is unaligned. (1500 bp)
+		Unaligned bases: 1500 (number of Ns: 0)
+
+CONTIG: contig_38000000 (1494bp)
+		This contig is unaligned. (1494 bp)
+		Unaligned bases: 1494 (number of Ns: 0)
+
+CONTIG: contig_39000000 (2203bp)
+		This contig is unaligned. (2203 bp)
+		Unaligned bases: 2203 (number of Ns: 0)
+
+CONTIG: contig_40000000 (1476bp)
+		This contig is unaligned. (1476 bp)
+		Unaligned bases: 1476 (number of Ns: 0)
+
+CONTIG: contig_41000000 (1519bp)
+		This contig is unaligned. (1519 bp)
+		Unaligned bases: 1519 (number of Ns: 0)
+
+CONTIG: contig_42000000 (1458bp)
+		This contig is unaligned. (1458 bp)
+		Unaligned bases: 1458 (number of Ns: 0)
+
+CONTIG: contig_43000000 (1969bp)
+		This contig is unaligned. (1969 bp)
+		Unaligned bases: 1969 (number of Ns: 0)
+
+CONTIG: contig_44000000 (1443bp)
+		This contig is unaligned. (1443 bp)
+		Unaligned bases: 1443 (number of Ns: 0)
+
+CONTIG: contig_45000000 (1443bp)
+		This contig is unaligned. (1443 bp)
+		Unaligned bases: 1443 (number of Ns: 0)
+
+CONTIG: contig_46000000 (1431bp)
+		This contig is unaligned. (1431 bp)
+		Unaligned bases: 1431 (number of Ns: 0)
+
+CONTIG: contig_47000000 (1450bp)
+		This contig is unaligned. (1450 bp)
+		Unaligned bases: 1450 (number of Ns: 0)
+
+CONTIG: contig_48000000 (1796bp)
+		This contig is unaligned. (1796 bp)
+		Unaligned bases: 1796 (number of Ns: 0)
+
+CONTIG: contig_49000000 (1695bp)
+		This contig is unaligned. (1695 bp)
+		Unaligned bases: 1695 (number of Ns: 0)
+
+CONTIG: contig_50000000 (1441bp)
+		This contig is unaligned. (1441 bp)
+		Unaligned bases: 1441 (number of Ns: 0)
+
+CONTIG: contig_51000000 (1382bp)
+		This contig is unaligned. (1382 bp)
+		Unaligned bases: 1382 (number of Ns: 0)
+
+CONTIG: contig_52000000 (1376bp)
+		This contig is unaligned. (1376 bp)
+		Unaligned bases: 1376 (number of Ns: 0)
+
+CONTIG: contig_53000000 (1376bp)
+		This contig is unaligned. (1376 bp)
+		Unaligned bases: 1376 (number of Ns: 0)
+
+CONTIG: contig_54000000 (1374bp)
+		This contig is unaligned. (1374 bp)
+		Unaligned bases: 1374 (number of Ns: 0)
+
+CONTIG: contig_55000000 (1369bp)
+		This contig is unaligned. (1369 bp)
+		Unaligned bases: 1369 (number of Ns: 0)
+
+CONTIG: contig_56000000 (1356bp)
+		This contig is unaligned. (1356 bp)
+		Unaligned bases: 1356 (number of Ns: 0)
+
+CONTIG: contig_57000000 (1474bp)
+		This contig is unaligned. (1474 bp)
+		Unaligned bases: 1474 (number of Ns: 0)
+
+CONTIG: contig_58000000 (1344bp)
+		This contig is unaligned. (1344 bp)
+		Unaligned bases: 1344 (number of Ns: 0)
+
+CONTIG: contig_59000000 (1315bp)
+		This contig is unaligned. (1315 bp)
+		Unaligned bases: 1315 (number of Ns: 0)
+
+CONTIG: contig_60000000 (1697bp)
+		This contig is unaligned. (1697 bp)
+		Unaligned bases: 1697 (number of Ns: 0)
+
+CONTIG: contig_61000000 (1308bp)
+		This contig is unaligned. (1308 bp)
+		Unaligned bases: 1308 (number of Ns: 0)
+
+CONTIG: contig_62000000 (1314bp)
+		This contig is unaligned. (1314 bp)
+		Unaligned bases: 1314 (number of Ns: 0)
+
+CONTIG: contig_63000000 (1709bp)
+		This contig is unaligned. (1709 bp)
+		Unaligned bases: 1709 (number of Ns: 0)
+
+CONTIG: contig_64000000 (1385bp)
+		This contig is unaligned. (1385 bp)
+		Unaligned bases: 1385 (number of Ns: 0)
+
+CONTIG: contig_65000000 (1250bp)
+		This contig is unaligned. (1250 bp)
+		Unaligned bases: 1250 (number of Ns: 0)
+
+CONTIG: contig_66000000 (1241bp)
+		This contig is unaligned. (1241 bp)
+		Unaligned bases: 1241 (number of Ns: 0)
+
+CONTIG: contig_67000000 (1241bp)
+		This contig is unaligned. (1241 bp)
+		Unaligned bases: 1241 (number of Ns: 0)
+
+CONTIG: contig_68000000 (1321bp)
+		This contig is unaligned. (1321 bp)
+		Unaligned bases: 1321 (number of Ns: 0)
+
+CONTIG: contig_69000000 (1212bp)
+		This contig is unaligned. (1212 bp)
+		Unaligned bases: 1212 (number of Ns: 0)
+
+CONTIG: contig_70000000 (1413bp)
+		This contig is unaligned. (1413 bp)
+		Unaligned bases: 1413 (number of Ns: 0)
+
+CONTIG: contig_71000000 (1194bp)
+		This contig is unaligned. (1194 bp)
+		Unaligned bases: 1194 (number of Ns: 0)
+
+CONTIG: contig_72000000 (1193bp)
+		This contig is unaligned. (1193 bp)
+		Unaligned bases: 1193 (number of Ns: 0)
+
+CONTIG: contig_73000000 (1191bp)
+		This contig is unaligned. (1191 bp)
+		Unaligned bases: 1191 (number of Ns: 0)
+
+CONTIG: contig_74000000 (1174bp)
+		This contig is unaligned. (1174 bp)
+		Unaligned bases: 1174 (number of Ns: 0)
+
+CONTIG: contig_75000000 (1482bp)
+		This contig is unaligned. (1482 bp)
+		Unaligned bases: 1482 (number of Ns: 0)
+
+CONTIG: contig_76000000 (1257bp)
+		This contig is unaligned. (1257 bp)
+		Unaligned bases: 1257 (number of Ns: 0)
+
+CONTIG: contig_77000000 (1172bp)
+		This contig is unaligned. (1172 bp)
+		Unaligned bases: 1172 (number of Ns: 0)
+
+CONTIG: contig_78000000 (1537bp)
+		This contig is unaligned. (1537 bp)
+		Unaligned bases: 1537 (number of Ns: 0)
+
+CONTIG: contig_79000000 (1163bp)
+		This contig is unaligned. (1163 bp)
+		Unaligned bases: 1163 (number of Ns: 0)
+
+CONTIG: contig_80000000 (1143bp)
+		This contig is unaligned. (1143 bp)
+		Unaligned bases: 1143 (number of Ns: 0)
+
+CONTIG: contig_81000000 (1168bp)
+		This contig is unaligned. (1168 bp)
+		Unaligned bases: 1168 (number of Ns: 0)
+
+CONTIG: contig_82000000 (1137bp)
+		This contig is unaligned. (1137 bp)
+		Unaligned bases: 1137 (number of Ns: 0)
+
+CONTIG: contig_83000000 (1112bp)
+		This contig is unaligned. (1112 bp)
+		Unaligned bases: 1112 (number of Ns: 0)
+
+CONTIG: contig_84000000 (1107bp)
+		This contig is unaligned. (1107 bp)
+		Unaligned bases: 1107 (number of Ns: 0)
+
+CONTIG: contig_85000000 (1831bp)
+		This contig is unaligned. (1831 bp)
+		Unaligned bases: 1831 (number of Ns: 0)
+
+CONTIG: contig_86000000 (1075bp)
+		This contig is unaligned. (1075 bp)
+		Unaligned bases: 1075 (number of Ns: 0)
+
+CONTIG: contig_87000000 (1056bp)
+		This contig is unaligned. (1056 bp)
+		Unaligned bases: 1056 (number of Ns: 0)
+
+CONTIG: contig_88000000 (1053bp)
+		This contig is unaligned. (1053 bp)
+		Unaligned bases: 1053 (number of Ns: 0)
+
+CONTIG: contig_89000000 (1046bp)
+		This contig is unaligned. (1046 bp)
+		Unaligned bases: 1046 (number of Ns: 0)
+
+CONTIG: contig_90000000 (1037bp)
+		This contig is unaligned. (1037 bp)
+		Unaligned bases: 1037 (number of Ns: 0)
+
+CONTIG: contig_91000000 (1036bp)
+		This contig is unaligned. (1036 bp)
+		Unaligned bases: 1036 (number of Ns: 0)
+
+CONTIG: contig_92000000 (1035bp)
+		This contig is unaligned. (1035 bp)
+		Unaligned bases: 1035 (number of Ns: 0)
+
+CONTIG: contig_93000000 (1011bp)
+		This contig is unaligned. (1011 bp)
+		Unaligned bases: 1011 (number of Ns: 0)
+
+CONTIG: contig_94000000 (1229bp)
+		This contig is unaligned. (1229 bp)
+		Unaligned bases: 1229 (number of Ns: 0)
+
+CONTIG: contig_95000000 (1007bp)
+		This contig is unaligned. (1007 bp)
+		Unaligned bases: 1007 (number of Ns: 0)
+
+CONTIG: contig_96000000 (1001bp)
+		This contig is unaligned. (1001 bp)
+		Unaligned bases: 1001 (number of Ns: 0)
+
+CONTIG: contig_97000000 (1988bp)
+		This contig is unaligned. (1988 bp)
+		Unaligned bases: 1988 (number of Ns: 0)
+
+CONTIG: contig_98000000 (1096bp)
+		This contig is unaligned. (1096 bp)
+		Unaligned bases: 1096 (number of Ns: 0)
+
+CONTIG: contig_99000000 (992bp)
+		This contig is unaligned. (992 bp)
+		Unaligned bases: 992 (number of Ns: 0)
+
+CONTIG: contig_100000000 (2329bp)
+		This contig is unaligned. (2329 bp)
+		Unaligned bases: 2329 (number of Ns: 0)
+
+CONTIG: contig_101000000 (988bp)
+		This contig is unaligned. (988 bp)
+		Unaligned bases: 988 (number of Ns: 0)
+
+CONTIG: contig_102000000 (986bp)
+		This contig is unaligned. (986 bp)
+		Unaligned bases: 986 (number of Ns: 0)
+
+CONTIG: contig_103000000 (984bp)
+		This contig is unaligned. (984 bp)
+		Unaligned bases: 984 (number of Ns: 0)
+
+CONTIG: contig_104000000 (1000bp)
+		This contig is unaligned. (1000 bp)
+		Unaligned bases: 1000 (number of Ns: 0)
+
+CONTIG: contig_105000000 (959bp)
+		This contig is unaligned. (959 bp)
+		Unaligned bases: 959 (number of Ns: 0)
+
+CONTIG: contig_106000000 (977bp)
+		This contig is unaligned. (977 bp)
+		Unaligned bases: 977 (number of Ns: 0)
+
+CONTIG: contig_107000000 (1169bp)
+		This contig is unaligned. (1169 bp)
+		Unaligned bases: 1169 (number of Ns: 0)
+
+CONTIG: contig_108000000 (1247bp)
+		This contig is unaligned. (1247 bp)
+		Unaligned bases: 1247 (number of Ns: 0)
+
+CONTIG: contig_109000000 (1229bp)
+		This contig is unaligned. (1229 bp)
+		Unaligned bases: 1229 (number of Ns: 0)
+
+CONTIG: contig_110000000 (931bp)
+		This contig is unaligned. (931 bp)
+		Unaligned bases: 931 (number of Ns: 0)
+
+CONTIG: contig_111000000 (916bp)
+		This contig is unaligned. (916 bp)
+		Unaligned bases: 916 (number of Ns: 0)
+
+CONTIG: contig_112000000 (916bp)
+		This contig is unaligned. (916 bp)
+		Unaligned bases: 916 (number of Ns: 0)
+
+CONTIG: contig_113000000 (916bp)
+		This contig is unaligned. (916 bp)
+		Unaligned bases: 916 (number of Ns: 0)
+
+CONTIG: contig_114000000 (940bp)
+		This contig is unaligned. (940 bp)
+		Unaligned bases: 940 (number of Ns: 0)
+
+CONTIG: contig_115000000 (1304bp)
+		This contig is unaligned. (1304 bp)
+		Unaligned bases: 1304 (number of Ns: 0)
+
+CONTIG: contig_116000000 (902bp)
+		This contig is unaligned. (902 bp)
+		Unaligned bases: 902 (number of Ns: 0)
+
+CONTIG: contig_117000000 (895bp)
+		This contig is unaligned. (895 bp)
+		Unaligned bases: 895 (number of Ns: 0)
+
+CONTIG: contig_118000000 (895bp)
+		This contig is unaligned. (895 bp)
+		Unaligned bases: 895 (number of Ns: 0)
+
+CONTIG: contig_119000000 (906bp)
+		This contig is unaligned. (906 bp)
+		Unaligned bases: 906 (number of Ns: 0)
+
+CONTIG: contig_120000000 (887bp)
+		This contig is unaligned. (887 bp)
+		Unaligned bases: 887 (number of Ns: 0)
+
+CONTIG: contig_121000000 (877bp)
+		This contig is unaligned. (877 bp)
+		Unaligned bases: 877 (number of Ns: 0)
+
+CONTIG: contig_122000000 (877bp)
+		This contig is unaligned. (877 bp)
+		Unaligned bases: 877 (number of Ns: 0)
+
+CONTIG: contig_123000000 (873bp)
+		This contig is unaligned. (873 bp)
+		Unaligned bases: 873 (number of Ns: 0)
+
+CONTIG: contig_124000000 (895bp)
+		This contig is unaligned. (895 bp)
+		Unaligned bases: 895 (number of Ns: 0)
+
+CONTIG: contig_125000000 (870bp)
+		This contig is unaligned. (870 bp)
+		Unaligned bases: 870 (number of Ns: 0)
+
+CONTIG: contig_126000000 (866bp)
+		This contig is unaligned. (866 bp)
+		Unaligned bases: 866 (number of Ns: 0)
+
+CONTIG: contig_127000000 (865bp)
+		This contig is unaligned. (865 bp)
+		Unaligned bases: 865 (number of Ns: 0)
+
+CONTIG: contig_128000000 (864bp)
+		This contig is unaligned. (864 bp)
+		Unaligned bases: 864 (number of Ns: 0)
+
+CONTIG: contig_129000000 (1077bp)
+		This contig is unaligned. (1077 bp)
+		Unaligned bases: 1077 (number of Ns: 0)
+
+CONTIG: contig_130000000 (1294bp)
+		This contig is unaligned. (1294 bp)
+		Unaligned bases: 1294 (number of Ns: 0)
+
+CONTIG: contig_131000000 (859bp)
+		This contig is unaligned. (859 bp)
+		Unaligned bases: 859 (number of Ns: 0)
+
+CONTIG: contig_132000000 (855bp)
+		This contig is unaligned. (855 bp)
+		Unaligned bases: 855 (number of Ns: 0)
+
+CONTIG: contig_133000000 (856bp)
+		This contig is unaligned. (856 bp)
+		Unaligned bases: 856 (number of Ns: 0)
+
+CONTIG: contig_134000000 (853bp)
+		This contig is unaligned. (853 bp)
+		Unaligned bases: 853 (number of Ns: 0)
+
+CONTIG: contig_135000000 (848bp)
+		This contig is unaligned. (848 bp)
+		Unaligned bases: 848 (number of Ns: 0)
+
+CONTIG: contig_136000000 (1180bp)
+		This contig is unaligned. (1180 bp)
+		Unaligned bases: 1180 (number of Ns: 0)
+
+CONTIG: contig_137000000 (844bp)
+		This contig is unaligned. (844 bp)
+		Unaligned bases: 844 (number of Ns: 0)
+
+CONTIG: contig_138000000 (842bp)
+		This contig is unaligned. (842 bp)
+		Unaligned bases: 842 (number of Ns: 0)
+
+CONTIG: contig_139000000 (841bp)
+		This contig is unaligned. (841 bp)
+		Unaligned bases: 841 (number of Ns: 0)
+
+CONTIG: contig_140000000 (832bp)
+		This contig is unaligned. (832 bp)
+		Unaligned bases: 832 (number of Ns: 0)
+
+CONTIG: contig_141000000 (1919bp)
+		This contig is unaligned. (1919 bp)
+		Unaligned bases: 1919 (number of Ns: 0)
+
+CONTIG: contig_142000000 (824bp)
+		This contig is unaligned. (824 bp)
+		Unaligned bases: 824 (number of Ns: 0)
+
+CONTIG: contig_143000000 (1369bp)
+		This contig is unaligned. (1369 bp)
+		Unaligned bases: 1369 (number of Ns: 0)
+
+CONTIG: contig_144000000 (832bp)
+		This contig is unaligned. (832 bp)
+		Unaligned bases: 832 (number of Ns: 0)
+
+CONTIG: contig_145000000 (813bp)
+		This contig is unaligned. (813 bp)
+		Unaligned bases: 813 (number of Ns: 0)
+
+CONTIG: contig_146000000 (871bp)
+		This contig is unaligned. (871 bp)
+		Unaligned bases: 871 (number of Ns: 0)
+
+CONTIG: contig_147000000 (809bp)
+		This contig is unaligned. (809 bp)
+		Unaligned bases: 809 (number of Ns: 0)
+
+CONTIG: contig_148000000 (1126bp)
+		This contig is unaligned. (1126 bp)
+		Unaligned bases: 1126 (number of Ns: 0)
+
+CONTIG: contig_149000000 (805bp)
+		This contig is unaligned. (805 bp)
+		Unaligned bases: 805 (number of Ns: 0)
+
+CONTIG: contig_150000000 (803bp)
+		This contig is unaligned. (803 bp)
+		Unaligned bases: 803 (number of Ns: 0)
+
+CONTIG: contig_151000000 (803bp)
+		This contig is unaligned. (803 bp)
+		Unaligned bases: 803 (number of Ns: 0)
+
+CONTIG: contig_152000000 (798bp)
+		This contig is unaligned. (798 bp)
+		Unaligned bases: 798 (number of Ns: 0)
+
+CONTIG: contig_153000000 (791bp)
+		This contig is unaligned. (791 bp)
+		Unaligned bases: 791 (number of Ns: 0)
+
+CONTIG: contig_154000000 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: contig_155000000 (785bp)
+		This contig is unaligned. (785 bp)
+		Unaligned bases: 785 (number of Ns: 0)
+
+CONTIG: contig_156000000 (785bp)
+		This contig is unaligned. (785 bp)
+		Unaligned bases: 785 (number of Ns: 0)
+
+CONTIG: contig_157000000 (1035bp)
+		This contig is unaligned. (1035 bp)
+		Unaligned bases: 1035 (number of Ns: 0)
+
+CONTIG: contig_158000000 (780bp)
+		This contig is unaligned. (780 bp)
+		Unaligned bases: 780 (number of Ns: 0)
+
+CONTIG: contig_159000000 (778bp)
+		This contig is unaligned. (778 bp)
+		Unaligned bases: 778 (number of Ns: 0)
+
+CONTIG: contig_160000000 (778bp)
+		This contig is unaligned. (778 bp)
+		Unaligned bases: 778 (number of Ns: 0)
+
+CONTIG: contig_161000000 (805bp)
+		This contig is unaligned. (805 bp)
+		Unaligned bases: 805 (number of Ns: 0)
+
+CONTIG: contig_162000000 (778bp)
+		This contig is unaligned. (778 bp)
+		Unaligned bases: 778 (number of Ns: 0)
+
+CONTIG: contig_163000000 (1327bp)
+		This contig is unaligned. (1327 bp)
+		Unaligned bases: 1327 (number of Ns: 0)
+
+CONTIG: contig_164000000 (771bp)
+		This contig is unaligned. (771 bp)
+		Unaligned bases: 771 (number of Ns: 0)
+
+CONTIG: contig_165000000 (771bp)
+		This contig is unaligned. (771 bp)
+		Unaligned bases: 771 (number of Ns: 0)
+
+CONTIG: contig_166000000 (766bp)
+		This contig is unaligned. (766 bp)
+		Unaligned bases: 766 (number of Ns: 0)
+
+CONTIG: contig_167000000 (761bp)
+		This contig is unaligned. (761 bp)
+		Unaligned bases: 761 (number of Ns: 0)
+
+CONTIG: contig_168000000 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_169000000 (754bp)
+		This contig is unaligned. (754 bp)
+		Unaligned bases: 754 (number of Ns: 0)
+
+CONTIG: contig_170000000 (754bp)
+		This contig is unaligned. (754 bp)
+		Unaligned bases: 754 (number of Ns: 0)
+
+CONTIG: contig_171000000 (754bp)
+		This contig is unaligned. (754 bp)
+		Unaligned bases: 754 (number of Ns: 0)
+
+CONTIG: contig_172000000 (753bp)
+		This contig is unaligned. (753 bp)
+		Unaligned bases: 753 (number of Ns: 0)
+
+CONTIG: contig_173000000 (752bp)
+		This contig is unaligned. (752 bp)
+		Unaligned bases: 752 (number of Ns: 0)
+
+CONTIG: contig_174000000 (885bp)
+		This contig is unaligned. (885 bp)
+		Unaligned bases: 885 (number of Ns: 0)
+
+CONTIG: contig_175000000 (862bp)
+		This contig is unaligned. (862 bp)
+		Unaligned bases: 862 (number of Ns: 0)
+
+CONTIG: contig_176000000 (744bp)
+		This contig is unaligned. (744 bp)
+		Unaligned bases: 744 (number of Ns: 0)
+
+CONTIG: contig_177000000 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_178000000 (741bp)
+		This contig is unaligned. (741 bp)
+		Unaligned bases: 741 (number of Ns: 0)
+
+CONTIG: contig_179000000 (739bp)
+		This contig is unaligned. (739 bp)
+		Unaligned bases: 739 (number of Ns: 0)
+
+CONTIG: contig_180000000 (737bp)
+		This contig is unaligned. (737 bp)
+		Unaligned bases: 737 (number of Ns: 0)
+
+CONTIG: contig_181000000 (735bp)
+		This contig is unaligned. (735 bp)
+		Unaligned bases: 735 (number of Ns: 0)
+
+CONTIG: contig_182000000 (735bp)
+		This contig is unaligned. (735 bp)
+		Unaligned bases: 735 (number of Ns: 0)
+
+CONTIG: contig_183000000 (734bp)
+		This contig is unaligned. (734 bp)
+		Unaligned bases: 734 (number of Ns: 0)
+
+CONTIG: contig_184000000 (733bp)
+		This contig is unaligned. (733 bp)
+		Unaligned bases: 733 (number of Ns: 0)
+
+CONTIG: contig_185000000 (730bp)
+		This contig is unaligned. (730 bp)
+		Unaligned bases: 730 (number of Ns: 0)
+
+CONTIG: contig_186000000 (729bp)
+		This contig is unaligned. (729 bp)
+		Unaligned bases: 729 (number of Ns: 0)
+
+CONTIG: contig_187000000 (803bp)
+		This contig is unaligned. (803 bp)
+		Unaligned bases: 803 (number of Ns: 0)
+
+CONTIG: contig_188000000 (726bp)
+		This contig is unaligned. (726 bp)
+		Unaligned bases: 726 (number of Ns: 0)
+
+CONTIG: contig_189000000 (722bp)
+		This contig is unaligned. (722 bp)
+		Unaligned bases: 722 (number of Ns: 0)
+
+CONTIG: contig_190000000 (722bp)
+		This contig is unaligned. (722 bp)
+		Unaligned bases: 722 (number of Ns: 0)
+
+CONTIG: contig_191000000 (720bp)
+		This contig is unaligned. (720 bp)
+		Unaligned bases: 720 (number of Ns: 0)
+
+CONTIG: contig_192000000 (832bp)
+		This contig is unaligned. (832 bp)
+		Unaligned bases: 832 (number of Ns: 0)
+
+CONTIG: contig_193000000 (996bp)
+		This contig is unaligned. (996 bp)
+		Unaligned bases: 996 (number of Ns: 0)
+
+CONTIG: contig_194000000 (715bp)
+		This contig is unaligned. (715 bp)
+		Unaligned bases: 715 (number of Ns: 0)
+
+CONTIG: contig_195000000 (711bp)
+		This contig is unaligned. (711 bp)
+		Unaligned bases: 711 (number of Ns: 0)
+
+CONTIG: contig_196000000 (708bp)
+		This contig is unaligned. (708 bp)
+		Unaligned bases: 708 (number of Ns: 0)
+
+CONTIG: contig_197000000 (706bp)
+		This contig is unaligned. (706 bp)
+		Unaligned bases: 706 (number of Ns: 0)
+
+CONTIG: contig_198000000 (4769bp)
+		This contig is unaligned. (4769 bp)
+		Unaligned bases: 4769 (number of Ns: 0)
+
+CONTIG: contig_199000000 (704bp)
+		This contig is unaligned. (704 bp)
+		Unaligned bases: 704 (number of Ns: 0)
+
+CONTIG: contig_200000000 (704bp)
+		This contig is unaligned. (704 bp)
+		Unaligned bases: 704 (number of Ns: 0)
+
+CONTIG: contig_201000000 (710bp)
+		This contig is unaligned. (710 bp)
+		Unaligned bases: 710 (number of Ns: 0)
+
+CONTIG: contig_202000000 (701bp)
+		This contig is unaligned. (701 bp)
+		Unaligned bases: 701 (number of Ns: 0)
+
+CONTIG: contig_203000000 (761bp)
+		This contig is unaligned. (761 bp)
+		Unaligned bases: 761 (number of Ns: 0)
+
+CONTIG: contig_204000000 (697bp)
+		This contig is unaligned. (697 bp)
+		Unaligned bases: 697 (number of Ns: 0)
+
+CONTIG: contig_205000000 (697bp)
+		This contig is unaligned. (697 bp)
+		Unaligned bases: 697 (number of Ns: 0)
+
+CONTIG: contig_206000000 (714bp)
+		This contig is unaligned. (714 bp)
+		Unaligned bases: 714 (number of Ns: 0)
+
+CONTIG: contig_207000000 (777bp)
+		This contig is unaligned. (777 bp)
+		Unaligned bases: 777 (number of Ns: 0)
+
+CONTIG: contig_208000000 (691bp)
+		This contig is unaligned. (691 bp)
+		Unaligned bases: 691 (number of Ns: 0)
+
+CONTIG: contig_209000000 (689bp)
+		This contig is unaligned. (689 bp)
+		Unaligned bases: 689 (number of Ns: 0)
+
+CONTIG: contig_210000000 (687bp)
+		This contig is unaligned. (687 bp)
+		Unaligned bases: 687 (number of Ns: 0)
+
+CONTIG: contig_211000000 (701bp)
+		This contig is unaligned. (701 bp)
+		Unaligned bases: 701 (number of Ns: 0)
+
+CONTIG: contig_212000000 (901bp)
+		This contig is unaligned. (901 bp)
+		Unaligned bases: 901 (number of Ns: 0)
+
+CONTIG: contig_213000000 (685bp)
+		This contig is unaligned. (685 bp)
+		Unaligned bases: 685 (number of Ns: 0)
+
+CONTIG: contig_214000000 (686bp)
+		This contig is unaligned. (686 bp)
+		Unaligned bases: 686 (number of Ns: 0)
+
+CONTIG: contig_215000000 (684bp)
+		This contig is unaligned. (684 bp)
+		Unaligned bases: 684 (number of Ns: 0)
+
+CONTIG: contig_216000000 (680bp)
+		This contig is unaligned. (680 bp)
+		Unaligned bases: 680 (number of Ns: 0)
+
+CONTIG: contig_217000000 (709bp)
+		This contig is unaligned. (709 bp)
+		Unaligned bases: 709 (number of Ns: 0)
+
+CONTIG: contig_218000000 (678bp)
+		This contig is unaligned. (678 bp)
+		Unaligned bases: 678 (number of Ns: 0)
+
+CONTIG: contig_219000000 (676bp)
+		This contig is unaligned. (676 bp)
+		Unaligned bases: 676 (number of Ns: 0)
+
+CONTIG: contig_220000000 (672bp)
+		This contig is unaligned. (672 bp)
+		Unaligned bases: 672 (number of Ns: 0)
+
+CONTIG: contig_221000000 (670bp)
+		This contig is unaligned. (670 bp)
+		Unaligned bases: 670 (number of Ns: 0)
+
+CONTIG: contig_222000000 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_223000000 (668bp)
+		This contig is unaligned. (668 bp)
+		Unaligned bases: 668 (number of Ns: 0)
+
+CONTIG: contig_224000000 (666bp)
+		This contig is unaligned. (666 bp)
+		Unaligned bases: 666 (number of Ns: 0)
+
+CONTIG: contig_225000000 (665bp)
+		This contig is unaligned. (665 bp)
+		Unaligned bases: 665 (number of Ns: 0)
+
+CONTIG: contig_226000000 (665bp)
+		This contig is unaligned. (665 bp)
+		Unaligned bases: 665 (number of Ns: 0)
+
+CONTIG: contig_227000000 (662bp)
+		This contig is unaligned. (662 bp)
+		Unaligned bases: 662 (number of Ns: 0)
+
+CONTIG: contig_228000000 (712bp)
+		This contig is unaligned. (712 bp)
+		Unaligned bases: 712 (number of Ns: 0)
+
+CONTIG: contig_229000000 (882bp)
+		This contig is unaligned. (882 bp)
+		Unaligned bases: 882 (number of Ns: 0)
+
+CONTIG: contig_230000000 (661bp)
+		This contig is unaligned. (661 bp)
+		Unaligned bases: 661 (number of Ns: 0)
+
+CONTIG: contig_231000000 (659bp)
+		This contig is unaligned. (659 bp)
+		Unaligned bases: 659 (number of Ns: 0)
+
+CONTIG: contig_232000000 (880bp)
+		This contig is unaligned. (880 bp)
+		Unaligned bases: 880 (number of Ns: 0)
+
+CONTIG: contig_233000000 (654bp)
+		This contig is unaligned. (654 bp)
+		Unaligned bases: 654 (number of Ns: 0)
+
+CONTIG: contig_234000000 (651bp)
+		This contig is unaligned. (651 bp)
+		Unaligned bases: 651 (number of Ns: 0)
+
+CONTIG: contig_235000000 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_236000000 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_237000000 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_238000000 (666bp)
+		This contig is unaligned. (666 bp)
+		Unaligned bases: 666 (number of Ns: 0)
+
+CONTIG: contig_239000000 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_240000000 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_241000000 (635bp)
+		This contig is unaligned. (635 bp)
+		Unaligned bases: 635 (number of Ns: 0)
+
+CONTIG: contig_242000000 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: contig_243000000 (657bp)
+		This contig is unaligned. (657 bp)
+		Unaligned bases: 657 (number of Ns: 0)
+
+CONTIG: contig_244000000 (734bp)
+		This contig is unaligned. (734 bp)
+		Unaligned bases: 734 (number of Ns: 0)
+
+CONTIG: contig_245000000 (631bp)
+		This contig is unaligned. (631 bp)
+		Unaligned bases: 631 (number of Ns: 0)
+
+CONTIG: contig_246000000 (631bp)
+		This contig is unaligned. (631 bp)
+		Unaligned bases: 631 (number of Ns: 0)
+
+CONTIG: contig_247000000 (631bp)
+		This contig is unaligned. (631 bp)
+		Unaligned bases: 631 (number of Ns: 0)
+
+CONTIG: contig_248000000 (623bp)
+		This contig is unaligned. (623 bp)
+		Unaligned bases: 623 (number of Ns: 0)
+
+CONTIG: contig_249000000 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_250000000 (942bp)
+		This contig is unaligned. (942 bp)
+		Unaligned bases: 942 (number of Ns: 0)
+
+CONTIG: contig_251000000 (612bp)
+		This contig is unaligned. (612 bp)
+		Unaligned bases: 612 (number of Ns: 0)
+
+CONTIG: contig_252000000 (611bp)
+		This contig is unaligned. (611 bp)
+		Unaligned bases: 611 (number of Ns: 0)
+
+CONTIG: contig_253000000 (610bp)
+		This contig is unaligned. (610 bp)
+		Unaligned bases: 610 (number of Ns: 0)
+
+CONTIG: contig_254000000 (610bp)
+		This contig is unaligned. (610 bp)
+		Unaligned bases: 610 (number of Ns: 0)
+
+CONTIG: contig_255000000 (773bp)
+		This contig is unaligned. (773 bp)
+		Unaligned bases: 773 (number of Ns: 0)
+
+CONTIG: contig_256000000 (626bp)
+		This contig is unaligned. (626 bp)
+		Unaligned bases: 626 (number of Ns: 0)
+
+CONTIG: contig_257000000 (779bp)
+		This contig is unaligned. (779 bp)
+		Unaligned bases: 779 (number of Ns: 0)
+
+CONTIG: contig_258000000 (605bp)
+		This contig is unaligned. (605 bp)
+		Unaligned bases: 605 (number of Ns: 0)
+
+CONTIG: contig_259000000 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: contig_260000000 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_261000000 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_262000000 (602bp)
+		This contig is unaligned. (602 bp)
+		Unaligned bases: 602 (number of Ns: 0)
+
+CONTIG: contig_263000000 (943bp)
+		This contig is unaligned. (943 bp)
+		Unaligned bases: 943 (number of Ns: 0)
+
+CONTIG: contig_264000000 (721bp)
+		This contig is unaligned. (721 bp)
+		Unaligned bases: 721 (number of Ns: 0)
+
+CONTIG: contig_265000000 (599bp)
+		This contig is unaligned. (599 bp)
+		Unaligned bases: 599 (number of Ns: 0)
+
+CONTIG: contig_266000000 (599bp)
+		This contig is unaligned. (599 bp)
+		Unaligned bases: 599 (number of Ns: 0)
+
+CONTIG: contig_267000000 (598bp)
+		This contig is unaligned. (598 bp)
+		Unaligned bases: 598 (number of Ns: 0)
+
+CONTIG: contig_268000000 (597bp)
+		This contig is unaligned. (597 bp)
+		Unaligned bases: 597 (number of Ns: 0)
+
+CONTIG: contig_269000000 (596bp)
+		This contig is unaligned. (596 bp)
+		Unaligned bases: 596 (number of Ns: 0)
+
+CONTIG: contig_270000000 (658bp)
+		This contig is unaligned. (658 bp)
+		Unaligned bases: 658 (number of Ns: 0)
+
+CONTIG: contig_271000000 (1028bp)
+		This contig is unaligned. (1028 bp)
+		Unaligned bases: 1028 (number of Ns: 0)
+
+CONTIG: contig_272000000 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: contig_273000000 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: contig_274000000 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: contig_275000000 (611bp)
+		This contig is unaligned. (611 bp)
+		Unaligned bases: 611 (number of Ns: 0)
+
+CONTIG: contig_276000000 (592bp)
+		This contig is unaligned. (592 bp)
+		Unaligned bases: 592 (number of Ns: 0)
+
+CONTIG: contig_277000000 (592bp)
+		This contig is unaligned. (592 bp)
+		Unaligned bases: 592 (number of Ns: 0)
+
+CONTIG: contig_278000000 (1123bp)
+		This contig is unaligned. (1123 bp)
+		Unaligned bases: 1123 (number of Ns: 0)
+
+CONTIG: contig_279000000 (659bp)
+		This contig is unaligned. (659 bp)
+		Unaligned bases: 659 (number of Ns: 0)
+
+CONTIG: contig_280000000 (582bp)
+		This contig is unaligned. (582 bp)
+		Unaligned bases: 582 (number of Ns: 0)
+
+CONTIG: contig_281000000 (672bp)
+		This contig is unaligned. (672 bp)
+		Unaligned bases: 672 (number of Ns: 0)
+
+CONTIG: contig_282000000 (698bp)
+		This contig is unaligned. (698 bp)
+		Unaligned bases: 698 (number of Ns: 0)
+
+CONTIG: contig_283000000 (579bp)
+		This contig is unaligned. (579 bp)
+		Unaligned bases: 579 (number of Ns: 0)
+
+CONTIG: contig_284000000 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_285000000 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_286000000 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_287000000 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+CONTIG: contig_288000000 (566bp)
+		This contig is unaligned. (566 bp)
+		Unaligned bases: 566 (number of Ns: 0)
+
+CONTIG: contig_289000000 (854bp)
+		This contig is unaligned. (854 bp)
+		Unaligned bases: 854 (number of Ns: 0)
+
+CONTIG: contig_290000000 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: contig_291000000 (572bp)
+		This contig is unaligned. (572 bp)
+		Unaligned bases: 572 (number of Ns: 0)
+
+CONTIG: contig_292000000 (563bp)
+		This contig is unaligned. (563 bp)
+		Unaligned bases: 563 (number of Ns: 0)
+
+CONTIG: contig_293000000 (615bp)
+		This contig is unaligned. (615 bp)
+		Unaligned bases: 615 (number of Ns: 0)
+
+CONTIG: contig_294000000 (562bp)
+		This contig is unaligned. (562 bp)
+		Unaligned bases: 562 (number of Ns: 0)
+
+CONTIG: contig_295000000 (561bp)
+		This contig is unaligned. (561 bp)
+		Unaligned bases: 561 (number of Ns: 0)
+
+CONTIG: contig_296000000 (798bp)
+		This contig is unaligned. (798 bp)
+		Unaligned bases: 798 (number of Ns: 0)
+
+CONTIG: contig_297000000 (560bp)
+		This contig is unaligned. (560 bp)
+		Unaligned bases: 560 (number of Ns: 0)
+
+CONTIG: contig_298000000 (559bp)
+		This contig is unaligned. (559 bp)
+		Unaligned bases: 559 (number of Ns: 0)
+
+CONTIG: contig_299000000 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_300000000 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: contig_301000000 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: contig_302000000 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: contig_303000000 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_304000000 (553bp)
+		This contig is unaligned. (553 bp)
+		Unaligned bases: 553 (number of Ns: 0)
+
+CONTIG: contig_305000000 (551bp)
+		This contig is unaligned. (551 bp)
+		Unaligned bases: 551 (number of Ns: 0)
+
+CONTIG: contig_306000000 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: contig_307000000 (549bp)
+		This contig is unaligned. (549 bp)
+		Unaligned bases: 549 (number of Ns: 0)
+
+CONTIG: contig_308000000 (548bp)
+		This contig is unaligned. (548 bp)
+		Unaligned bases: 548 (number of Ns: 0)
+
+CONTIG: contig_309000000 (546bp)
+		This contig is unaligned. (546 bp)
+		Unaligned bases: 546 (number of Ns: 0)
+
+CONTIG: contig_310000000 (546bp)
+		This contig is unaligned. (546 bp)
+		Unaligned bases: 546 (number of Ns: 0)
+
+CONTIG: contig_311000000 (545bp)
+		This contig is unaligned. (545 bp)
+		Unaligned bases: 545 (number of Ns: 0)
+
+CONTIG: contig_312000000 (545bp)
+		This contig is unaligned. (545 bp)
+		Unaligned bases: 545 (number of Ns: 0)
+
+CONTIG: contig_313000000 (544bp)
+		This contig is unaligned. (544 bp)
+		Unaligned bases: 544 (number of Ns: 0)
+
+CONTIG: contig_314000000 (544bp)
+		This contig is unaligned. (544 bp)
+		Unaligned bases: 544 (number of Ns: 0)
+
+CONTIG: contig_315000000 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: contig_316000000 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: contig_317000000 (541bp)
+		This contig is unaligned. (541 bp)
+		Unaligned bases: 541 (number of Ns: 0)
+
+CONTIG: contig_318000000 (541bp)
+		This contig is unaligned. (541 bp)
+		Unaligned bases: 541 (number of Ns: 0)
+
+CONTIG: contig_319000000 (540bp)
+		This contig is unaligned. (540 bp)
+		Unaligned bases: 540 (number of Ns: 0)
+
+CONTIG: contig_320000000 (3029bp)
+		This contig is unaligned. (3029 bp)
+		Unaligned bases: 3029 (number of Ns: 0)
+
+CONTIG: contig_321000000 (538bp)
+		This contig is unaligned. (538 bp)
+		Unaligned bases: 538 (number of Ns: 0)
+
+CONTIG: contig_322000000 (540bp)
+		This contig is unaligned. (540 bp)
+		Unaligned bases: 540 (number of Ns: 0)
+
+CONTIG: contig_323000000 (538bp)
+		This contig is unaligned. (538 bp)
+		Unaligned bases: 538 (number of Ns: 0)
+
+CONTIG: contig_324000000 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_325000000 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_326000000 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_327000000 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_328000000 (544bp)
+		This contig is unaligned. (544 bp)
+		Unaligned bases: 544 (number of Ns: 0)
+
+CONTIG: contig_329000000 (533bp)
+		This contig is unaligned. (533 bp)
+		Unaligned bases: 533 (number of Ns: 0)
+
+CONTIG: contig_330000000 (529bp)
+		This contig is unaligned. (529 bp)
+		Unaligned bases: 529 (number of Ns: 0)
+
+CONTIG: contig_331000000 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: contig_332000000 (535bp)
+		This contig is unaligned. (535 bp)
+		Unaligned bases: 535 (number of Ns: 0)
+
+CONTIG: contig_333000000 (525bp)
+		This contig is unaligned. (525 bp)
+		Unaligned bases: 525 (number of Ns: 0)
+
+CONTIG: contig_334000000 (647bp)
+		This contig is unaligned. (647 bp)
+		Unaligned bases: 647 (number of Ns: 0)
+
+CONTIG: contig_335000000 (538bp)
+		This contig is unaligned. (538 bp)
+		Unaligned bases: 538 (number of Ns: 0)
+
+CONTIG: contig_336000000 (523bp)
+		This contig is unaligned. (523 bp)
+		Unaligned bases: 523 (number of Ns: 0)
+
+CONTIG: contig_337000000 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_338000000 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_339000000 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_340000000 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_341000000 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_342000000 (513bp)
+		This contig is unaligned. (513 bp)
+		Unaligned bases: 513 (number of Ns: 0)
+
+CONTIG: contig_343000000 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_344000000 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_345000000 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_346000000 (510bp)
+		This contig is unaligned. (510 bp)
+		Unaligned bases: 510 (number of Ns: 0)
+
+CONTIG: contig_347000000 (510bp)
+		This contig is unaligned. (510 bp)
+		Unaligned bases: 510 (number of Ns: 0)
+
+CONTIG: contig_348000000 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_349000000 (507bp)
+		This contig is unaligned. (507 bp)
+		Unaligned bases: 507 (number of Ns: 0)
+
+CONTIG: contig_350000000 (957bp)
+		This contig is unaligned. (957 bp)
+		Unaligned bases: 957 (number of Ns: 0)
+
+CONTIG: contig_351000000 (505bp)
+		This contig is unaligned. (505 bp)
+		Unaligned bases: 505 (number of Ns: 0)
+
+CONTIG: contig_352000000 (504bp)
+		This contig is unaligned. (504 bp)
+		Unaligned bases: 504 (number of Ns: 0)
+
+CONTIG: contig_353000000 (502bp)
+		This contig is unaligned. (502 bp)
+		Unaligned bases: 502 (number of Ns: 0)
+
+CONTIG: contig_354000000 (755bp)
+		This contig is unaligned. (755 bp)
+		Unaligned bases: 755 (number of Ns: 0)
+
+CONTIG: contig_355000000 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: contig_356000000 (500bp)
+		This contig is unaligned. (500 bp)
+		Unaligned bases: 500 (number of Ns: 0)
+
+CONTIG: contig_358000000 (719bp)
+		This contig is unaligned. (719 bp)
+		Unaligned bases: 719 (number of Ns: 0)
+
+CONTIG: contig_371000000 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_373000000 (1176bp)
+		This contig is unaligned. (1176 bp)
+		Unaligned bases: 1176 (number of Ns: 0)
+
+CONTIG: contig_379000000 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_407000000 (832bp)
+		This contig is unaligned. (832 bp)
+		Unaligned bases: 832 (number of Ns: 0)
+
+CONTIG: contig_430000000 (617bp)
+		This contig is unaligned. (617 bp)
+		Unaligned bases: 617 (number of Ns: 0)
+
+CONTIG: contig_435000000 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+CONTIG: contig_437000000 (679bp)
+		This contig is unaligned. (679 bp)
+		Unaligned bases: 679 (number of Ns: 0)
+
+CONTIG: contig_439000000 (530bp)
+		This contig is unaligned. (530 bp)
+		Unaligned bases: 530 (number of Ns: 0)
+
+CONTIG: contig_459000000 (569bp)
+		This contig is unaligned. (569 bp)
+		Unaligned bases: 569 (number of Ns: 0)
+
+CONTIG: contig_461000000 (708bp)
+		This contig is unaligned. (708 bp)
+		Unaligned bases: 708 (number of Ns: 0)
+
+CONTIG: contig_471000000 (578bp)
+		This contig is unaligned. (578 bp)
+		Unaligned bases: 578 (number of Ns: 0)
+
+CONTIG: contig_485000000 (762bp)
+		This contig is unaligned. (762 bp)
+		Unaligned bases: 762 (number of Ns: 0)
+
+CONTIG: contig_490000000 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_492000000 (571bp)
+		This contig is unaligned. (571 bp)
+		Unaligned bases: 571 (number of Ns: 0)
+
+CONTIG: contig_496000000 (521bp)
+		This contig is unaligned. (521 bp)
+		Unaligned bases: 521 (number of Ns: 0)
+
+CONTIG: contig_499000000 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: contig_507000000 (598bp)
+		This contig is unaligned. (598 bp)
+		Unaligned bases: 598 (number of Ns: 0)
+
+CONTIG: contig_508000000 (555bp)
+		This contig is unaligned. (555 bp)
+		Unaligned bases: 555 (number of Ns: 0)
+
+CONTIG: contig_509000000 (694bp)
+		This contig is unaligned. (694 bp)
+		Unaligned bases: 694 (number of Ns: 0)
+
+CONTIG: contig_536000000 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: contig_542000000 (663bp)
+		This contig is unaligned. (663 bp)
+		Unaligned bases: 663 (number of Ns: 0)
+
+CONTIG: contig_550000000 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: contig_554000000 (598bp)
+		This contig is unaligned. (598 bp)
+		Unaligned bases: 598 (number of Ns: 0)
+
+CONTIG: contig_555000000 (850bp)
+		This contig is unaligned. (850 bp)
+		Unaligned bases: 850 (number of Ns: 0)
+
+CONTIG: contig_562000000 (503bp)
+		This contig is unaligned. (503 bp)
+		Unaligned bases: 503 (number of Ns: 0)
+
+CONTIG: contig_574000000 (630bp)
+		This contig is unaligned. (630 bp)
+		Unaligned bases: 630 (number of Ns: 0)
+
+CONTIG: contig_577000000 (880bp)
+		This contig is unaligned. (880 bp)
+		Unaligned bases: 880 (number of Ns: 0)
+
+CONTIG: contig_586000000 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_598000000 (584bp)
+		This contig is unaligned. (584 bp)
+		Unaligned bases: 584 (number of Ns: 0)
+
+CONTIG: contig_600000000 (508bp)
+		This contig is unaligned. (508 bp)
+		Unaligned bases: 508 (number of Ns: 0)
+
+CONTIG: contig_639000000 (522bp)
+		This contig is unaligned. (522 bp)
+		Unaligned bases: 522 (number of Ns: 0)
+
+CONTIG: contig_647000000 (861bp)
+		This contig is unaligned. (861 bp)
+		Unaligned bases: 861 (number of Ns: 0)
+
+CONTIG: contig_667000000 (1237bp)
+		This contig is unaligned. (1237 bp)
+		Unaligned bases: 1237 (number of Ns: 0)
+
+CONTIG: contig_692000000 (1374bp)
+		This contig is unaligned. (1374 bp)
+		Unaligned bases: 1374 (number of Ns: 0)
+
+CONTIG: contig_772000000 (584bp)
+		This contig is unaligned. (584 bp)
+		Unaligned bases: 584 (number of Ns: 0)
+
+CONTIG: contig_798000000 (1886bp)
+		This contig is unaligned. (1886 bp)
+		Unaligned bases: 1886 (number of Ns: 0)
+
+CONTIG: contig_876000000 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_970000000 (1192bp)
+		This contig is unaligned. (1192 bp)
+		Unaligned bases: 1192 (number of Ns: 0)
+
+CONTIG: contig_1105000000 (5424bp)
+		This contig is unaligned. (5424 bp)
+		Unaligned bases: 5424 (number of Ns: 0)
+
+CONTIG: contig_1 (7308bp)
+		This contig is unaligned. (7308 bp)
+		Unaligned bases: 7308 (number of Ns: 0)
+
+CONTIG: contig_1000001 (5954bp)
+		This contig is unaligned. (5954 bp)
+		Unaligned bases: 5954 (number of Ns: 0)
+
+CONTIG: contig_2000001 (7702bp)
+		This contig is unaligned. (7702 bp)
+		Unaligned bases: 7702 (number of Ns: 0)
+
+CONTIG: contig_3000001 (5097bp)
+		This contig is unaligned. (5097 bp)
+		Unaligned bases: 5097 (number of Ns: 0)
+
+CONTIG: contig_4000001 (3366bp)
+		This contig is unaligned. (3366 bp)
+		Unaligned bases: 3366 (number of Ns: 0)
+
+CONTIG: contig_5000001 (2820bp)
+		This contig is unaligned. (2820 bp)
+		Unaligned bases: 2820 (number of Ns: 0)
+
+CONTIG: contig_6000001 (3347bp)
+		This contig is unaligned. (3347 bp)
+		Unaligned bases: 3347 (number of Ns: 0)
+
+CONTIG: contig_7000001 (3160bp)
+		This contig is unaligned. (3160 bp)
+		Unaligned bases: 3160 (number of Ns: 0)
+
+CONTIG: contig_8000001 (2969bp)
+		This contig is unaligned. (2969 bp)
+		Unaligned bases: 2969 (number of Ns: 0)
+
+CONTIG: contig_9000001 (2848bp)
+		This contig is unaligned. (2848 bp)
+		Unaligned bases: 2848 (number of Ns: 0)
+
+CONTIG: contig_10000001 (2420bp)
+		This contig is unaligned. (2420 bp)
+		Unaligned bases: 2420 (number of Ns: 0)
+
+CONTIG: contig_11000001 (2391bp)
+		This contig is unaligned. (2391 bp)
+		Unaligned bases: 2391 (number of Ns: 0)
+
+CONTIG: contig_12000001 (5397bp)
+		This contig is unaligned. (5397 bp)
+		Unaligned bases: 5397 (number of Ns: 0)
+
+CONTIG: contig_13000001 (2242bp)
+		This contig is unaligned. (2242 bp)
+		Unaligned bases: 2242 (number of Ns: 0)
+
+CONTIG: contig_14000001 (2828bp)
+		This contig is unaligned. (2828 bp)
+		Unaligned bases: 2828 (number of Ns: 0)
+
+CONTIG: contig_15000001 (2177bp)
+		This contig is unaligned. (2177 bp)
+		Unaligned bases: 2177 (number of Ns: 0)
+
+CONTIG: contig_16000001 (2499bp)
+		This contig is unaligned. (2499 bp)
+		Unaligned bases: 2499 (number of Ns: 0)
+
+CONTIG: contig_17000001 (2129bp)
+		This contig is unaligned. (2129 bp)
+		Unaligned bases: 2129 (number of Ns: 0)
+
+CONTIG: contig_18000001 (1853bp)
+		This contig is unaligned. (1853 bp)
+		Unaligned bases: 1853 (number of Ns: 0)
+
+CONTIG: contig_19000001 (1832bp)
+		This contig is unaligned. (1832 bp)
+		Unaligned bases: 1832 (number of Ns: 0)
+
+CONTIG: contig_20000001 (1925bp)
+		This contig is unaligned. (1925 bp)
+		Unaligned bases: 1925 (number of Ns: 0)
+
+CONTIG: contig_21000001 (1721bp)
+		This contig is unaligned. (1721 bp)
+		Unaligned bases: 1721 (number of Ns: 0)
+
+CONTIG: contig_22000001 (2601bp)
+		This contig is unaligned. (2601 bp)
+		Unaligned bases: 2601 (number of Ns: 0)
+
+CONTIG: contig_23000001 (1927bp)
+		This contig is unaligned. (1927 bp)
+		Unaligned bases: 1927 (number of Ns: 0)
+
+CONTIG: contig_24000001 (1672bp)
+		This contig is unaligned. (1672 bp)
+		Unaligned bases: 1672 (number of Ns: 0)
+
+CONTIG: contig_25000001 (1817bp)
+		This contig is unaligned. (1817 bp)
+		Unaligned bases: 1817 (number of Ns: 0)
+
+CONTIG: contig_26000001 (1832bp)
+		This contig is unaligned. (1832 bp)
+		Unaligned bases: 1832 (number of Ns: 0)
+
+CONTIG: contig_27000001 (1606bp)
+		This contig is unaligned. (1606 bp)
+		Unaligned bases: 1606 (number of Ns: 0)
+
+CONTIG: contig_28000001 (1580bp)
+		This contig is unaligned. (1580 bp)
+		Unaligned bases: 1580 (number of Ns: 0)
+
+CONTIG: contig_29000001 (1798bp)
+		This contig is unaligned. (1798 bp)
+		Unaligned bases: 1798 (number of Ns: 0)
+
+CONTIG: contig_30000001 (1545bp)
+		This contig is unaligned. (1545 bp)
+		Unaligned bases: 1545 (number of Ns: 0)
+
+CONTIG: contig_31000001 (1539bp)
+		This contig is unaligned. (1539 bp)
+		Unaligned bases: 1539 (number of Ns: 0)
+
+CONTIG: contig_32000001 (1853bp)
+		This contig is unaligned. (1853 bp)
+		Unaligned bases: 1853 (number of Ns: 0)
+
+CONTIG: contig_33000001 (1525bp)
+		This contig is unaligned. (1525 bp)
+		Unaligned bases: 1525 (number of Ns: 0)
+
+CONTIG: contig_34000001 (1520bp)
+		This contig is unaligned. (1520 bp)
+		Unaligned bases: 1520 (number of Ns: 0)
+
+CONTIG: contig_35000001 (1891bp)
+		This contig is unaligned. (1891 bp)
+		Unaligned bases: 1891 (number of Ns: 0)
+
+CONTIG: contig_36000001 (1490bp)
+		This contig is unaligned. (1490 bp)
+		Unaligned bases: 1490 (number of Ns: 0)
+
+CONTIG: contig_37000001 (1487bp)
+		This contig is unaligned. (1487 bp)
+		Unaligned bases: 1487 (number of Ns: 0)
+
+CONTIG: contig_38000001 (1464bp)
+		This contig is unaligned. (1464 bp)
+		Unaligned bases: 1464 (number of Ns: 0)
+
+CONTIG: contig_39000001 (1585bp)
+		This contig is unaligned. (1585 bp)
+		Unaligned bases: 1585 (number of Ns: 0)
+
+CONTIG: contig_40000001 (1620bp)
+		This contig is unaligned. (1620 bp)
+		Unaligned bases: 1620 (number of Ns: 0)
+
+CONTIG: contig_41000001 (1447bp)
+		This contig is unaligned. (1447 bp)
+		Unaligned bases: 1447 (number of Ns: 0)
+
+CONTIG: contig_42000001 (1435bp)
+		This contig is unaligned. (1435 bp)
+		Unaligned bases: 1435 (number of Ns: 0)
+
+CONTIG: contig_43000001 (1456bp)
+		This contig is unaligned. (1456 bp)
+		Unaligned bases: 1456 (number of Ns: 0)
+
+CONTIG: contig_44000001 (2201bp)
+		This contig is unaligned. (2201 bp)
+		Unaligned bases: 2201 (number of Ns: 0)
+
+CONTIG: contig_45000001 (1508bp)
+		This contig is unaligned. (1508 bp)
+		Unaligned bases: 1508 (number of Ns: 0)
+
+CONTIG: contig_46000001 (2219bp)
+		This contig is unaligned. (2219 bp)
+		Unaligned bases: 2219 (number of Ns: 0)
+
+CONTIG: contig_47000001 (1333bp)
+		This contig is unaligned. (1333 bp)
+		Unaligned bases: 1333 (number of Ns: 0)
+
+CONTIG: contig_48000001 (1322bp)
+		This contig is unaligned. (1322 bp)
+		Unaligned bases: 1322 (number of Ns: 0)
+
+CONTIG: contig_49000001 (1298bp)
+		This contig is unaligned. (1298 bp)
+		Unaligned bases: 1298 (number of Ns: 0)
+
+CONTIG: contig_50000001 (1846bp)
+		This contig is unaligned. (1846 bp)
+		Unaligned bases: 1846 (number of Ns: 0)
+
+CONTIG: contig_51000001 (1295bp)
+		This contig is unaligned. (1295 bp)
+		Unaligned bases: 1295 (number of Ns: 0)
+
+CONTIG: contig_52000001 (1242bp)
+		This contig is unaligned. (1242 bp)
+		Unaligned bases: 1242 (number of Ns: 0)
+
+CONTIG: contig_53000001 (1297bp)
+		This contig is unaligned. (1297 bp)
+		Unaligned bases: 1297 (number of Ns: 0)
+
+CONTIG: contig_54000001 (1235bp)
+		This contig is unaligned. (1235 bp)
+		Unaligned bases: 1235 (number of Ns: 0)
+
+CONTIG: contig_55000001 (1232bp)
+		This contig is unaligned. (1232 bp)
+		Unaligned bases: 1232 (number of Ns: 0)
+
+CONTIG: contig_56000001 (1246bp)
+		This contig is unaligned. (1246 bp)
+		Unaligned bases: 1246 (number of Ns: 0)
+
+CONTIG: contig_57000001 (1445bp)
+		This contig is unaligned. (1445 bp)
+		Unaligned bases: 1445 (number of Ns: 0)
+
+CONTIG: contig_58000001 (1367bp)
+		This contig is unaligned. (1367 bp)
+		Unaligned bases: 1367 (number of Ns: 0)
+
+CONTIG: contig_59000001 (1248bp)
+		This contig is unaligned. (1248 bp)
+		Unaligned bases: 1248 (number of Ns: 0)
+
+CONTIG: contig_60000001 (1187bp)
+		This contig is unaligned. (1187 bp)
+		Unaligned bases: 1187 (number of Ns: 0)
+
+CONTIG: contig_61000001 (1417bp)
+		This contig is unaligned. (1417 bp)
+		Unaligned bases: 1417 (number of Ns: 0)
+
+CONTIG: contig_62000001 (1177bp)
+		This contig is unaligned. (1177 bp)
+		Unaligned bases: 1177 (number of Ns: 0)
+
+CONTIG: contig_63000001 (1170bp)
+		This contig is unaligned. (1170 bp)
+		Unaligned bases: 1170 (number of Ns: 0)
+
+CONTIG: contig_64000001 (2177bp)
+		This contig is unaligned. (2177 bp)
+		Unaligned bases: 2177 (number of Ns: 0)
+
+CONTIG: contig_65000001 (1152bp)
+		This contig is unaligned. (1152 bp)
+		Unaligned bases: 1152 (number of Ns: 0)
+
+CONTIG: contig_66000001 (1191bp)
+		This contig is unaligned. (1191 bp)
+		Unaligned bases: 1191 (number of Ns: 0)
+
+CONTIG: contig_67000001 (1181bp)
+		This contig is unaligned. (1181 bp)
+		Unaligned bases: 1181 (number of Ns: 0)
+
+CONTIG: contig_68000001 (1123bp)
+		This contig is unaligned. (1123 bp)
+		Unaligned bases: 1123 (number of Ns: 0)
+
+CONTIG: contig_69000001 (1434bp)
+		This contig is unaligned. (1434 bp)
+		Unaligned bases: 1434 (number of Ns: 0)
+
+CONTIG: contig_70000001 (1120bp)
+		This contig is unaligned. (1120 bp)
+		Unaligned bases: 1120 (number of Ns: 0)
+
+CONTIG: contig_71000001 (1115bp)
+		This contig is unaligned. (1115 bp)
+		Unaligned bases: 1115 (number of Ns: 0)
+
+CONTIG: contig_72000001 (1108bp)
+		This contig is unaligned. (1108 bp)
+		Unaligned bases: 1108 (number of Ns: 0)
+
+CONTIG: contig_73000001 (1100bp)
+		This contig is unaligned. (1100 bp)
+		Unaligned bases: 1100 (number of Ns: 0)
+
+CONTIG: contig_74000001 (1096bp)
+		This contig is unaligned. (1096 bp)
+		Unaligned bases: 1096 (number of Ns: 0)
+
+CONTIG: contig_75000001 (1482bp)
+		This contig is unaligned. (1482 bp)
+		Unaligned bases: 1482 (number of Ns: 0)
+
+CONTIG: contig_76000001 (1086bp)
+		This contig is unaligned. (1086 bp)
+		Unaligned bases: 1086 (number of Ns: 0)
+
+CONTIG: contig_77000001 (1082bp)
+		This contig is unaligned. (1082 bp)
+		Unaligned bases: 1082 (number of Ns: 0)
+
+CONTIG: contig_78000001 (1080bp)
+		This contig is unaligned. (1080 bp)
+		Unaligned bases: 1080 (number of Ns: 0)
+
+CONTIG: contig_79000001 (1169bp)
+		This contig is unaligned. (1169 bp)
+		Unaligned bases: 1169 (number of Ns: 0)
+
+CONTIG: contig_80000001 (1102bp)
+		This contig is unaligned. (1102 bp)
+		Unaligned bases: 1102 (number of Ns: 0)
+
+CONTIG: contig_81000001 (1425bp)
+		This contig is unaligned. (1425 bp)
+		Unaligned bases: 1425 (number of Ns: 0)
+
+CONTIG: contig_82000001 (1425bp)
+		This contig is unaligned. (1425 bp)
+		Unaligned bases: 1425 (number of Ns: 0)
+
+CONTIG: contig_83000001 (1050bp)
+		This contig is unaligned. (1050 bp)
+		Unaligned bases: 1050 (number of Ns: 0)
+
+CONTIG: contig_84000001 (1046bp)
+		This contig is unaligned. (1046 bp)
+		Unaligned bases: 1046 (number of Ns: 0)
+
+CONTIG: contig_85000001 (1045bp)
+		This contig is unaligned. (1045 bp)
+		Unaligned bases: 1045 (number of Ns: 0)
+
+CONTIG: contig_86000001 (1043bp)
+		This contig is unaligned. (1043 bp)
+		Unaligned bases: 1043 (number of Ns: 0)
+
+CONTIG: contig_87000001 (1041bp)
+		This contig is unaligned. (1041 bp)
+		Unaligned bases: 1041 (number of Ns: 0)
+
+CONTIG: contig_88000001 (1351bp)
+		This contig is unaligned. (1351 bp)
+		Unaligned bases: 1351 (number of Ns: 0)
+
+CONTIG: contig_89000001 (1026bp)
+		This contig is unaligned. (1026 bp)
+		Unaligned bases: 1026 (number of Ns: 0)
+
+CONTIG: contig_90000001 (1100bp)
+		This contig is unaligned. (1100 bp)
+		Unaligned bases: 1100 (number of Ns: 0)
+
+CONTIG: contig_91000001 (1017bp)
+		This contig is unaligned. (1017 bp)
+		Unaligned bases: 1017 (number of Ns: 0)
+
+CONTIG: contig_92000001 (1039bp)
+		This contig is unaligned. (1039 bp)
+		Unaligned bases: 1039 (number of Ns: 0)
+
+CONTIG: contig_93000001 (1022bp)
+		This contig is unaligned. (1022 bp)
+		Unaligned bases: 1022 (number of Ns: 0)
+
+CONTIG: contig_94000001 (1026bp)
+		This contig is unaligned. (1026 bp)
+		Unaligned bases: 1026 (number of Ns: 0)
+
+CONTIG: contig_95000001 (1024bp)
+		This contig is unaligned. (1024 bp)
+		Unaligned bases: 1024 (number of Ns: 0)
+
+CONTIG: contig_96000001 (1010bp)
+		This contig is unaligned. (1010 bp)
+		Unaligned bases: 1010 (number of Ns: 0)
+
+CONTIG: contig_97000001 (1001bp)
+		This contig is unaligned. (1001 bp)
+		Unaligned bases: 1001 (number of Ns: 0)
+
+CONTIG: contig_98000001 (994bp)
+		This contig is unaligned. (994 bp)
+		Unaligned bases: 994 (number of Ns: 0)
+
+CONTIG: contig_99000001 (992bp)
+		This contig is unaligned. (992 bp)
+		Unaligned bases: 992 (number of Ns: 0)
+
+CONTIG: contig_100000001 (987bp)
+		This contig is unaligned. (987 bp)
+		Unaligned bases: 987 (number of Ns: 0)
+
+CONTIG: contig_101000001 (986bp)
+		This contig is unaligned. (986 bp)
+		Unaligned bases: 986 (number of Ns: 0)
+
+CONTIG: contig_102000001 (975bp)
+		This contig is unaligned. (975 bp)
+		Unaligned bases: 975 (number of Ns: 0)
+
+CONTIG: contig_103000001 (1309bp)
+		This contig is unaligned. (1309 bp)
+		Unaligned bases: 1309 (number of Ns: 0)
+
+CONTIG: contig_104000001 (968bp)
+		This contig is unaligned. (968 bp)
+		Unaligned bases: 968 (number of Ns: 0)
+
+CONTIG: contig_105000001 (990bp)
+		This contig is unaligned. (990 bp)
+		Unaligned bases: 990 (number of Ns: 0)
+
+CONTIG: contig_106000001 (960bp)
+		This contig is unaligned. (960 bp)
+		Unaligned bases: 960 (number of Ns: 0)
+
+CONTIG: contig_107000001 (954bp)
+		This contig is unaligned. (954 bp)
+		Unaligned bases: 954 (number of Ns: 0)
+
+CONTIG: contig_108000001 (954bp)
+		This contig is unaligned. (954 bp)
+		Unaligned bases: 954 (number of Ns: 0)
+
+CONTIG: contig_109000001 (950bp)
+		This contig is unaligned. (950 bp)
+		Unaligned bases: 950 (number of Ns: 0)
+
+CONTIG: contig_110000001 (980bp)
+		This contig is unaligned. (980 bp)
+		Unaligned bases: 980 (number of Ns: 0)
+
+CONTIG: contig_111000001 (948bp)
+		This contig is unaligned. (948 bp)
+		Unaligned bases: 948 (number of Ns: 0)
+
+CONTIG: contig_112000001 (947bp)
+		This contig is unaligned. (947 bp)
+		Unaligned bases: 947 (number of Ns: 0)
+
+CONTIG: contig_113000001 (2418bp)
+		This contig is unaligned. (2418 bp)
+		Unaligned bases: 2418 (number of Ns: 0)
+
+CONTIG: contig_114000001 (941bp)
+		This contig is unaligned. (941 bp)
+		Unaligned bases: 941 (number of Ns: 0)
+
+CONTIG: contig_115000001 (941bp)
+		This contig is unaligned. (941 bp)
+		Unaligned bases: 941 (number of Ns: 0)
+
+CONTIG: contig_116000001 (1188bp)
+		This contig is unaligned. (1188 bp)
+		Unaligned bases: 1188 (number of Ns: 0)
+
+CONTIG: contig_117000001 (933bp)
+		This contig is unaligned. (933 bp)
+		Unaligned bases: 933 (number of Ns: 0)
+
+CONTIG: contig_118000001 (932bp)
+		This contig is unaligned. (932 bp)
+		Unaligned bases: 932 (number of Ns: 0)
+
+CONTIG: contig_119000001 (931bp)
+		This contig is unaligned. (931 bp)
+		Unaligned bases: 931 (number of Ns: 0)
+
+CONTIG: contig_120000001 (933bp)
+		This contig is unaligned. (933 bp)
+		Unaligned bases: 933 (number of Ns: 0)
+
+CONTIG: contig_121000001 (1331bp)
+		This contig is unaligned. (1331 bp)
+		Unaligned bases: 1331 (number of Ns: 0)
+
+CONTIG: contig_122000001 (914bp)
+		This contig is unaligned. (914 bp)
+		Unaligned bases: 914 (number of Ns: 0)
+
+CONTIG: contig_123000001 (904bp)
+		This contig is unaligned. (904 bp)
+		Unaligned bases: 904 (number of Ns: 0)
+
+CONTIG: contig_124000001 (1082bp)
+		This contig is unaligned. (1082 bp)
+		Unaligned bases: 1082 (number of Ns: 0)
+
+CONTIG: contig_125000001 (900bp)
+		This contig is unaligned. (900 bp)
+		Unaligned bases: 900 (number of Ns: 0)
+
+CONTIG: contig_126000001 (1234bp)
+		This contig is unaligned. (1234 bp)
+		Unaligned bases: 1234 (number of Ns: 0)
+
+CONTIG: contig_127000001 (925bp)
+		This contig is unaligned. (925 bp)
+		Unaligned bases: 925 (number of Ns: 0)
+
+CONTIG: contig_128000001 (897bp)
+		This contig is unaligned. (897 bp)
+		Unaligned bases: 897 (number of Ns: 0)
+
+CONTIG: contig_129000001 (897bp)
+		This contig is unaligned. (897 bp)
+		Unaligned bases: 897 (number of Ns: 0)
+
+CONTIG: contig_130000001 (964bp)
+		This contig is unaligned. (964 bp)
+		Unaligned bases: 964 (number of Ns: 0)
+
+CONTIG: contig_131000001 (887bp)
+		This contig is unaligned. (887 bp)
+		Unaligned bases: 887 (number of Ns: 0)
+
+CONTIG: contig_132000001 (887bp)
+		This contig is unaligned. (887 bp)
+		Unaligned bases: 887 (number of Ns: 0)
+
+CONTIG: contig_133000001 (885bp)
+		This contig is unaligned. (885 bp)
+		Unaligned bases: 885 (number of Ns: 0)
+
+CONTIG: contig_134000001 (873bp)
+		This contig is unaligned. (873 bp)
+		Unaligned bases: 873 (number of Ns: 0)
+
+CONTIG: contig_135000001 (869bp)
+		This contig is unaligned. (869 bp)
+		Unaligned bases: 869 (number of Ns: 0)
+
+CONTIG: contig_136000001 (866bp)
+		This contig is unaligned. (866 bp)
+		Unaligned bases: 866 (number of Ns: 0)
+
+CONTIG: contig_137000001 (864bp)
+		This contig is unaligned. (864 bp)
+		Unaligned bases: 864 (number of Ns: 0)
+
+CONTIG: contig_138000001 (1170bp)
+		This contig is unaligned. (1170 bp)
+		Unaligned bases: 1170 (number of Ns: 0)
+
+CONTIG: contig_139000001 (855bp)
+		This contig is unaligned. (855 bp)
+		Unaligned bases: 855 (number of Ns: 0)
+
+CONTIG: contig_140000001 (848bp)
+		This contig is unaligned. (848 bp)
+		Unaligned bases: 848 (number of Ns: 0)
+
+CONTIG: contig_141000001 (948bp)
+		This contig is unaligned. (948 bp)
+		Unaligned bases: 948 (number of Ns: 0)
+
+CONTIG: contig_142000001 (1093bp)
+		This contig is unaligned. (1093 bp)
+		Unaligned bases: 1093 (number of Ns: 0)
+
+CONTIG: contig_143000001 (844bp)
+		This contig is unaligned. (844 bp)
+		Unaligned bases: 844 (number of Ns: 0)
+
+CONTIG: contig_144000001 (843bp)
+		This contig is unaligned. (843 bp)
+		Unaligned bases: 843 (number of Ns: 0)
+
+CONTIG: contig_145000001 (843bp)
+		This contig is unaligned. (843 bp)
+		Unaligned bases: 843 (number of Ns: 0)
+
+CONTIG: contig_146000001 (840bp)
+		This contig is unaligned. (840 bp)
+		Unaligned bases: 840 (number of Ns: 0)
+
+CONTIG: contig_147000001 (1199bp)
+		This contig is unaligned. (1199 bp)
+		Unaligned bases: 1199 (number of Ns: 0)
+
+CONTIG: contig_148000001 (830bp)
+		This contig is unaligned. (830 bp)
+		Unaligned bases: 830 (number of Ns: 0)
+
+CONTIG: contig_149000001 (825bp)
+		This contig is unaligned. (825 bp)
+		Unaligned bases: 825 (number of Ns: 0)
+
+CONTIG: contig_150000001 (1741bp)
+		This contig is unaligned. (1741 bp)
+		Unaligned bases: 1741 (number of Ns: 0)
+
+CONTIG: contig_151000001 (873bp)
+		This contig is unaligned. (873 bp)
+		Unaligned bases: 873 (number of Ns: 0)
+
+CONTIG: contig_152000001 (821bp)
+		This contig is unaligned. (821 bp)
+		Unaligned bases: 821 (number of Ns: 0)
+
+CONTIG: contig_153000001 (817bp)
+		This contig is unaligned. (817 bp)
+		Unaligned bases: 817 (number of Ns: 0)
+
+CONTIG: contig_154000001 (815bp)
+		This contig is unaligned. (815 bp)
+		Unaligned bases: 815 (number of Ns: 0)
+
+CONTIG: contig_155000001 (811bp)
+		This contig is unaligned. (811 bp)
+		Unaligned bases: 811 (number of Ns: 0)
+
+CONTIG: contig_156000001 (2181bp)
+		This contig is unaligned. (2181 bp)
+		Unaligned bases: 2181 (number of Ns: 0)
+
+CONTIG: contig_157000001 (805bp)
+		This contig is unaligned. (805 bp)
+		Unaligned bases: 805 (number of Ns: 0)
+
+CONTIG: contig_158000001 (804bp)
+		This contig is unaligned. (804 bp)
+		Unaligned bases: 804 (number of Ns: 0)
+
+CONTIG: contig_159000001 (843bp)
+		This contig is unaligned. (843 bp)
+		Unaligned bases: 843 (number of Ns: 0)
+
+CONTIG: contig_160000001 (803bp)
+		This contig is unaligned. (803 bp)
+		Unaligned bases: 803 (number of Ns: 0)
+
+CONTIG: contig_161000001 (796bp)
+		This contig is unaligned. (796 bp)
+		Unaligned bases: 796 (number of Ns: 0)
+
+CONTIG: contig_162000001 (821bp)
+		This contig is unaligned. (821 bp)
+		Unaligned bases: 821 (number of Ns: 0)
+
+CONTIG: contig_163000001 (816bp)
+		This contig is unaligned. (816 bp)
+		Unaligned bases: 816 (number of Ns: 0)
+
+CONTIG: contig_164000001 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: contig_165000001 (788bp)
+		This contig is unaligned. (788 bp)
+		Unaligned bases: 788 (number of Ns: 0)
+
+CONTIG: contig_166000001 (787bp)
+		This contig is unaligned. (787 bp)
+		Unaligned bases: 787 (number of Ns: 0)
+
+CONTIG: contig_167000001 (786bp)
+		This contig is unaligned. (786 bp)
+		Unaligned bases: 786 (number of Ns: 0)
+
+CONTIG: contig_168000001 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: contig_169000001 (782bp)
+		This contig is unaligned. (782 bp)
+		Unaligned bases: 782 (number of Ns: 0)
+
+CONTIG: contig_170000001 (779bp)
+		This contig is unaligned. (779 bp)
+		Unaligned bases: 779 (number of Ns: 0)
+
+CONTIG: contig_171000001 (777bp)
+		This contig is unaligned. (777 bp)
+		Unaligned bases: 777 (number of Ns: 0)
+
+CONTIG: contig_172000001 (777bp)
+		This contig is unaligned. (777 bp)
+		Unaligned bases: 777 (number of Ns: 0)
+
+CONTIG: contig_173000001 (776bp)
+		This contig is unaligned. (776 bp)
+		Unaligned bases: 776 (number of Ns: 0)
+
+CONTIG: contig_174000001 (773bp)
+		This contig is unaligned. (773 bp)
+		Unaligned bases: 773 (number of Ns: 0)
+
+CONTIG: contig_175000001 (921bp)
+		This contig is unaligned. (921 bp)
+		Unaligned bases: 921 (number of Ns: 0)
+
+CONTIG: contig_176000001 (770bp)
+		This contig is unaligned. (770 bp)
+		Unaligned bases: 770 (number of Ns: 0)
+
+CONTIG: contig_177000001 (767bp)
+		This contig is unaligned. (767 bp)
+		Unaligned bases: 767 (number of Ns: 0)
+
+CONTIG: contig_178000001 (1453bp)
+		This contig is unaligned. (1453 bp)
+		Unaligned bases: 1453 (number of Ns: 0)
+
+CONTIG: contig_179000001 (788bp)
+		This contig is unaligned. (788 bp)
+		Unaligned bases: 788 (number of Ns: 0)
+
+CONTIG: contig_180000001 (763bp)
+		This contig is unaligned. (763 bp)
+		Unaligned bases: 763 (number of Ns: 0)
+
+CONTIG: contig_181000001 (762bp)
+		This contig is unaligned. (762 bp)
+		Unaligned bases: 762 (number of Ns: 0)
+
+CONTIG: contig_182000001 (1457bp)
+		This contig is unaligned. (1457 bp)
+		Unaligned bases: 1457 (number of Ns: 0)
+
+CONTIG: contig_183000001 (759bp)
+		This contig is unaligned. (759 bp)
+		Unaligned bases: 759 (number of Ns: 0)
+
+CONTIG: contig_184000001 (796bp)
+		This contig is unaligned. (796 bp)
+		Unaligned bases: 796 (number of Ns: 0)
+
+CONTIG: contig_185000001 (929bp)
+		This contig is unaligned. (929 bp)
+		Unaligned bases: 929 (number of Ns: 0)
+
+CONTIG: contig_186000001 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_187000001 (753bp)
+		This contig is unaligned. (753 bp)
+		Unaligned bases: 753 (number of Ns: 0)
+
+CONTIG: contig_188000001 (778bp)
+		This contig is unaligned. (778 bp)
+		Unaligned bases: 778 (number of Ns: 0)
+
+CONTIG: contig_189000001 (747bp)
+		This contig is unaligned. (747 bp)
+		Unaligned bases: 747 (number of Ns: 0)
+
+CONTIG: contig_190000001 (742bp)
+		This contig is unaligned. (742 bp)
+		Unaligned bases: 742 (number of Ns: 0)
+
+CONTIG: contig_191000001 (761bp)
+		This contig is unaligned. (761 bp)
+		Unaligned bases: 761 (number of Ns: 0)
+
+CONTIG: contig_192000001 (737bp)
+		This contig is unaligned. (737 bp)
+		Unaligned bases: 737 (number of Ns: 0)
+
+CONTIG: contig_193000001 (928bp)
+		This contig is unaligned. (928 bp)
+		Unaligned bases: 928 (number of Ns: 0)
+
+CONTIG: contig_194000001 (735bp)
+		This contig is unaligned. (735 bp)
+		Unaligned bases: 735 (number of Ns: 0)
+
+CONTIG: contig_195000001 (824bp)
+		This contig is unaligned. (824 bp)
+		Unaligned bases: 824 (number of Ns: 0)
+
+CONTIG: contig_196000001 (732bp)
+		This contig is unaligned. (732 bp)
+		Unaligned bases: 732 (number of Ns: 0)
+
+CONTIG: contig_197000001 (730bp)
+		This contig is unaligned. (730 bp)
+		Unaligned bases: 730 (number of Ns: 0)
+
+CONTIG: contig_198000001 (775bp)
+		This contig is unaligned. (775 bp)
+		Unaligned bases: 775 (number of Ns: 0)
+
+CONTIG: contig_199000001 (737bp)
+		This contig is unaligned. (737 bp)
+		Unaligned bases: 737 (number of Ns: 0)
+
+CONTIG: contig_200000001 (724bp)
+		This contig is unaligned. (724 bp)
+		Unaligned bases: 724 (number of Ns: 0)
+
+CONTIG: contig_201000001 (953bp)
+		This contig is unaligned. (953 bp)
+		Unaligned bases: 953 (number of Ns: 0)
+
+CONTIG: contig_202000001 (714bp)
+		This contig is unaligned. (714 bp)
+		Unaligned bases: 714 (number of Ns: 0)
+
+CONTIG: contig_203000001 (707bp)
+		This contig is unaligned. (707 bp)
+		Unaligned bases: 707 (number of Ns: 0)
+
+CONTIG: contig_204000001 (709bp)
+		This contig is unaligned. (709 bp)
+		Unaligned bases: 709 (number of Ns: 0)
+
+CONTIG: contig_205000001 (703bp)
+		This contig is unaligned. (703 bp)
+		Unaligned bases: 703 (number of Ns: 0)
+
+CONTIG: contig_206000001 (703bp)
+		This contig is unaligned. (703 bp)
+		Unaligned bases: 703 (number of Ns: 0)
+
+CONTIG: contig_207000001 (751bp)
+		This contig is unaligned. (751 bp)
+		Unaligned bases: 751 (number of Ns: 0)
+
+CONTIG: contig_208000001 (1769bp)
+		This contig is unaligned. (1769 bp)
+		Unaligned bases: 1769 (number of Ns: 0)
+
+CONTIG: contig_209000001 (699bp)
+		This contig is unaligned. (699 bp)
+		Unaligned bases: 699 (number of Ns: 0)
+
+CONTIG: contig_210000001 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_211000001 (698bp)
+		This contig is unaligned. (698 bp)
+		Unaligned bases: 698 (number of Ns: 0)
+
+CONTIG: contig_212000001 (715bp)
+		This contig is unaligned. (715 bp)
+		Unaligned bases: 715 (number of Ns: 0)
+
+CONTIG: contig_213000001 (731bp)
+		This contig is unaligned. (731 bp)
+		Unaligned bases: 731 (number of Ns: 0)
+
+CONTIG: contig_214000001 (692bp)
+		This contig is unaligned. (692 bp)
+		Unaligned bases: 692 (number of Ns: 0)
+
+CONTIG: contig_215000001 (683bp)
+		This contig is unaligned. (683 bp)
+		Unaligned bases: 683 (number of Ns: 0)
+
+CONTIG: contig_216000001 (717bp)
+		This contig is unaligned. (717 bp)
+		Unaligned bases: 717 (number of Ns: 0)
+
+CONTIG: contig_217000001 (681bp)
+		This contig is unaligned. (681 bp)
+		Unaligned bases: 681 (number of Ns: 0)
+
+CONTIG: contig_218000001 (721bp)
+		This contig is unaligned. (721 bp)
+		Unaligned bases: 721 (number of Ns: 0)
+
+CONTIG: contig_219000001 (677bp)
+		This contig is unaligned. (677 bp)
+		Unaligned bases: 677 (number of Ns: 0)
+
+CONTIG: contig_220000001 (672bp)
+		This contig is unaligned. (672 bp)
+		Unaligned bases: 672 (number of Ns: 0)
+
+CONTIG: contig_221000001 (671bp)
+		This contig is unaligned. (671 bp)
+		Unaligned bases: 671 (number of Ns: 0)
+
+CONTIG: contig_222000001 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_223000001 (668bp)
+		This contig is unaligned. (668 bp)
+		Unaligned bases: 668 (number of Ns: 0)
+
+CONTIG: contig_224000001 (1059bp)
+		This contig is unaligned. (1059 bp)
+		Unaligned bases: 1059 (number of Ns: 0)
+
+CONTIG: contig_225000001 (718bp)
+		This contig is unaligned. (718 bp)
+		Unaligned bases: 718 (number of Ns: 0)
+
+CONTIG: contig_226000001 (873bp)
+		This contig is unaligned. (873 bp)
+		Unaligned bases: 873 (number of Ns: 0)
+
+CONTIG: contig_227000001 (661bp)
+		This contig is unaligned. (661 bp)
+		Unaligned bases: 661 (number of Ns: 0)
+
+CONTIG: contig_228000001 (661bp)
+		This contig is unaligned. (661 bp)
+		Unaligned bases: 661 (number of Ns: 0)
+
+CONTIG: contig_229000001 (661bp)
+		This contig is unaligned. (661 bp)
+		Unaligned bases: 661 (number of Ns: 0)
+
+CONTIG: contig_230000001 (659bp)
+		This contig is unaligned. (659 bp)
+		Unaligned bases: 659 (number of Ns: 0)
+
+CONTIG: contig_231000001 (657bp)
+		This contig is unaligned. (657 bp)
+		Unaligned bases: 657 (number of Ns: 0)
+
+CONTIG: contig_232000001 (656bp)
+		This contig is unaligned. (656 bp)
+		Unaligned bases: 656 (number of Ns: 0)
+
+CONTIG: contig_233000001 (652bp)
+		This contig is unaligned. (652 bp)
+		Unaligned bases: 652 (number of Ns: 0)
+
+CONTIG: contig_234000001 (651bp)
+		This contig is unaligned. (651 bp)
+		Unaligned bases: 651 (number of Ns: 0)
+
+CONTIG: contig_235000001 (650bp)
+		This contig is unaligned. (650 bp)
+		Unaligned bases: 650 (number of Ns: 0)
+
+CONTIG: contig_236000001 (647bp)
+		This contig is unaligned. (647 bp)
+		Unaligned bases: 647 (number of Ns: 0)
+
+CONTIG: contig_237000001 (645bp)
+		This contig is unaligned. (645 bp)
+		Unaligned bases: 645 (number of Ns: 0)
+
+CONTIG: contig_238000001 (645bp)
+		This contig is unaligned. (645 bp)
+		Unaligned bases: 645 (number of Ns: 0)
+
+CONTIG: contig_239000001 (976bp)
+		This contig is unaligned. (976 bp)
+		Unaligned bases: 976 (number of Ns: 0)
+
+CONTIG: contig_240000001 (935bp)
+		This contig is unaligned. (935 bp)
+		Unaligned bases: 935 (number of Ns: 0)
+
+CONTIG: contig_241000001 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_242000001 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_243000001 (636bp)
+		This contig is unaligned. (636 bp)
+		Unaligned bases: 636 (number of Ns: 0)
+
+CONTIG: contig_244000001 (1615bp)
+		This contig is unaligned. (1615 bp)
+		Unaligned bases: 1615 (number of Ns: 0)
+
+CONTIG: contig_245000001 (786bp)
+		This contig is unaligned. (786 bp)
+		Unaligned bases: 786 (number of Ns: 0)
+
+CONTIG: contig_246000001 (633bp)
+		This contig is unaligned. (633 bp)
+		Unaligned bases: 633 (number of Ns: 0)
+
+CONTIG: contig_247000001 (624bp)
+		This contig is unaligned. (624 bp)
+		Unaligned bases: 624 (number of Ns: 0)
+
+CONTIG: contig_248000001 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: contig_249000001 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: contig_250000001 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_251000001 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_252000001 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_253000001 (618bp)
+		This contig is unaligned. (618 bp)
+		Unaligned bases: 618 (number of Ns: 0)
+
+CONTIG: contig_254000001 (617bp)
+		This contig is unaligned. (617 bp)
+		Unaligned bases: 617 (number of Ns: 0)
+
+CONTIG: contig_255000001 (615bp)
+		This contig is unaligned. (615 bp)
+		Unaligned bases: 615 (number of Ns: 0)
+
+CONTIG: contig_256000001 (615bp)
+		This contig is unaligned. (615 bp)
+		Unaligned bases: 615 (number of Ns: 0)
+
+CONTIG: contig_257000001 (613bp)
+		This contig is unaligned. (613 bp)
+		Unaligned bases: 613 (number of Ns: 0)
+
+CONTIG: contig_258000001 (609bp)
+		This contig is unaligned. (609 bp)
+		Unaligned bases: 609 (number of Ns: 0)
+
+CONTIG: contig_259000001 (786bp)
+		This contig is unaligned. (786 bp)
+		Unaligned bases: 786 (number of Ns: 0)
+
+CONTIG: contig_260000001 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_261000001 (741bp)
+		This contig is unaligned. (741 bp)
+		Unaligned bases: 741 (number of Ns: 0)
+
+CONTIG: contig_262000001 (602bp)
+		This contig is unaligned. (602 bp)
+		Unaligned bases: 602 (number of Ns: 0)
+
+CONTIG: contig_263000001 (600bp)
+		This contig is unaligned. (600 bp)
+		Unaligned bases: 600 (number of Ns: 0)
+
+CONTIG: contig_264000001 (597bp)
+		This contig is unaligned. (597 bp)
+		Unaligned bases: 597 (number of Ns: 0)
+
+CONTIG: contig_265000001 (637bp)
+		This contig is unaligned. (637 bp)
+		Unaligned bases: 637 (number of Ns: 0)
+
+CONTIG: contig_266000001 (595bp)
+		This contig is unaligned. (595 bp)
+		Unaligned bases: 595 (number of Ns: 0)
+
+CONTIG: contig_267000001 (595bp)
+		This contig is unaligned. (595 bp)
+		Unaligned bases: 595 (number of Ns: 0)
+
+CONTIG: contig_268000001 (592bp)
+		This contig is unaligned. (592 bp)
+		Unaligned bases: 592 (number of Ns: 0)
+
+CONTIG: contig_269000001 (944bp)
+		This contig is unaligned. (944 bp)
+		Unaligned bases: 944 (number of Ns: 0)
+
+CONTIG: contig_270000001 (1141bp)
+		This contig is unaligned. (1141 bp)
+		Unaligned bases: 1141 (number of Ns: 0)
+
+CONTIG: contig_271000001 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: contig_272000001 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: contig_273000001 (615bp)
+		This contig is unaligned. (615 bp)
+		Unaligned bases: 615 (number of Ns: 0)
+
+CONTIG: contig_274000001 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_275000001 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_276000001 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_277000001 (575bp)
+		This contig is unaligned. (575 bp)
+		Unaligned bases: 575 (number of Ns: 0)
+
+CONTIG: contig_278000001 (571bp)
+		This contig is unaligned. (571 bp)
+		Unaligned bases: 571 (number of Ns: 0)
+
+CONTIG: contig_279000001 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+CONTIG: contig_280000001 (567bp)
+		This contig is unaligned. (567 bp)
+		Unaligned bases: 567 (number of Ns: 0)
+
+CONTIG: contig_281000001 (564bp)
+		This contig is unaligned. (564 bp)
+		Unaligned bases: 564 (number of Ns: 0)
+
+CONTIG: contig_282000001 (563bp)
+		This contig is unaligned. (563 bp)
+		Unaligned bases: 563 (number of Ns: 0)
+
+CONTIG: contig_283000001 (934bp)
+		This contig is unaligned. (934 bp)
+		Unaligned bases: 934 (number of Ns: 0)
+
+CONTIG: contig_284000001 (561bp)
+		This contig is unaligned. (561 bp)
+		Unaligned bases: 561 (number of Ns: 0)
+
+CONTIG: contig_285000001 (1109bp)
+		This contig is unaligned. (1109 bp)
+		Unaligned bases: 1109 (number of Ns: 0)
+
+CONTIG: contig_286000001 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: contig_287000001 (2756bp)
+		This contig is unaligned. (2756 bp)
+		Unaligned bases: 2756 (number of Ns: 0)
+
+CONTIG: contig_288000001 (549bp)
+		This contig is unaligned. (549 bp)
+		Unaligned bases: 549 (number of Ns: 0)
+
+CONTIG: contig_289000001 (1305bp)
+		This contig is unaligned. (1305 bp)
+		Unaligned bases: 1305 (number of Ns: 0)
+
+CONTIG: contig_290000001 (547bp)
+		This contig is unaligned. (547 bp)
+		Unaligned bases: 547 (number of Ns: 0)
+
+CONTIG: contig_291000001 (546bp)
+		This contig is unaligned. (546 bp)
+		Unaligned bases: 546 (number of Ns: 0)
+
+CONTIG: contig_292000001 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: contig_293000001 (541bp)
+		This contig is unaligned. (541 bp)
+		Unaligned bases: 541 (number of Ns: 0)
+
+CONTIG: contig_294000001 (540bp)
+		This contig is unaligned. (540 bp)
+		Unaligned bases: 540 (number of Ns: 0)
+
+CONTIG: contig_295000001 (540bp)
+		This contig is unaligned. (540 bp)
+		Unaligned bases: 540 (number of Ns: 0)
+
+CONTIG: contig_296000001 (560bp)
+		This contig is unaligned. (560 bp)
+		Unaligned bases: 560 (number of Ns: 0)
+
+CONTIG: contig_297000001 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_298000001 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_299000001 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_300000001 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_301000001 (535bp)
+		This contig is unaligned. (535 bp)
+		Unaligned bases: 535 (number of Ns: 0)
+
+CONTIG: contig_302000001 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_303000001 (606bp)
+		This contig is unaligned. (606 bp)
+		Unaligned bases: 606 (number of Ns: 0)
+
+CONTIG: contig_304000001 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_305000001 (532bp)
+		This contig is unaligned. (532 bp)
+		Unaligned bases: 532 (number of Ns: 0)
+
+CONTIG: contig_306000001 (532bp)
+		This contig is unaligned. (532 bp)
+		Unaligned bases: 532 (number of Ns: 0)
+
+CONTIG: contig_307000001 (732bp)
+		This contig is unaligned. (732 bp)
+		Unaligned bases: 732 (number of Ns: 0)
+
+CONTIG: contig_308000001 (531bp)
+		This contig is unaligned. (531 bp)
+		Unaligned bases: 531 (number of Ns: 0)
+
+CONTIG: contig_309000001 (531bp)
+		This contig is unaligned. (531 bp)
+		Unaligned bases: 531 (number of Ns: 0)
+
+CONTIG: contig_310000001 (530bp)
+		This contig is unaligned. (530 bp)
+		Unaligned bases: 530 (number of Ns: 0)
+
+CONTIG: contig_311000001 (649bp)
+		This contig is unaligned. (649 bp)
+		Unaligned bases: 649 (number of Ns: 0)
+
+CONTIG: contig_312000001 (526bp)
+		This contig is unaligned. (526 bp)
+		Unaligned bases: 526 (number of Ns: 0)
+
+CONTIG: contig_313000001 (524bp)
+		This contig is unaligned. (524 bp)
+		Unaligned bases: 524 (number of Ns: 0)
+
+CONTIG: contig_314000001 (1182bp)
+		This contig is unaligned. (1182 bp)
+		Unaligned bases: 1182 (number of Ns: 0)
+
+CONTIG: contig_315000001 (522bp)
+		This contig is unaligned. (522 bp)
+		Unaligned bases: 522 (number of Ns: 0)
+
+CONTIG: contig_316000001 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_317000001 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_318000001 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_319000001 (617bp)
+		This contig is unaligned. (617 bp)
+		Unaligned bases: 617 (number of Ns: 0)
+
+CONTIG: contig_320000001 (2315bp)
+		This contig is unaligned. (2315 bp)
+		Unaligned bases: 2315 (number of Ns: 0)
+
+CONTIG: contig_321000001 (515bp)
+		This contig is unaligned. (515 bp)
+		Unaligned bases: 515 (number of Ns: 0)
+
+CONTIG: contig_322000001 (515bp)
+		This contig is unaligned. (515 bp)
+		Unaligned bases: 515 (number of Ns: 0)
+
+CONTIG: contig_323000001 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_324000001 (510bp)
+		This contig is unaligned. (510 bp)
+		Unaligned bases: 510 (number of Ns: 0)
+
+CONTIG: contig_325000001 (552bp)
+		This contig is unaligned. (552 bp)
+		Unaligned bases: 552 (number of Ns: 0)
+
+CONTIG: contig_326000001 (508bp)
+		This contig is unaligned. (508 bp)
+		Unaligned bases: 508 (number of Ns: 0)
+
+CONTIG: contig_327000001 (544bp)
+		This contig is unaligned. (544 bp)
+		Unaligned bases: 544 (number of Ns: 0)
+
+CONTIG: contig_328000001 (507bp)
+		This contig is unaligned. (507 bp)
+		Unaligned bases: 507 (number of Ns: 0)
+
+CONTIG: contig_329000001 (504bp)
+		This contig is unaligned. (504 bp)
+		Unaligned bases: 504 (number of Ns: 0)
+
+CONTIG: contig_330000001 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: contig_331000001 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: contig_332000001 (530bp)
+		This contig is unaligned. (530 bp)
+		Unaligned bases: 530 (number of Ns: 0)
+
+CONTIG: contig_336000001 (707bp)
+		This contig is unaligned. (707 bp)
+		Unaligned bases: 707 (number of Ns: 0)
+
+CONTIG: contig_340000001 (590bp)
+		This contig is unaligned. (590 bp)
+		Unaligned bases: 590 (number of Ns: 0)
+
+CONTIG: contig_350000001 (522bp)
+		This contig is unaligned. (522 bp)
+		Unaligned bases: 522 (number of Ns: 0)
+
+CONTIG: contig_353000001 (684bp)
+		This contig is unaligned. (684 bp)
+		Unaligned bases: 684 (number of Ns: 0)
+
+CONTIG: contig_364000001 (811bp)
+		This contig is unaligned. (811 bp)
+		Unaligned bases: 811 (number of Ns: 0)
+
+CONTIG: contig_373000001 (1190bp)
+		This contig is unaligned. (1190 bp)
+		Unaligned bases: 1190 (number of Ns: 0)
+
+CONTIG: contig_383000001 (2284bp)
+		This contig is unaligned. (2284 bp)
+		Unaligned bases: 2284 (number of Ns: 0)
+
+CONTIG: contig_393000001 (1265bp)
+		This contig is unaligned. (1265 bp)
+		Unaligned bases: 1265 (number of Ns: 0)
+
+CONTIG: contig_395000001 (689bp)
+		This contig is unaligned. (689 bp)
+		Unaligned bases: 689 (number of Ns: 0)
+
+CONTIG: contig_399000001 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_427000001 (618bp)
+		This contig is unaligned. (618 bp)
+		Unaligned bases: 618 (number of Ns: 0)
+
+CONTIG: contig_435000001 (753bp)
+		This contig is unaligned. (753 bp)
+		Unaligned bases: 753 (number of Ns: 0)
+
+CONTIG: contig_440000001 (747bp)
+		This contig is unaligned. (747 bp)
+		Unaligned bases: 747 (number of Ns: 0)
+
+CONTIG: contig_446000001 (748bp)
+		This contig is unaligned. (748 bp)
+		Unaligned bases: 748 (number of Ns: 0)
+
+CONTIG: contig_475000001 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_486000001 (580bp)
+		This contig is unaligned. (580 bp)
+		Unaligned bases: 580 (number of Ns: 0)
+
+CONTIG: contig_487000001 (779bp)
+		This contig is unaligned. (779 bp)
+		Unaligned bases: 779 (number of Ns: 0)
+
+CONTIG: contig_493000001 (667bp)
+		This contig is unaligned. (667 bp)
+		Unaligned bases: 667 (number of Ns: 0)
+
+CONTIG: contig_510000001 (636bp)
+		This contig is unaligned. (636 bp)
+		Unaligned bases: 636 (number of Ns: 0)
+
+CONTIG: contig_523000001 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_556000001 (1118bp)
+		This contig is unaligned. (1118 bp)
+		Unaligned bases: 1118 (number of Ns: 0)
+
+CONTIG: contig_563000001 (944bp)
+		This contig is unaligned. (944 bp)
+		Unaligned bases: 944 (number of Ns: 0)
+
+CONTIG: contig_573000001 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_583000001 (715bp)
+		This contig is unaligned. (715 bp)
+		Unaligned bases: 715 (number of Ns: 0)
+
+CONTIG: contig_620000001 (541bp)
+		This contig is unaligned. (541 bp)
+		Unaligned bases: 541 (number of Ns: 0)
+
+CONTIG: contig_637000001 (591bp)
+		This contig is unaligned. (591 bp)
+		Unaligned bases: 591 (number of Ns: 0)
+
+CONTIG: contig_660000001 (607bp)
+		This contig is unaligned. (607 bp)
+		Unaligned bases: 607 (number of Ns: 0)
+
+CONTIG: contig_695000001 (690bp)
+		This contig is unaligned. (690 bp)
+		Unaligned bases: 690 (number of Ns: 0)
+
+CONTIG: contig_773000001 (661bp)
+		This contig is unaligned. (661 bp)
+		Unaligned bases: 661 (number of Ns: 0)
+
+CONTIG: contig_812000001 (558bp)
+		This contig is unaligned. (558 bp)
+		Unaligned bases: 558 (number of Ns: 0)
+
+CONTIG: contig_894000001 (1002bp)
+		This contig is unaligned. (1002 bp)
+		Unaligned bases: 1002 (number of Ns: 0)
+
+CONTIG: contig_932000001 (942bp)
+		This contig is unaligned. (942 bp)
+		Unaligned bases: 942 (number of Ns: 0)
+
+CONTIG: contig_938000001 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: contig_971000001 (1197bp)
+		This contig is unaligned. (1197 bp)
+		Unaligned bases: 1197 (number of Ns: 0)
+
+CONTIG: contig_1068000001 (11238bp)
+		This contig is unaligned. (11238 bp)
+		Unaligned bases: 11238 (number of Ns: 0)
+
+CONTIG: contig_2 (5290bp)
+		This contig is unaligned. (5290 bp)
+		Unaligned bases: 5290 (number of Ns: 0)
+
+CONTIG: contig_1000002 (3252bp)
+		This contig is unaligned. (3252 bp)
+		Unaligned bases: 3252 (number of Ns: 0)
+
+CONTIG: contig_2000002 (2979bp)
+		This contig is unaligned. (2979 bp)
+		Unaligned bases: 2979 (number of Ns: 0)
+
+CONTIG: contig_3000002 (3012bp)
+		This contig is unaligned. (3012 bp)
+		Unaligned bases: 3012 (number of Ns: 0)
+
+CONTIG: contig_4000002 (2805bp)
+		This contig is unaligned. (2805 bp)
+		Unaligned bases: 2805 (number of Ns: 0)
+
+CONTIG: contig_5000002 (3417bp)
+		This contig is unaligned. (3417 bp)
+		Unaligned bases: 3417 (number of Ns: 0)
+
+CONTIG: contig_6000002 (2712bp)
+		This contig is unaligned. (2712 bp)
+		Unaligned bases: 2712 (number of Ns: 0)
+
+CONTIG: contig_7000002 (3809bp)
+		This contig is unaligned. (3809 bp)
+		Unaligned bases: 3809 (number of Ns: 0)
+
+CONTIG: contig_8000002 (6507bp)
+		This contig is unaligned. (6507 bp)
+		Unaligned bases: 6507 (number of Ns: 0)
+
+CONTIG: contig_9000002 (2632bp)
+		This contig is unaligned. (2632 bp)
+		Unaligned bases: 2632 (number of Ns: 0)
+
+CONTIG: contig_10000002 (2445bp)
+		This contig is unaligned. (2445 bp)
+		Unaligned bases: 2445 (number of Ns: 0)
+
+CONTIG: contig_11000002 (3394bp)
+		This contig is unaligned. (3394 bp)
+		Unaligned bases: 3394 (number of Ns: 0)
+
+CONTIG: contig_12000002 (2310bp)
+		This contig is unaligned. (2310 bp)
+		Unaligned bases: 2310 (number of Ns: 0)
+
+CONTIG: contig_13000002 (2471bp)
+		This contig is unaligned. (2471 bp)
+		Unaligned bases: 2471 (number of Ns: 0)
+
+CONTIG: contig_14000002 (2226bp)
+		This contig is unaligned. (2226 bp)
+		Unaligned bases: 2226 (number of Ns: 0)
+
+CONTIG: contig_15000002 (2216bp)
+		This contig is unaligned. (2216 bp)
+		Unaligned bases: 2216 (number of Ns: 0)
+
+CONTIG: contig_16000002 (1970bp)
+		This contig is unaligned. (1970 bp)
+		Unaligned bases: 1970 (number of Ns: 0)
+
+CONTIG: contig_17000002 (1945bp)
+		This contig is unaligned. (1945 bp)
+		Unaligned bases: 1945 (number of Ns: 0)
+
+CONTIG: contig_18000002 (1871bp)
+		This contig is unaligned. (1871 bp)
+		Unaligned bases: 1871 (number of Ns: 0)
+
+CONTIG: contig_19000002 (2161bp)
+		This contig is unaligned. (2161 bp)
+		Unaligned bases: 2161 (number of Ns: 0)
+
+CONTIG: contig_20000002 (1910bp)
+		This contig is unaligned. (1910 bp)
+		Unaligned bases: 1910 (number of Ns: 0)
+
+CONTIG: contig_21000002 (1827bp)
+		This contig is unaligned. (1827 bp)
+		Unaligned bases: 1827 (number of Ns: 0)
+
+CONTIG: contig_22000002 (1760bp)
+		This contig is unaligned. (1760 bp)
+		Unaligned bases: 1760 (number of Ns: 0)
+
+CONTIG: contig_23000002 (1755bp)
+		This contig is unaligned. (1755 bp)
+		Unaligned bases: 1755 (number of Ns: 0)
+
+CONTIG: contig_24000002 (3036bp)
+		This contig is unaligned. (3036 bp)
+		Unaligned bases: 3036 (number of Ns: 0)
+
+CONTIG: contig_25000002 (1723bp)
+		This contig is unaligned. (1723 bp)
+		Unaligned bases: 1723 (number of Ns: 0)
+
+CONTIG: contig_26000002 (2363bp)
+		This contig is unaligned. (2363 bp)
+		Unaligned bases: 2363 (number of Ns: 0)
+
+CONTIG: contig_27000002 (2119bp)
+		This contig is unaligned. (2119 bp)
+		Unaligned bases: 2119 (number of Ns: 0)
+
+CONTIG: contig_28000002 (1661bp)
+		This contig is unaligned. (1661 bp)
+		Unaligned bases: 1661 (number of Ns: 0)
+
+CONTIG: contig_29000002 (2076bp)
+		This contig is unaligned. (2076 bp)
+		Unaligned bases: 2076 (number of Ns: 0)
+
+CONTIG: contig_30000002 (1643bp)
+		This contig is unaligned. (1643 bp)
+		Unaligned bases: 1643 (number of Ns: 0)
+
+CONTIG: contig_31000002 (1695bp)
+		This contig is unaligned. (1695 bp)
+		Unaligned bases: 1695 (number of Ns: 0)
+
+CONTIG: contig_32000002 (1620bp)
+		This contig is unaligned. (1620 bp)
+		Unaligned bases: 1620 (number of Ns: 0)
+
+CONTIG: contig_33000002 (1599bp)
+		This contig is unaligned. (1599 bp)
+		Unaligned bases: 1599 (number of Ns: 0)
+
+CONTIG: contig_34000002 (1597bp)
+		This contig is unaligned. (1597 bp)
+		Unaligned bases: 1597 (number of Ns: 0)
+
+CONTIG: contig_35000002 (1576bp)
+		This contig is unaligned. (1576 bp)
+		Unaligned bases: 1576 (number of Ns: 0)
+
+CONTIG: contig_36000002 (1571bp)
+		This contig is unaligned. (1571 bp)
+		Unaligned bases: 1571 (number of Ns: 0)
+
+CONTIG: contig_37000002 (1571bp)
+		This contig is unaligned. (1571 bp)
+		Unaligned bases: 1571 (number of Ns: 0)
+
+CONTIG: contig_38000002 (2294bp)
+		This contig is unaligned. (2294 bp)
+		Unaligned bases: 2294 (number of Ns: 0)
+
+CONTIG: contig_39000002 (1661bp)
+		This contig is unaligned. (1661 bp)
+		Unaligned bases: 1661 (number of Ns: 0)
+
+CONTIG: contig_40000002 (1787bp)
+		This contig is unaligned. (1787 bp)
+		Unaligned bases: 1787 (number of Ns: 0)
+
+CONTIG: contig_41000002 (1700bp)
+		This contig is unaligned. (1700 bp)
+		Unaligned bases: 1700 (number of Ns: 0)
+
+CONTIG: contig_42000002 (1464bp)
+		This contig is unaligned. (1464 bp)
+		Unaligned bases: 1464 (number of Ns: 0)
+
+CONTIG: contig_43000002 (1554bp)
+		This contig is unaligned. (1554 bp)
+		Unaligned bases: 1554 (number of Ns: 0)
+
+CONTIG: contig_44000002 (1797bp)
+		This contig is unaligned. (1797 bp)
+		Unaligned bases: 1797 (number of Ns: 0)
+
+CONTIG: contig_45000002 (1469bp)
+		This contig is unaligned. (1469 bp)
+		Unaligned bases: 1469 (number of Ns: 0)
+
+CONTIG: contig_46000002 (1681bp)
+		This contig is unaligned. (1681 bp)
+		Unaligned bases: 1681 (number of Ns: 0)
+
+CONTIG: contig_47000002 (1370bp)
+		This contig is unaligned. (1370 bp)
+		Unaligned bases: 1370 (number of Ns: 0)
+
+CONTIG: contig_48000002 (1338bp)
+		This contig is unaligned. (1338 bp)
+		Unaligned bases: 1338 (number of Ns: 0)
+
+CONTIG: contig_49000002 (1763bp)
+		This contig is unaligned. (1763 bp)
+		Unaligned bases: 1763 (number of Ns: 0)
+
+CONTIG: contig_50000002 (1329bp)
+		This contig is unaligned. (1329 bp)
+		Unaligned bases: 1329 (number of Ns: 0)
+
+CONTIG: contig_51000002 (1307bp)
+		This contig is unaligned. (1307 bp)
+		Unaligned bases: 1307 (number of Ns: 0)
+
+CONTIG: contig_52000002 (1340bp)
+		This contig is unaligned. (1340 bp)
+		Unaligned bases: 1340 (number of Ns: 0)
+
+CONTIG: contig_53000002 (1572bp)
+		This contig is unaligned. (1572 bp)
+		Unaligned bases: 1572 (number of Ns: 0)
+
+CONTIG: contig_54000002 (1294bp)
+		This contig is unaligned. (1294 bp)
+		Unaligned bases: 1294 (number of Ns: 0)
+
+CONTIG: contig_55000002 (1386bp)
+		This contig is unaligned. (1386 bp)
+		Unaligned bases: 1386 (number of Ns: 0)
+
+CONTIG: contig_56000002 (1264bp)
+		This contig is unaligned. (1264 bp)
+		Unaligned bases: 1264 (number of Ns: 0)
+
+CONTIG: contig_57000002 (1257bp)
+		This contig is unaligned. (1257 bp)
+		Unaligned bases: 1257 (number of Ns: 0)
+
+CONTIG: contig_58000002 (1269bp)
+		This contig is unaligned. (1269 bp)
+		Unaligned bases: 1269 (number of Ns: 0)
+
+CONTIG: contig_59000002 (1203bp)
+		This contig is unaligned. (1203 bp)
+		Unaligned bases: 1203 (number of Ns: 0)
+
+CONTIG: contig_60000002 (1199bp)
+		This contig is unaligned. (1199 bp)
+		Unaligned bases: 1199 (number of Ns: 0)
+
+CONTIG: contig_61000002 (1194bp)
+		This contig is unaligned. (1194 bp)
+		Unaligned bases: 1194 (number of Ns: 0)
+
+CONTIG: contig_62000002 (1192bp)
+		This contig is unaligned. (1192 bp)
+		Unaligned bases: 1192 (number of Ns: 0)
+
+CONTIG: contig_63000002 (1192bp)
+		This contig is unaligned. (1192 bp)
+		Unaligned bases: 1192 (number of Ns: 0)
+
+CONTIG: contig_64000002 (1998bp)
+		This contig is unaligned. (1998 bp)
+		Unaligned bases: 1998 (number of Ns: 0)
+
+CONTIG: contig_65000002 (1182bp)
+		This contig is unaligned. (1182 bp)
+		Unaligned bases: 1182 (number of Ns: 0)
+
+CONTIG: contig_66000002 (1180bp)
+		This contig is unaligned. (1180 bp)
+		Unaligned bases: 1180 (number of Ns: 0)
+
+CONTIG: contig_67000002 (1415bp)
+		This contig is unaligned. (1415 bp)
+		Unaligned bases: 1415 (number of Ns: 0)
+
+CONTIG: contig_68000002 (1210bp)
+		This contig is unaligned. (1210 bp)
+		Unaligned bases: 1210 (number of Ns: 0)
+
+CONTIG: contig_69000002 (1156bp)
+		This contig is unaligned. (1156 bp)
+		Unaligned bases: 1156 (number of Ns: 0)
+
+CONTIG: contig_70000002 (1155bp)
+		This contig is unaligned. (1155 bp)
+		Unaligned bases: 1155 (number of Ns: 0)
+
+CONTIG: contig_71000002 (1225bp)
+		This contig is unaligned. (1225 bp)
+		Unaligned bases: 1225 (number of Ns: 0)
+
+CONTIG: contig_72000002 (1418bp)
+		This contig is unaligned. (1418 bp)
+		Unaligned bases: 1418 (number of Ns: 0)
+
+CONTIG: contig_73000002 (1369bp)
+		This contig is unaligned. (1369 bp)
+		Unaligned bases: 1369 (number of Ns: 0)
+
+CONTIG: contig_74000002 (1119bp)
+		This contig is unaligned. (1119 bp)
+		Unaligned bases: 1119 (number of Ns: 0)
+
+CONTIG: contig_75000002 (1615bp)
+		This contig is unaligned. (1615 bp)
+		Unaligned bases: 1615 (number of Ns: 0)
+
+CONTIG: contig_76000002 (1105bp)
+		This contig is unaligned. (1105 bp)
+		Unaligned bases: 1105 (number of Ns: 0)
+
+CONTIG: contig_77000002 (1156bp)
+		This contig is unaligned. (1156 bp)
+		Unaligned bases: 1156 (number of Ns: 0)
+
+CONTIG: contig_78000002 (1077bp)
+		This contig is unaligned. (1077 bp)
+		Unaligned bases: 1077 (number of Ns: 0)
+
+CONTIG: contig_79000002 (1071bp)
+		This contig is unaligned. (1071 bp)
+		Unaligned bases: 1071 (number of Ns: 0)
+
+CONTIG: contig_80000002 (1069bp)
+		This contig is unaligned. (1069 bp)
+		Unaligned bases: 1069 (number of Ns: 0)
+
+CONTIG: contig_81000002 (1043bp)
+		This contig is unaligned. (1043 bp)
+		Unaligned bases: 1043 (number of Ns: 0)
+
+CONTIG: contig_82000002 (1030bp)
+		This contig is unaligned. (1030 bp)
+		Unaligned bases: 1030 (number of Ns: 0)
+
+CONTIG: contig_83000002 (1026bp)
+		This contig is unaligned. (1026 bp)
+		Unaligned bases: 1026 (number of Ns: 0)
+
+CONTIG: contig_84000002 (1024bp)
+		This contig is unaligned. (1024 bp)
+		Unaligned bases: 1024 (number of Ns: 0)
+
+CONTIG: contig_85000002 (1099bp)
+		This contig is unaligned. (1099 bp)
+		Unaligned bases: 1099 (number of Ns: 0)
+
+CONTIG: contig_86000002 (1225bp)
+		This contig is unaligned. (1225 bp)
+		Unaligned bases: 1225 (number of Ns: 0)
+
+CONTIG: contig_87000002 (1022bp)
+		This contig is unaligned. (1022 bp)
+		Unaligned bases: 1022 (number of Ns: 0)
+
+CONTIG: contig_88000002 (1039bp)
+		This contig is unaligned. (1039 bp)
+		Unaligned bases: 1039 (number of Ns: 0)
+
+CONTIG: contig_89000002 (1318bp)
+		This contig is unaligned. (1318 bp)
+		Unaligned bases: 1318 (number of Ns: 0)
+
+CONTIG: contig_90000002 (1184bp)
+		This contig is unaligned. (1184 bp)
+		Unaligned bases: 1184 (number of Ns: 0)
+
+CONTIG: contig_91000002 (1008bp)
+		This contig is unaligned. (1008 bp)
+		Unaligned bases: 1008 (number of Ns: 0)
+
+CONTIG: contig_92000002 (1022bp)
+		This contig is unaligned. (1022 bp)
+		Unaligned bases: 1022 (number of Ns: 0)
+
+CONTIG: contig_93000002 (992bp)
+		This contig is unaligned. (992 bp)
+		Unaligned bases: 992 (number of Ns: 0)
+
+CONTIG: contig_94000002 (991bp)
+		This contig is unaligned. (991 bp)
+		Unaligned bases: 991 (number of Ns: 0)
+
+CONTIG: contig_95000002 (990bp)
+		This contig is unaligned. (990 bp)
+		Unaligned bases: 990 (number of Ns: 0)
+
+CONTIG: contig_96000002 (1321bp)
+		This contig is unaligned. (1321 bp)
+		Unaligned bases: 1321 (number of Ns: 0)
+
+CONTIG: contig_97000002 (985bp)
+		This contig is unaligned. (985 bp)
+		Unaligned bases: 985 (number of Ns: 0)
+
+CONTIG: contig_98000002 (981bp)
+		This contig is unaligned. (981 bp)
+		Unaligned bases: 981 (number of Ns: 0)
+
+CONTIG: contig_99000002 (978bp)
+		This contig is unaligned. (978 bp)
+		Unaligned bases: 978 (number of Ns: 0)
+
+CONTIG: contig_100000002 (975bp)
+		This contig is unaligned. (975 bp)
+		Unaligned bases: 975 (number of Ns: 0)
+
+CONTIG: contig_101000002 (973bp)
+		This contig is unaligned. (973 bp)
+		Unaligned bases: 973 (number of Ns: 0)
+
+CONTIG: contig_102000002 (973bp)
+		This contig is unaligned. (973 bp)
+		Unaligned bases: 973 (number of Ns: 0)
+
+CONTIG: contig_103000002 (969bp)
+		This contig is unaligned. (969 bp)
+		Unaligned bases: 969 (number of Ns: 0)
+
+CONTIG: contig_104000002 (968bp)
+		This contig is unaligned. (968 bp)
+		Unaligned bases: 968 (number of Ns: 0)
+
+CONTIG: contig_105000002 (968bp)
+		This contig is unaligned. (968 bp)
+		Unaligned bases: 968 (number of Ns: 0)
+
+CONTIG: contig_106000002 (966bp)
+		This contig is unaligned. (966 bp)
+		Unaligned bases: 966 (number of Ns: 0)
+
+CONTIG: contig_107000002 (965bp)
+		This contig is unaligned. (965 bp)
+		Unaligned bases: 965 (number of Ns: 0)
+
+CONTIG: contig_108000002 (943bp)
+		This contig is unaligned. (943 bp)
+		Unaligned bases: 943 (number of Ns: 0)
+
+CONTIG: contig_109000002 (935bp)
+		This contig is unaligned. (935 bp)
+		Unaligned bases: 935 (number of Ns: 0)
+
+CONTIG: contig_110000002 (934bp)
+		This contig is unaligned. (934 bp)
+		Unaligned bases: 934 (number of Ns: 0)
+
+CONTIG: contig_111000002 (933bp)
+		This contig is unaligned. (933 bp)
+		Unaligned bases: 933 (number of Ns: 0)
+
+CONTIG: contig_112000002 (1421bp)
+		This contig is unaligned. (1421 bp)
+		Unaligned bases: 1421 (number of Ns: 0)
+
+CONTIG: contig_113000002 (929bp)
+		This contig is unaligned. (929 bp)
+		Unaligned bases: 929 (number of Ns: 0)
+
+CONTIG: contig_114000002 (937bp)
+		This contig is unaligned. (937 bp)
+		Unaligned bases: 937 (number of Ns: 0)
+
+CONTIG: contig_115000002 (1464bp)
+		This contig is unaligned. (1464 bp)
+		Unaligned bases: 1464 (number of Ns: 0)
+
+CONTIG: contig_116000002 (917bp)
+		This contig is unaligned. (917 bp)
+		Unaligned bases: 917 (number of Ns: 0)
+
+CONTIG: contig_117000002 (902bp)
+		This contig is unaligned. (902 bp)
+		Unaligned bases: 902 (number of Ns: 0)
+
+CONTIG: contig_118000002 (906bp)
+		This contig is unaligned. (906 bp)
+		Unaligned bases: 906 (number of Ns: 0)
+
+CONTIG: contig_119000002 (896bp)
+		This contig is unaligned. (896 bp)
+		Unaligned bases: 896 (number of Ns: 0)
+
+CONTIG: contig_120000002 (1074bp)
+		This contig is unaligned. (1074 bp)
+		Unaligned bases: 1074 (number of Ns: 0)
+
+CONTIG: contig_121000002 (889bp)
+		This contig is unaligned. (889 bp)
+		Unaligned bases: 889 (number of Ns: 0)
+
+CONTIG: contig_122000002 (883bp)
+		This contig is unaligned. (883 bp)
+		Unaligned bases: 883 (number of Ns: 0)
+
+CONTIG: contig_123000002 (927bp)
+		This contig is unaligned. (927 bp)
+		Unaligned bases: 927 (number of Ns: 0)
+
+CONTIG: contig_124000002 (880bp)
+		This contig is unaligned. (880 bp)
+		Unaligned bases: 880 (number of Ns: 0)
+
+CONTIG: contig_125000002 (879bp)
+		This contig is unaligned. (879 bp)
+		Unaligned bases: 879 (number of Ns: 0)
+
+CONTIG: contig_126000002 (898bp)
+		This contig is unaligned. (898 bp)
+		Unaligned bases: 898 (number of Ns: 0)
+
+CONTIG: contig_127000002 (1026bp)
+		This contig is unaligned. (1026 bp)
+		Unaligned bases: 1026 (number of Ns: 0)
+
+CONTIG: contig_128000002 (876bp)
+		This contig is unaligned. (876 bp)
+		Unaligned bases: 876 (number of Ns: 0)
+
+CONTIG: contig_129000002 (876bp)
+		This contig is unaligned. (876 bp)
+		Unaligned bases: 876 (number of Ns: 0)
+
+CONTIG: contig_130000002 (876bp)
+		This contig is unaligned. (876 bp)
+		Unaligned bases: 876 (number of Ns: 0)
+
+CONTIG: contig_131000002 (940bp)
+		This contig is unaligned. (940 bp)
+		Unaligned bases: 940 (number of Ns: 0)
+
+CONTIG: contig_132000002 (873bp)
+		This contig is unaligned. (873 bp)
+		Unaligned bases: 873 (number of Ns: 0)
+
+CONTIG: contig_133000002 (868bp)
+		This contig is unaligned. (868 bp)
+		Unaligned bases: 868 (number of Ns: 0)
+
+CONTIG: contig_134000002 (868bp)
+		This contig is unaligned. (868 bp)
+		Unaligned bases: 868 (number of Ns: 0)
+
+CONTIG: contig_135000002 (1414bp)
+		This contig is unaligned. (1414 bp)
+		Unaligned bases: 1414 (number of Ns: 0)
+
+CONTIG: contig_136000002 (1000bp)
+		This contig is unaligned. (1000 bp)
+		Unaligned bases: 1000 (number of Ns: 0)
+
+CONTIG: contig_137000002 (859bp)
+		This contig is unaligned. (859 bp)
+		Unaligned bases: 859 (number of Ns: 0)
+
+CONTIG: contig_138000002 (860bp)
+		This contig is unaligned. (860 bp)
+		Unaligned bases: 860 (number of Ns: 0)
+
+CONTIG: contig_139000002 (1042bp)
+		This contig is unaligned. (1042 bp)
+		Unaligned bases: 1042 (number of Ns: 0)
+
+CONTIG: contig_140000002 (851bp)
+		This contig is unaligned. (851 bp)
+		Unaligned bases: 851 (number of Ns: 0)
+
+CONTIG: contig_141000002 (861bp)
+		This contig is unaligned. (861 bp)
+		Unaligned bases: 861 (number of Ns: 0)
+
+CONTIG: contig_142000002 (926bp)
+		This contig is unaligned. (926 bp)
+		Unaligned bases: 926 (number of Ns: 0)
+
+CONTIG: contig_143000002 (1843bp)
+		This contig is unaligned. (1843 bp)
+		Unaligned bases: 1843 (number of Ns: 0)
+
+CONTIG: contig_144000002 (1089bp)
+		This contig is unaligned. (1089 bp)
+		Unaligned bases: 1089 (number of Ns: 0)
+
+CONTIG: contig_145000002 (840bp)
+		This contig is unaligned. (840 bp)
+		Unaligned bases: 840 (number of Ns: 0)
+
+CONTIG: contig_146000002 (834bp)
+		This contig is unaligned. (834 bp)
+		Unaligned bases: 834 (number of Ns: 0)
+
+CONTIG: contig_147000002 (834bp)
+		This contig is unaligned. (834 bp)
+		Unaligned bases: 834 (number of Ns: 0)
+
+CONTIG: contig_148000002 (827bp)
+		This contig is unaligned. (827 bp)
+		Unaligned bases: 827 (number of Ns: 0)
+
+CONTIG: contig_149000002 (829bp)
+		This contig is unaligned. (829 bp)
+		Unaligned bases: 829 (number of Ns: 0)
+
+CONTIG: contig_150000002 (826bp)
+		This contig is unaligned. (826 bp)
+		Unaligned bases: 826 (number of Ns: 0)
+
+CONTIG: contig_151000002 (866bp)
+		This contig is unaligned. (866 bp)
+		Unaligned bases: 866 (number of Ns: 0)
+
+CONTIG: contig_152000002 (1108bp)
+		This contig is unaligned. (1108 bp)
+		Unaligned bases: 1108 (number of Ns: 0)
+
+CONTIG: contig_153000002 (848bp)
+		This contig is unaligned. (848 bp)
+		Unaligned bases: 848 (number of Ns: 0)
+
+CONTIG: contig_154000002 (817bp)
+		This contig is unaligned. (817 bp)
+		Unaligned bases: 817 (number of Ns: 0)
+
+CONTIG: contig_155000002 (1243bp)
+		This contig is unaligned. (1243 bp)
+		Unaligned bases: 1243 (number of Ns: 0)
+
+CONTIG: contig_156000002 (812bp)
+		This contig is unaligned. (812 bp)
+		Unaligned bases: 812 (number of Ns: 0)
+
+CONTIG: contig_157000002 (821bp)
+		This contig is unaligned. (821 bp)
+		Unaligned bases: 821 (number of Ns: 0)
+
+CONTIG: contig_158000002 (811bp)
+		This contig is unaligned. (811 bp)
+		Unaligned bases: 811 (number of Ns: 0)
+
+CONTIG: contig_159000002 (803bp)
+		This contig is unaligned. (803 bp)
+		Unaligned bases: 803 (number of Ns: 0)
+
+CONTIG: contig_160000002 (801bp)
+		This contig is unaligned. (801 bp)
+		Unaligned bases: 801 (number of Ns: 0)
+
+CONTIG: contig_161000002 (801bp)
+		This contig is unaligned. (801 bp)
+		Unaligned bases: 801 (number of Ns: 0)
+
+CONTIG: contig_162000002 (794bp)
+		This contig is unaligned. (794 bp)
+		Unaligned bases: 794 (number of Ns: 0)
+
+CONTIG: contig_163000002 (790bp)
+		This contig is unaligned. (790 bp)
+		Unaligned bases: 790 (number of Ns: 0)
+
+CONTIG: contig_164000002 (786bp)
+		This contig is unaligned. (786 bp)
+		Unaligned bases: 786 (number of Ns: 0)
+
+CONTIG: contig_165000002 (782bp)
+		This contig is unaligned. (782 bp)
+		Unaligned bases: 782 (number of Ns: 0)
+
+CONTIG: contig_166000002 (780bp)
+		This contig is unaligned. (780 bp)
+		Unaligned bases: 780 (number of Ns: 0)
+
+CONTIG: contig_167000002 (779bp)
+		This contig is unaligned. (779 bp)
+		Unaligned bases: 779 (number of Ns: 0)
+
+CONTIG: contig_168000002 (782bp)
+		This contig is unaligned. (782 bp)
+		Unaligned bases: 782 (number of Ns: 0)
+
+CONTIG: contig_169000002 (777bp)
+		This contig is unaligned. (777 bp)
+		Unaligned bases: 777 (number of Ns: 0)
+
+CONTIG: contig_170000002 (776bp)
+		This contig is unaligned. (776 bp)
+		Unaligned bases: 776 (number of Ns: 0)
+
+CONTIG: contig_171000002 (802bp)
+		This contig is unaligned. (802 bp)
+		Unaligned bases: 802 (number of Ns: 0)
+
+CONTIG: contig_172000002 (775bp)
+		This contig is unaligned. (775 bp)
+		Unaligned bases: 775 (number of Ns: 0)
+
+CONTIG: contig_173000002 (932bp)
+		This contig is unaligned. (932 bp)
+		Unaligned bases: 932 (number of Ns: 0)
+
+CONTIG: contig_174000002 (771bp)
+		This contig is unaligned. (771 bp)
+		Unaligned bases: 771 (number of Ns: 0)
+
+CONTIG: contig_175000002 (764bp)
+		This contig is unaligned. (764 bp)
+		Unaligned bases: 764 (number of Ns: 0)
+
+CONTIG: contig_176000002 (758bp)
+		This contig is unaligned. (758 bp)
+		Unaligned bases: 758 (number of Ns: 0)
+
+CONTIG: contig_177000002 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_178000002 (1003bp)
+		This contig is unaligned. (1003 bp)
+		Unaligned bases: 1003 (number of Ns: 0)
+
+CONTIG: contig_179000002 (862bp)
+		This contig is unaligned. (862 bp)
+		Unaligned bases: 862 (number of Ns: 0)
+
+CONTIG: contig_180000002 (755bp)
+		This contig is unaligned. (755 bp)
+		Unaligned bases: 755 (number of Ns: 0)
+
+CONTIG: contig_181000002 (754bp)
+		This contig is unaligned. (754 bp)
+		Unaligned bases: 754 (number of Ns: 0)
+
+CONTIG: contig_182000002 (753bp)
+		This contig is unaligned. (753 bp)
+		Unaligned bases: 753 (number of Ns: 0)
+
+CONTIG: contig_183000002 (752bp)
+		This contig is unaligned. (752 bp)
+		Unaligned bases: 752 (number of Ns: 0)
+
+CONTIG: contig_184000002 (749bp)
+		This contig is unaligned. (749 bp)
+		Unaligned bases: 749 (number of Ns: 0)
+
+CONTIG: contig_185000002 (864bp)
+		This contig is unaligned. (864 bp)
+		Unaligned bases: 864 (number of Ns: 0)
+
+CONTIG: contig_186000002 (741bp)
+		This contig is unaligned. (741 bp)
+		Unaligned bases: 741 (number of Ns: 0)
+
+CONTIG: contig_187000002 (987bp)
+		This contig is unaligned. (987 bp)
+		Unaligned bases: 987 (number of Ns: 0)
+
+CONTIG: contig_188000002 (729bp)
+		This contig is unaligned. (729 bp)
+		Unaligned bases: 729 (number of Ns: 0)
+
+CONTIG: contig_189000002 (749bp)
+		This contig is unaligned. (749 bp)
+		Unaligned bases: 749 (number of Ns: 0)
+
+CONTIG: contig_190000002 (1129bp)
+		This contig is unaligned. (1129 bp)
+		Unaligned bases: 1129 (number of Ns: 0)
+
+CONTIG: contig_191000002 (759bp)
+		This contig is unaligned. (759 bp)
+		Unaligned bases: 759 (number of Ns: 0)
+
+CONTIG: contig_192000002 (736bp)
+		This contig is unaligned. (736 bp)
+		Unaligned bases: 736 (number of Ns: 0)
+
+CONTIG: contig_193000002 (716bp)
+		This contig is unaligned. (716 bp)
+		Unaligned bases: 716 (number of Ns: 0)
+
+CONTIG: contig_194000002 (711bp)
+		This contig is unaligned. (711 bp)
+		Unaligned bases: 711 (number of Ns: 0)
+
+CONTIG: contig_195000002 (710bp)
+		This contig is unaligned. (710 bp)
+		Unaligned bases: 710 (number of Ns: 0)
+
+CONTIG: contig_196000002 (754bp)
+		This contig is unaligned. (754 bp)
+		Unaligned bases: 754 (number of Ns: 0)
+
+CONTIG: contig_197000002 (790bp)
+		This contig is unaligned. (790 bp)
+		Unaligned bases: 790 (number of Ns: 0)
+
+CONTIG: contig_198000002 (743bp)
+		This contig is unaligned. (743 bp)
+		Unaligned bases: 743 (number of Ns: 0)
+
+CONTIG: contig_199000002 (704bp)
+		This contig is unaligned. (704 bp)
+		Unaligned bases: 704 (number of Ns: 0)
+
+CONTIG: contig_200000002 (700bp)
+		This contig is unaligned. (700 bp)
+		Unaligned bases: 700 (number of Ns: 0)
+
+CONTIG: contig_201000002 (699bp)
+		This contig is unaligned. (699 bp)
+		Unaligned bases: 699 (number of Ns: 0)
+
+CONTIG: contig_202000002 (703bp)
+		This contig is unaligned. (703 bp)
+		Unaligned bases: 703 (number of Ns: 0)
+
+CONTIG: contig_203000002 (902bp)
+		This contig is unaligned. (902 bp)
+		Unaligned bases: 902 (number of Ns: 0)
+
+CONTIG: contig_204000002 (695bp)
+		This contig is unaligned. (695 bp)
+		Unaligned bases: 695 (number of Ns: 0)
+
+CONTIG: contig_205000002 (733bp)
+		This contig is unaligned. (733 bp)
+		Unaligned bases: 733 (number of Ns: 0)
+
+CONTIG: contig_206000002 (700bp)
+		This contig is unaligned. (700 bp)
+		Unaligned bases: 700 (number of Ns: 0)
+
+CONTIG: contig_207000002 (1132bp)
+		This contig is unaligned. (1132 bp)
+		Unaligned bases: 1132 (number of Ns: 0)
+
+CONTIG: contig_208000002 (930bp)
+		This contig is unaligned. (930 bp)
+		Unaligned bases: 930 (number of Ns: 0)
+
+CONTIG: contig_209000002 (683bp)
+		This contig is unaligned. (683 bp)
+		Unaligned bases: 683 (number of Ns: 0)
+
+CONTIG: contig_210000002 (682bp)
+		This contig is unaligned. (682 bp)
+		Unaligned bases: 682 (number of Ns: 0)
+
+CONTIG: contig_211000002 (681bp)
+		This contig is unaligned. (681 bp)
+		Unaligned bases: 681 (number of Ns: 0)
+
+CONTIG: contig_212000002 (680bp)
+		This contig is unaligned. (680 bp)
+		Unaligned bases: 680 (number of Ns: 0)
+
+CONTIG: contig_213000002 (728bp)
+		This contig is unaligned. (728 bp)
+		Unaligned bases: 728 (number of Ns: 0)
+
+CONTIG: contig_214000002 (671bp)
+		This contig is unaligned. (671 bp)
+		Unaligned bases: 671 (number of Ns: 0)
+
+CONTIG: contig_215000002 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_216000002 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_217000002 (683bp)
+		This contig is unaligned. (683 bp)
+		Unaligned bases: 683 (number of Ns: 0)
+
+CONTIG: contig_218000002 (746bp)
+		This contig is unaligned. (746 bp)
+		Unaligned bases: 746 (number of Ns: 0)
+
+CONTIG: contig_219000002 (667bp)
+		This contig is unaligned. (667 bp)
+		Unaligned bases: 667 (number of Ns: 0)
+
+CONTIG: contig_220000002 (740bp)
+		This contig is unaligned. (740 bp)
+		Unaligned bases: 740 (number of Ns: 0)
+
+CONTIG: contig_221000002 (663bp)
+		This contig is unaligned. (663 bp)
+		Unaligned bases: 663 (number of Ns: 0)
+
+CONTIG: contig_222000002 (1069bp)
+		This contig is unaligned. (1069 bp)
+		Unaligned bases: 1069 (number of Ns: 0)
+
+CONTIG: contig_223000002 (685bp)
+		This contig is unaligned. (685 bp)
+		Unaligned bases: 685 (number of Ns: 0)
+
+CONTIG: contig_224000002 (828bp)
+		This contig is unaligned. (828 bp)
+		Unaligned bases: 828 (number of Ns: 0)
+
+CONTIG: contig_225000002 (655bp)
+		This contig is unaligned. (655 bp)
+		Unaligned bases: 655 (number of Ns: 0)
+
+CONTIG: contig_226000002 (653bp)
+		This contig is unaligned. (653 bp)
+		Unaligned bases: 653 (number of Ns: 0)
+
+CONTIG: contig_227000002 (653bp)
+		This contig is unaligned. (653 bp)
+		Unaligned bases: 653 (number of Ns: 0)
+
+CONTIG: contig_228000002 (652bp)
+		This contig is unaligned. (652 bp)
+		Unaligned bases: 652 (number of Ns: 0)
+
+CONTIG: contig_229000002 (830bp)
+		This contig is unaligned. (830 bp)
+		Unaligned bases: 830 (number of Ns: 0)
+
+CONTIG: contig_230000002 (648bp)
+		This contig is unaligned. (648 bp)
+		Unaligned bases: 648 (number of Ns: 0)
+
+CONTIG: contig_231000002 (673bp)
+		This contig is unaligned. (673 bp)
+		Unaligned bases: 673 (number of Ns: 0)
+
+CONTIG: contig_232000002 (647bp)
+		This contig is unaligned. (647 bp)
+		Unaligned bases: 647 (number of Ns: 0)
+
+CONTIG: contig_233000002 (646bp)
+		This contig is unaligned. (646 bp)
+		Unaligned bases: 646 (number of Ns: 0)
+
+CONTIG: contig_234000002 (955bp)
+		This contig is unaligned. (955 bp)
+		Unaligned bases: 955 (number of Ns: 0)
+
+CONTIG: contig_235000002 (734bp)
+		This contig is unaligned. (734 bp)
+		Unaligned bases: 734 (number of Ns: 0)
+
+CONTIG: contig_236000002 (917bp)
+		This contig is unaligned. (917 bp)
+		Unaligned bases: 917 (number of Ns: 0)
+
+CONTIG: contig_237000002 (642bp)
+		This contig is unaligned. (642 bp)
+		Unaligned bases: 642 (number of Ns: 0)
+
+CONTIG: contig_238000002 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_239000002 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_240000002 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_241000002 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_242000002 (645bp)
+		This contig is unaligned. (645 bp)
+		Unaligned bases: 645 (number of Ns: 0)
+
+CONTIG: contig_243000002 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_244000002 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: contig_245000002 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: contig_246000002 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: contig_247000002 (629bp)
+		This contig is unaligned. (629 bp)
+		Unaligned bases: 629 (number of Ns: 0)
+
+CONTIG: contig_248000002 (629bp)
+		This contig is unaligned. (629 bp)
+		Unaligned bases: 629 (number of Ns: 0)
+
+CONTIG: contig_249000002 (673bp)
+		This contig is unaligned. (673 bp)
+		Unaligned bases: 673 (number of Ns: 0)
+
+CONTIG: contig_250000002 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_251000002 (647bp)
+		This contig is unaligned. (647 bp)
+		Unaligned bases: 647 (number of Ns: 0)
+
+CONTIG: contig_252000002 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: contig_253000002 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_254000002 (626bp)
+		This contig is unaligned. (626 bp)
+		Unaligned bases: 626 (number of Ns: 0)
+
+CONTIG: contig_255000002 (690bp)
+		This contig is unaligned. (690 bp)
+		Unaligned bases: 690 (number of Ns: 0)
+
+CONTIG: contig_256000002 (622bp)
+		This contig is unaligned. (622 bp)
+		Unaligned bases: 622 (number of Ns: 0)
+
+CONTIG: contig_257000002 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_258000002 (831bp)
+		This contig is unaligned. (831 bp)
+		Unaligned bases: 831 (number of Ns: 0)
+
+CONTIG: contig_259000002 (1497bp)
+		This contig is unaligned. (1497 bp)
+		Unaligned bases: 1497 (number of Ns: 0)
+
+CONTIG: contig_260000002 (614bp)
+		This contig is unaligned. (614 bp)
+		Unaligned bases: 614 (number of Ns: 0)
+
+CONTIG: contig_261000002 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: contig_262000002 (612bp)
+		This contig is unaligned. (612 bp)
+		Unaligned bases: 612 (number of Ns: 0)
+
+CONTIG: contig_263000002 (611bp)
+		This contig is unaligned. (611 bp)
+		Unaligned bases: 611 (number of Ns: 0)
+
+CONTIG: contig_264000002 (609bp)
+		This contig is unaligned. (609 bp)
+		Unaligned bases: 609 (number of Ns: 0)
+
+CONTIG: contig_265000002 (601bp)
+		This contig is unaligned. (601 bp)
+		Unaligned bases: 601 (number of Ns: 0)
+
+CONTIG: contig_266000002 (601bp)
+		This contig is unaligned. (601 bp)
+		Unaligned bases: 601 (number of Ns: 0)
+
+CONTIG: contig_267000002 (600bp)
+		This contig is unaligned. (600 bp)
+		Unaligned bases: 600 (number of Ns: 0)
+
+CONTIG: contig_268000002 (598bp)
+		This contig is unaligned. (598 bp)
+		Unaligned bases: 598 (number of Ns: 0)
+
+CONTIG: contig_269000002 (596bp)
+		This contig is unaligned. (596 bp)
+		Unaligned bases: 596 (number of Ns: 0)
+
+CONTIG: contig_270000002 (618bp)
+		This contig is unaligned. (618 bp)
+		Unaligned bases: 618 (number of Ns: 0)
+
+CONTIG: contig_271000002 (596bp)
+		This contig is unaligned. (596 bp)
+		Unaligned bases: 596 (number of Ns: 0)
+
+CONTIG: contig_272000002 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: contig_273000002 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: contig_274000002 (601bp)
+		This contig is unaligned. (601 bp)
+		Unaligned bases: 601 (number of Ns: 0)
+
+CONTIG: contig_275000002 (587bp)
+		This contig is unaligned. (587 bp)
+		Unaligned bases: 587 (number of Ns: 0)
+
+CONTIG: contig_276000002 (582bp)
+		This contig is unaligned. (582 bp)
+		Unaligned bases: 582 (number of Ns: 0)
+
+CONTIG: contig_277000002 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: contig_278000002 (769bp)
+		This contig is unaligned. (769 bp)
+		Unaligned bases: 769 (number of Ns: 0)
+
+CONTIG: contig_279000002 (579bp)
+		This contig is unaligned. (579 bp)
+		Unaligned bases: 579 (number of Ns: 0)
+
+CONTIG: contig_280000002 (579bp)
+		This contig is unaligned. (579 bp)
+		Unaligned bases: 579 (number of Ns: 0)
+
+CONTIG: contig_281000002 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_282000002 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_283000002 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: contig_284000002 (683bp)
+		This contig is unaligned. (683 bp)
+		Unaligned bases: 683 (number of Ns: 0)
+
+CONTIG: contig_285000002 (782bp)
+		This contig is unaligned. (782 bp)
+		Unaligned bases: 782 (number of Ns: 0)
+
+CONTIG: contig_286000002 (566bp)
+		This contig is unaligned. (566 bp)
+		Unaligned bases: 566 (number of Ns: 0)
+
+CONTIG: contig_287000002 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: contig_288000002 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: contig_289000002 (564bp)
+		This contig is unaligned. (564 bp)
+		Unaligned bases: 564 (number of Ns: 0)
+
+CONTIG: contig_290000002 (563bp)
+		This contig is unaligned. (563 bp)
+		Unaligned bases: 563 (number of Ns: 0)
+
+CONTIG: contig_291000002 (562bp)
+		This contig is unaligned. (562 bp)
+		Unaligned bases: 562 (number of Ns: 0)
+
+CONTIG: contig_292000002 (563bp)
+		This contig is unaligned. (563 bp)
+		Unaligned bases: 563 (number of Ns: 0)
+
+CONTIG: contig_293000002 (561bp)
+		This contig is unaligned. (561 bp)
+		Unaligned bases: 561 (number of Ns: 0)
+
+CONTIG: contig_294000002 (559bp)
+		This contig is unaligned. (559 bp)
+		Unaligned bases: 559 (number of Ns: 0)
+
+CONTIG: contig_295000002 (558bp)
+		This contig is unaligned. (558 bp)
+		Unaligned bases: 558 (number of Ns: 0)
+
+CONTIG: contig_296000002 (558bp)
+		This contig is unaligned. (558 bp)
+		Unaligned bases: 558 (number of Ns: 0)
+
+CONTIG: contig_297000002 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: contig_298000002 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: contig_299000002 (554bp)
+		This contig is unaligned. (554 bp)
+		Unaligned bases: 554 (number of Ns: 0)
+
+CONTIG: contig_300000002 (552bp)
+		This contig is unaligned. (552 bp)
+		Unaligned bases: 552 (number of Ns: 0)
+
+CONTIG: contig_301000002 (693bp)
+		This contig is unaligned. (693 bp)
+		Unaligned bases: 693 (number of Ns: 0)
+
+CONTIG: contig_302000002 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: contig_303000002 (549bp)
+		This contig is unaligned. (549 bp)
+		Unaligned bases: 549 (number of Ns: 0)
+
+CONTIG: contig_304000002 (549bp)
+		This contig is unaligned. (549 bp)
+		Unaligned bases: 549 (number of Ns: 0)
+
+CONTIG: contig_305000002 (548bp)
+		This contig is unaligned. (548 bp)
+		Unaligned bases: 548 (number of Ns: 0)
+
+CONTIG: contig_306000002 (548bp)
+		This contig is unaligned. (548 bp)
+		Unaligned bases: 548 (number of Ns: 0)
+
+CONTIG: contig_307000002 (548bp)
+		This contig is unaligned. (548 bp)
+		Unaligned bases: 548 (number of Ns: 0)
+
+CONTIG: contig_308000002 (547bp)
+		This contig is unaligned. (547 bp)
+		Unaligned bases: 547 (number of Ns: 0)
+
+CONTIG: contig_309000002 (547bp)
+		This contig is unaligned. (547 bp)
+		Unaligned bases: 547 (number of Ns: 0)
+
+CONTIG: contig_310000002 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: contig_311000002 (545bp)
+		This contig is unaligned. (545 bp)
+		Unaligned bases: 545 (number of Ns: 0)
+
+CONTIG: contig_312000002 (578bp)
+		This contig is unaligned. (578 bp)
+		Unaligned bases: 578 (number of Ns: 0)
+
+CONTIG: contig_313000002 (687bp)
+		This contig is unaligned. (687 bp)
+		Unaligned bases: 687 (number of Ns: 0)
+
+CONTIG: contig_314000002 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_315000002 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_316000002 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_317000002 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_318000002 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_319000002 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_320000002 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: contig_321000002 (535bp)
+		This contig is unaligned. (535 bp)
+		Unaligned bases: 535 (number of Ns: 0)
+
+CONTIG: contig_322000002 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_323000002 (533bp)
+		This contig is unaligned. (533 bp)
+		Unaligned bases: 533 (number of Ns: 0)
+
+CONTIG: contig_324000002 (633bp)
+		This contig is unaligned. (633 bp)
+		Unaligned bases: 633 (number of Ns: 0)
+
+CONTIG: contig_325000002 (527bp)
+		This contig is unaligned. (527 bp)
+		Unaligned bases: 527 (number of Ns: 0)
+
+CONTIG: contig_326000002 (655bp)
+		This contig is unaligned. (655 bp)
+		Unaligned bases: 655 (number of Ns: 0)
+
+CONTIG: contig_327000002 (527bp)
+		This contig is unaligned. (527 bp)
+		Unaligned bases: 527 (number of Ns: 0)
+
+CONTIG: contig_328000002 (564bp)
+		This contig is unaligned. (564 bp)
+		Unaligned bases: 564 (number of Ns: 0)
+
+CONTIG: contig_329000002 (533bp)
+		This contig is unaligned. (533 bp)
+		Unaligned bases: 533 (number of Ns: 0)
+
+CONTIG: contig_330000002 (523bp)
+		This contig is unaligned. (523 bp)
+		Unaligned bases: 523 (number of Ns: 0)
+
+CONTIG: contig_331000002 (523bp)
+		This contig is unaligned. (523 bp)
+		Unaligned bases: 523 (number of Ns: 0)
+
+CONTIG: contig_332000002 (522bp)
+		This contig is unaligned. (522 bp)
+		Unaligned bases: 522 (number of Ns: 0)
+
+CONTIG: contig_333000002 (521bp)
+		This contig is unaligned. (521 bp)
+		Unaligned bases: 521 (number of Ns: 0)
+
+CONTIG: contig_334000002 (519bp)
+		This contig is unaligned. (519 bp)
+		Unaligned bases: 519 (number of Ns: 0)
+
+CONTIG: contig_335000002 (520bp)
+		This contig is unaligned. (520 bp)
+		Unaligned bases: 520 (number of Ns: 0)
+
+CONTIG: contig_336000002 (516bp)
+		This contig is unaligned. (516 bp)
+		Unaligned bases: 516 (number of Ns: 0)
+
+CONTIG: contig_337000002 (516bp)
+		This contig is unaligned. (516 bp)
+		Unaligned bases: 516 (number of Ns: 0)
+
+CONTIG: contig_338000002 (515bp)
+		This contig is unaligned. (515 bp)
+		Unaligned bases: 515 (number of Ns: 0)
+
+CONTIG: contig_339000002 (515bp)
+		This contig is unaligned. (515 bp)
+		Unaligned bases: 515 (number of Ns: 0)
+
+CONTIG: contig_340000002 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_341000002 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_342000002 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_343000002 (905bp)
+		This contig is unaligned. (905 bp)
+		Unaligned bases: 905 (number of Ns: 0)
+
+CONTIG: contig_344000002 (518bp)
+		This contig is unaligned. (518 bp)
+		Unaligned bases: 518 (number of Ns: 0)
+
+CONTIG: contig_345000002 (582bp)
+		This contig is unaligned. (582 bp)
+		Unaligned bases: 582 (number of Ns: 0)
+
+CONTIG: contig_346000002 (1275bp)
+		This contig is unaligned. (1275 bp)
+		Unaligned bases: 1275 (number of Ns: 0)
+
+CONTIG: contig_347000002 (506bp)
+		This contig is unaligned. (506 bp)
+		Unaligned bases: 506 (number of Ns: 0)
+
+CONTIG: contig_348000002 (504bp)
+		This contig is unaligned. (504 bp)
+		Unaligned bases: 504 (number of Ns: 0)
+
+CONTIG: contig_349000002 (502bp)
+		This contig is unaligned. (502 bp)
+		Unaligned bases: 502 (number of Ns: 0)
+
+CONTIG: contig_350000002 (502bp)
+		This contig is unaligned. (502 bp)
+		Unaligned bases: 502 (number of Ns: 0)
+
+CONTIG: contig_351000002 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: contig_355000002 (825bp)
+		This contig is unaligned. (825 bp)
+		Unaligned bases: 825 (number of Ns: 0)
+
+CONTIG: contig_358000002 (688bp)
+		This contig is unaligned. (688 bp)
+		Unaligned bases: 688 (number of Ns: 0)
+
+CONTIG: contig_359000002 (1108bp)
+		This contig is unaligned. (1108 bp)
+		Unaligned bases: 1108 (number of Ns: 0)
+
+CONTIG: contig_379000002 (722bp)
+		This contig is unaligned. (722 bp)
+		Unaligned bases: 722 (number of Ns: 0)
+
+CONTIG: contig_384000002 (507bp)
+		This contig is unaligned. (507 bp)
+		Unaligned bases: 507 (number of Ns: 0)
+
+CONTIG: contig_397000002 (586bp)
+		This contig is unaligned. (586 bp)
+		Unaligned bases: 586 (number of Ns: 0)
+
+CONTIG: contig_401000002 (506bp)
+		This contig is unaligned. (506 bp)
+		Unaligned bases: 506 (number of Ns: 0)
+
+CONTIG: contig_408000002 (1730bp)
+		This contig is unaligned. (1730 bp)
+		Unaligned bases: 1730 (number of Ns: 0)
+
+CONTIG: contig_411000002 (1041bp)
+		This contig is unaligned. (1041 bp)
+		Unaligned bases: 1041 (number of Ns: 0)
+
+CONTIG: contig_423000002 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_428000002 (647bp)
+		This contig is unaligned. (647 bp)
+		Unaligned bases: 647 (number of Ns: 0)
+
+CONTIG: contig_430000002 (933bp)
+		This contig is unaligned. (933 bp)
+		Unaligned bases: 933 (number of Ns: 0)
+
+CONTIG: contig_431000002 (693bp)
+		This contig is unaligned. (693 bp)
+		Unaligned bases: 693 (number of Ns: 0)
+
+CONTIG: contig_432000002 (527bp)
+		This contig is unaligned. (527 bp)
+		Unaligned bases: 527 (number of Ns: 0)
+
+CONTIG: contig_435000002 (630bp)
+		This contig is unaligned. (630 bp)
+		Unaligned bases: 630 (number of Ns: 0)
+
+CONTIG: contig_456000002 (598bp)
+		This contig is unaligned. (598 bp)
+		Unaligned bases: 598 (number of Ns: 0)
+
+CONTIG: contig_457000002 (3018bp)
+		This contig is unaligned. (3018 bp)
+		Unaligned bases: 3018 (number of Ns: 0)
+
+CONTIG: contig_459000002 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: contig_461000002 (509bp)
+		This contig is unaligned. (509 bp)
+		Unaligned bases: 509 (number of Ns: 0)
+
+CONTIG: contig_465000002 (637bp)
+		This contig is unaligned. (637 bp)
+		Unaligned bases: 637 (number of Ns: 0)
+
+CONTIG: contig_486000002 (575bp)
+		This contig is unaligned. (575 bp)
+		Unaligned bases: 575 (number of Ns: 0)
+
+CONTIG: contig_510000002 (585bp)
+		This contig is unaligned. (585 bp)
+		Unaligned bases: 585 (number of Ns: 0)
+
+CONTIG: contig_521000002 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_528000002 (3107bp)
+		This contig is unaligned. (3107 bp)
+		Unaligned bases: 3107 (number of Ns: 0)
+
+CONTIG: contig_533000002 (609bp)
+		This contig is unaligned. (609 bp)
+		Unaligned bases: 609 (number of Ns: 0)
+
+CONTIG: contig_534000002 (545bp)
+		This contig is unaligned. (545 bp)
+		Unaligned bases: 545 (number of Ns: 0)
+
+CONTIG: contig_555000002 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_573000002 (553bp)
+		This contig is unaligned. (553 bp)
+		Unaligned bases: 553 (number of Ns: 0)
+
+CONTIG: contig_601000002 (1295bp)
+		This contig is unaligned. (1295 bp)
+		Unaligned bases: 1295 (number of Ns: 0)
+
+CONTIG: contig_609000002 (535bp)
+		This contig is unaligned. (535 bp)
+		Unaligned bases: 535 (number of Ns: 0)
+
+CONTIG: contig_633000002 (530bp)
+		This contig is unaligned. (530 bp)
+		Unaligned bases: 530 (number of Ns: 0)
+
+CONTIG: contig_642000002 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: contig_687000002 (1346bp)
+		This contig is unaligned. (1346 bp)
+		Unaligned bases: 1346 (number of Ns: 0)
+
+CONTIG: contig_704000002 (860bp)
+		This contig is unaligned. (860 bp)
+		Unaligned bases: 860 (number of Ns: 0)
+
+CONTIG: contig_818000002 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_862000002 (685bp)
+		This contig is unaligned. (685 bp)
+		Unaligned bases: 685 (number of Ns: 0)
+
+CONTIG: contig_940000002 (672bp)
+		This contig is unaligned. (672 bp)
+		Unaligned bases: 672 (number of Ns: 0)
+
+CONTIG: contig_1049000002 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_1128000002 (4740bp)
+		This contig is unaligned. (4740 bp)
+		Unaligned bases: 4740 (number of Ns: 0)
+
+CONTIG: contig_3 (11671bp)
+		This contig is unaligned. (11671 bp)
+		Unaligned bases: 11671 (number of Ns: 0)
+
+CONTIG: contig_1000003 (7449bp)
+		This contig is unaligned. (7449 bp)
+		Unaligned bases: 7449 (number of Ns: 0)
+
+CONTIG: contig_2000003 (12496bp)
+		This contig is unaligned. (12496 bp)
+		Unaligned bases: 12496 (number of Ns: 0)
+
+CONTIG: contig_3000003 (6098bp)
+		This contig is unaligned. (6098 bp)
+		Unaligned bases: 6098 (number of Ns: 0)
+
+CONTIG: contig_4000003 (8746bp)
+		This contig is unaligned. (8746 bp)
+		Unaligned bases: 8746 (number of Ns: 0)
+
+CONTIG: contig_5000003 (6235bp)
+		This contig is unaligned. (6235 bp)
+		Unaligned bases: 6235 (number of Ns: 0)
+
+CONTIG: contig_6000003 (4549bp)
+		This contig is unaligned. (4549 bp)
+		Unaligned bases: 4549 (number of Ns: 0)
+
+CONTIG: contig_7000003 (3536bp)
+		This contig is unaligned. (3536 bp)
+		Unaligned bases: 3536 (number of Ns: 0)
+
+CONTIG: contig_8000003 (3344bp)
+		This contig is unaligned. (3344 bp)
+		Unaligned bases: 3344 (number of Ns: 0)
+
+CONTIG: contig_9000003 (3305bp)
+		This contig is unaligned. (3305 bp)
+		Unaligned bases: 3305 (number of Ns: 0)
+
+CONTIG: contig_10000003 (3031bp)
+		This contig is unaligned. (3031 bp)
+		Unaligned bases: 3031 (number of Ns: 0)
+
+CONTIG: contig_11000003 (2978bp)
+		This contig is unaligned. (2978 bp)
+		Unaligned bases: 2978 (number of Ns: 0)
+
+CONTIG: contig_12000003 (3894bp)
+		This contig is unaligned. (3894 bp)
+		Unaligned bases: 3894 (number of Ns: 0)
+
+CONTIG: contig_13000003 (2581bp)
+		This contig is unaligned. (2581 bp)
+		Unaligned bases: 2581 (number of Ns: 0)
+
+CONTIG: contig_14000003 (2969bp)
+		This contig is unaligned. (2969 bp)
+		Unaligned bases: 2969 (number of Ns: 0)
+
+CONTIG: contig_15000003 (2338bp)
+		This contig is unaligned. (2338 bp)
+		Unaligned bases: 2338 (number of Ns: 0)
+
+CONTIG: contig_16000003 (2340bp)
+		This contig is unaligned. (2340 bp)
+		Unaligned bases: 2340 (number of Ns: 0)
+
+CONTIG: contig_17000003 (2419bp)
+		This contig is unaligned. (2419 bp)
+		Unaligned bases: 2419 (number of Ns: 0)
+
+CONTIG: contig_18000003 (2165bp)
+		This contig is unaligned. (2165 bp)
+		Unaligned bases: 2165 (number of Ns: 0)
+
+CONTIG: contig_19000003 (5197bp)
+		This contig is unaligned. (5197 bp)
+		Unaligned bases: 5197 (number of Ns: 0)
+
+CONTIG: contig_20000003 (2226bp)
+		This contig is unaligned. (2226 bp)
+		Unaligned bases: 2226 (number of Ns: 0)
+
+CONTIG: contig_21000003 (2129bp)
+		This contig is unaligned. (2129 bp)
+		Unaligned bases: 2129 (number of Ns: 0)
+
+CONTIG: contig_22000003 (2038bp)
+		This contig is unaligned. (2038 bp)
+		Unaligned bases: 2038 (number of Ns: 0)
+
+CONTIG: contig_23000003 (2558bp)
+		This contig is unaligned. (2558 bp)
+		Unaligned bases: 2558 (number of Ns: 0)
+
+CONTIG: contig_24000003 (1971bp)
+		This contig is unaligned. (1971 bp)
+		Unaligned bases: 1971 (number of Ns: 0)
+
+CONTIG: contig_25000003 (1954bp)
+		This contig is unaligned. (1954 bp)
+		Unaligned bases: 1954 (number of Ns: 0)
+
+CONTIG: contig_26000003 (1980bp)
+		This contig is unaligned. (1980 bp)
+		Unaligned bases: 1980 (number of Ns: 0)
+
+CONTIG: contig_27000003 (1901bp)
+		This contig is unaligned. (1901 bp)
+		Unaligned bases: 1901 (number of Ns: 0)
+
+CONTIG: contig_28000003 (1837bp)
+		This contig is unaligned. (1837 bp)
+		Unaligned bases: 1837 (number of Ns: 0)
+
+CONTIG: contig_29000003 (1787bp)
+		This contig is unaligned. (1787 bp)
+		Unaligned bases: 1787 (number of Ns: 0)
+
+CONTIG: contig_30000003 (2016bp)
+		This contig is unaligned. (2016 bp)
+		Unaligned bases: 2016 (number of Ns: 0)
+
+CONTIG: contig_31000003 (2069bp)
+		This contig is unaligned. (2069 bp)
+		Unaligned bases: 2069 (number of Ns: 0)
+
+CONTIG: contig_32000003 (1630bp)
+		This contig is unaligned. (1630 bp)
+		Unaligned bases: 1630 (number of Ns: 0)
+
+CONTIG: contig_33000003 (1626bp)
+		This contig is unaligned. (1626 bp)
+		Unaligned bases: 1626 (number of Ns: 0)
+
+CONTIG: contig_34000003 (1659bp)
+		This contig is unaligned. (1659 bp)
+		Unaligned bases: 1659 (number of Ns: 0)
+
+CONTIG: contig_35000003 (1613bp)
+		This contig is unaligned. (1613 bp)
+		Unaligned bases: 1613 (number of Ns: 0)
+
+CONTIG: contig_36000003 (1612bp)
+		This contig is unaligned. (1612 bp)
+		Unaligned bases: 1612 (number of Ns: 0)
+
+CONTIG: contig_37000003 (2198bp)
+		This contig is unaligned. (2198 bp)
+		Unaligned bases: 2198 (number of Ns: 0)
+
+CONTIG: contig_38000003 (1601bp)
+		This contig is unaligned. (1601 bp)
+		Unaligned bases: 1601 (number of Ns: 0)
+
+CONTIG: contig_39000003 (1583bp)
+		This contig is unaligned. (1583 bp)
+		Unaligned bases: 1583 (number of Ns: 0)
+
+CONTIG: contig_40000003 (1559bp)
+		This contig is unaligned. (1559 bp)
+		Unaligned bases: 1559 (number of Ns: 0)
+
+CONTIG: contig_41000003 (1553bp)
+		This contig is unaligned. (1553 bp)
+		Unaligned bases: 1553 (number of Ns: 0)
+
+CONTIG: contig_42000003 (1520bp)
+		This contig is unaligned. (1520 bp)
+		Unaligned bases: 1520 (number of Ns: 0)
+
+CONTIG: contig_43000003 (1718bp)
+		This contig is unaligned. (1718 bp)
+		Unaligned bases: 1718 (number of Ns: 0)
+
+CONTIG: contig_44000003 (1453bp)
+		This contig is unaligned. (1453 bp)
+		Unaligned bases: 1453 (number of Ns: 0)
+
+CONTIG: contig_45000003 (1446bp)
+		This contig is unaligned. (1446 bp)
+		Unaligned bases: 1446 (number of Ns: 0)
+
+CONTIG: contig_46000003 (1512bp)
+		This contig is unaligned. (1512 bp)
+		Unaligned bases: 1512 (number of Ns: 0)
+
+CONTIG: contig_47000003 (1616bp)
+		This contig is unaligned. (1616 bp)
+		Unaligned bases: 1616 (number of Ns: 0)
+
+CONTIG: contig_48000003 (1404bp)
+		This contig is unaligned. (1404 bp)
+		Unaligned bases: 1404 (number of Ns: 0)
+
+CONTIG: contig_49000003 (2468bp)
+		This contig is unaligned. (2468 bp)
+		Unaligned bases: 2468 (number of Ns: 0)
+
+CONTIG: contig_50000003 (1396bp)
+		This contig is unaligned. (1396 bp)
+		Unaligned bases: 1396 (number of Ns: 0)
+
+CONTIG: contig_51000003 (1393bp)
+		This contig is unaligned. (1393 bp)
+		Unaligned bases: 1393 (number of Ns: 0)
+
+CONTIG: contig_52000003 (1464bp)
+		This contig is unaligned. (1464 bp)
+		Unaligned bases: 1464 (number of Ns: 0)
+
+CONTIG: contig_53000003 (1390bp)
+		This contig is unaligned. (1390 bp)
+		Unaligned bases: 1390 (number of Ns: 0)
+
+CONTIG: contig_54000003 (4240bp)
+		This contig is unaligned. (4240 bp)
+		Unaligned bases: 4240 (number of Ns: 0)
+
+CONTIG: contig_55000003 (1366bp)
+		This contig is unaligned. (1366 bp)
+		Unaligned bases: 1366 (number of Ns: 0)
+
+CONTIG: contig_56000003 (1366bp)
+		This contig is unaligned. (1366 bp)
+		Unaligned bases: 1366 (number of Ns: 0)
+
+CONTIG: contig_57000003 (1365bp)
+		This contig is unaligned. (1365 bp)
+		Unaligned bases: 1365 (number of Ns: 0)
+
+CONTIG: contig_58000003 (1533bp)
+		This contig is unaligned. (1533 bp)
+		Unaligned bases: 1533 (number of Ns: 0)
+
+CONTIG: contig_59000003 (1371bp)
+		This contig is unaligned. (1371 bp)
+		Unaligned bases: 1371 (number of Ns: 0)
+
+CONTIG: contig_60000003 (1338bp)
+		This contig is unaligned. (1338 bp)
+		Unaligned bases: 1338 (number of Ns: 0)
+
+CONTIG: contig_61000003 (1333bp)
+		This contig is unaligned. (1333 bp)
+		Unaligned bases: 1333 (number of Ns: 0)
+
+CONTIG: contig_62000003 (1324bp)
+		This contig is unaligned. (1324 bp)
+		Unaligned bases: 1324 (number of Ns: 0)
+
+CONTIG: contig_63000003 (1644bp)
+		This contig is unaligned. (1644 bp)
+		Unaligned bases: 1644 (number of Ns: 0)
+
+CONTIG: contig_64000003 (1398bp)
+		This contig is unaligned. (1398 bp)
+		Unaligned bases: 1398 (number of Ns: 0)
+
+CONTIG: contig_65000003 (1292bp)
+		This contig is unaligned. (1292 bp)
+		Unaligned bases: 1292 (number of Ns: 0)
+
+CONTIG: contig_66000003 (1303bp)
+		This contig is unaligned. (1303 bp)
+		Unaligned bases: 1303 (number of Ns: 0)
+
+CONTIG: contig_67000003 (1690bp)
+		This contig is unaligned. (1690 bp)
+		Unaligned bases: 1690 (number of Ns: 0)
+
+CONTIG: contig_68000003 (1270bp)
+		This contig is unaligned. (1270 bp)
+		Unaligned bases: 1270 (number of Ns: 0)
+
+CONTIG: contig_69000003 (1262bp)
+		This contig is unaligned. (1262 bp)
+		Unaligned bases: 1262 (number of Ns: 0)
+
+CONTIG: contig_70000003 (1238bp)
+		This contig is unaligned. (1238 bp)
+		Unaligned bases: 1238 (number of Ns: 0)
+
+CONTIG: contig_71000003 (1233bp)
+		This contig is unaligned. (1233 bp)
+		Unaligned bases: 1233 (number of Ns: 0)
+
+CONTIG: contig_72000003 (1224bp)
+		This contig is unaligned. (1224 bp)
+		Unaligned bases: 1224 (number of Ns: 0)
+
+CONTIG: contig_73000003 (1239bp)
+		This contig is unaligned. (1239 bp)
+		Unaligned bases: 1239 (number of Ns: 0)
+
+CONTIG: contig_74000003 (1206bp)
+		This contig is unaligned. (1206 bp)
+		Unaligned bases: 1206 (number of Ns: 0)
+
+CONTIG: contig_75000003 (1615bp)
+		This contig is unaligned. (1615 bp)
+		Unaligned bases: 1615 (number of Ns: 0)
+
+CONTIG: contig_76000003 (1488bp)
+		This contig is unaligned. (1488 bp)
+		Unaligned bases: 1488 (number of Ns: 0)
+
+CONTIG: contig_77000003 (1176bp)
+		This contig is unaligned. (1176 bp)
+		Unaligned bases: 1176 (number of Ns: 0)
+
+CONTIG: contig_78000003 (2153bp)
+		This contig is unaligned. (2153 bp)
+		Unaligned bases: 2153 (number of Ns: 0)
+
+CONTIG: contig_79000003 (1163bp)
+		This contig is unaligned. (1163 bp)
+		Unaligned bases: 1163 (number of Ns: 0)
+
+CONTIG: contig_80000003 (1361bp)
+		This contig is unaligned. (1361 bp)
+		Unaligned bases: 1361 (number of Ns: 0)
+
+CONTIG: contig_81000003 (1157bp)
+		This contig is unaligned. (1157 bp)
+		Unaligned bases: 1157 (number of Ns: 0)
+
+CONTIG: contig_82000003 (1150bp)
+		This contig is unaligned. (1150 bp)
+		Unaligned bases: 1150 (number of Ns: 0)
+
+CONTIG: contig_83000003 (1134bp)
+		This contig is unaligned. (1134 bp)
+		Unaligned bases: 1134 (number of Ns: 0)
+
+CONTIG: contig_84000003 (1110bp)
+		This contig is unaligned. (1110 bp)
+		Unaligned bases: 1110 (number of Ns: 0)
+
+CONTIG: contig_85000003 (1106bp)
+		This contig is unaligned. (1106 bp)
+		Unaligned bases: 1106 (number of Ns: 0)
+
+CONTIG: contig_86000003 (1187bp)
+		This contig is unaligned. (1187 bp)
+		Unaligned bases: 1187 (number of Ns: 0)
+
+CONTIG: contig_87000003 (1110bp)
+		This contig is unaligned. (1110 bp)
+		Unaligned bases: 1110 (number of Ns: 0)
+
+CONTIG: contig_88000003 (1558bp)
+		This contig is unaligned. (1558 bp)
+		Unaligned bases: 1558 (number of Ns: 0)
+
+CONTIG: contig_89000003 (1089bp)
+		This contig is unaligned. (1089 bp)
+		Unaligned bases: 1089 (number of Ns: 0)
+
+CONTIG: contig_90000003 (1081bp)
+		This contig is unaligned. (1081 bp)
+		Unaligned bases: 1081 (number of Ns: 0)
+
+CONTIG: contig_91000003 (1121bp)
+		This contig is unaligned. (1121 bp)
+		Unaligned bases: 1121 (number of Ns: 0)
+
+CONTIG: contig_92000003 (1074bp)
+		This contig is unaligned. (1074 bp)
+		Unaligned bases: 1074 (number of Ns: 0)
+
+CONTIG: contig_93000003 (1641bp)
+		This contig is unaligned. (1641 bp)
+		Unaligned bases: 1641 (number of Ns: 0)
+
+CONTIG: contig_94000003 (1063bp)
+		This contig is unaligned. (1063 bp)
+		Unaligned bases: 1063 (number of Ns: 0)
+
+CONTIG: contig_95000003 (1373bp)
+		This contig is unaligned. (1373 bp)
+		Unaligned bases: 1373 (number of Ns: 0)
+
+CONTIG: contig_96000003 (1080bp)
+		This contig is unaligned. (1080 bp)
+		Unaligned bases: 1080 (number of Ns: 0)
+
+CONTIG: contig_97000003 (1049bp)
+		This contig is unaligned. (1049 bp)
+		Unaligned bases: 1049 (number of Ns: 0)
+
+CONTIG: contig_98000003 (1129bp)
+		This contig is unaligned. (1129 bp)
+		Unaligned bases: 1129 (number of Ns: 0)
+
+CONTIG: contig_99000003 (1073bp)
+		This contig is unaligned. (1073 bp)
+		Unaligned bases: 1073 (number of Ns: 0)
+
+CONTIG: contig_100000003 (1030bp)
+		This contig is unaligned. (1030 bp)
+		Unaligned bases: 1030 (number of Ns: 0)
+
+CONTIG: contig_101000003 (1381bp)
+		This contig is unaligned. (1381 bp)
+		Unaligned bases: 1381 (number of Ns: 0)
+
+CONTIG: contig_102000003 (1158bp)
+		This contig is unaligned. (1158 bp)
+		Unaligned bases: 1158 (number of Ns: 0)
+
+CONTIG: contig_103000003 (1024bp)
+		This contig is unaligned. (1024 bp)
+		Unaligned bases: 1024 (number of Ns: 0)
+
+CONTIG: contig_104000003 (1017bp)
+		This contig is unaligned. (1017 bp)
+		Unaligned bases: 1017 (number of Ns: 0)
+
+CONTIG: contig_105000003 (1011bp)
+		This contig is unaligned. (1011 bp)
+		Unaligned bases: 1011 (number of Ns: 0)
+
+CONTIG: contig_106000003 (1007bp)
+		This contig is unaligned. (1007 bp)
+		Unaligned bases: 1007 (number of Ns: 0)
+
+CONTIG: contig_107000003 (994bp)
+		This contig is unaligned. (994 bp)
+		Unaligned bases: 994 (number of Ns: 0)
+
+CONTIG: contig_108000003 (992bp)
+		This contig is unaligned. (992 bp)
+		Unaligned bases: 992 (number of Ns: 0)
+
+CONTIG: contig_109000003 (976bp)
+		This contig is unaligned. (976 bp)
+		Unaligned bases: 976 (number of Ns: 0)
+
+CONTIG: contig_110000003 (964bp)
+		This contig is unaligned. (964 bp)
+		Unaligned bases: 964 (number of Ns: 0)
+
+CONTIG: contig_111000003 (959bp)
+		This contig is unaligned. (959 bp)
+		Unaligned bases: 959 (number of Ns: 0)
+
+CONTIG: contig_112000003 (1009bp)
+		This contig is unaligned. (1009 bp)
+		Unaligned bases: 1009 (number of Ns: 0)
+
+CONTIG: contig_113000003 (945bp)
+		This contig is unaligned. (945 bp)
+		Unaligned bases: 945 (number of Ns: 0)
+
+CONTIG: contig_114000003 (945bp)
+		This contig is unaligned. (945 bp)
+		Unaligned bases: 945 (number of Ns: 0)
+
+CONTIG: contig_115000003 (938bp)
+		This contig is unaligned. (938 bp)
+		Unaligned bases: 938 (number of Ns: 0)
+
+CONTIG: contig_116000003 (936bp)
+		This contig is unaligned. (936 bp)
+		Unaligned bases: 936 (number of Ns: 0)
+
+CONTIG: contig_117000003 (934bp)
+		This contig is unaligned. (934 bp)
+		Unaligned bases: 934 (number of Ns: 0)
+
+CONTIG: contig_118000003 (930bp)
+		This contig is unaligned. (930 bp)
+		Unaligned bases: 930 (number of Ns: 0)
+
+CONTIG: contig_119000003 (1067bp)
+		This contig is unaligned. (1067 bp)
+		Unaligned bases: 1067 (number of Ns: 0)
+
+CONTIG: contig_120000003 (923bp)
+		This contig is unaligned. (923 bp)
+		Unaligned bases: 923 (number of Ns: 0)
+
+CONTIG: contig_121000003 (928bp)
+		This contig is unaligned. (928 bp)
+		Unaligned bases: 928 (number of Ns: 0)
+
+CONTIG: contig_122000003 (920bp)
+		This contig is unaligned. (920 bp)
+		Unaligned bases: 920 (number of Ns: 0)
+
+CONTIG: contig_123000003 (919bp)
+		This contig is unaligned. (919 bp)
+		Unaligned bases: 919 (number of Ns: 0)
+
+CONTIG: contig_124000003 (924bp)
+		This contig is unaligned. (924 bp)
+		Unaligned bases: 924 (number of Ns: 0)
+
+CONTIG: contig_125000003 (908bp)
+		This contig is unaligned. (908 bp)
+		Unaligned bases: 908 (number of Ns: 0)
+
+CONTIG: contig_126000003 (907bp)
+		This contig is unaligned. (907 bp)
+		Unaligned bases: 907 (number of Ns: 0)
+
+CONTIG: contig_127000003 (903bp)
+		This contig is unaligned. (903 bp)
+		Unaligned bases: 903 (number of Ns: 0)
+
+CONTIG: contig_128000003 (895bp)
+		This contig is unaligned. (895 bp)
+		Unaligned bases: 895 (number of Ns: 0)
+
+CONTIG: contig_129000003 (893bp)
+		This contig is unaligned. (893 bp)
+		Unaligned bases: 893 (number of Ns: 0)
+
+CONTIG: contig_130000003 (886bp)
+		This contig is unaligned. (886 bp)
+		Unaligned bases: 886 (number of Ns: 0)
+
+CONTIG: contig_131000003 (908bp)
+		This contig is unaligned. (908 bp)
+		Unaligned bases: 908 (number of Ns: 0)
+
+CONTIG: contig_132000003 (943bp)
+		This contig is unaligned. (943 bp)
+		Unaligned bases: 943 (number of Ns: 0)
+
+CONTIG: contig_133000003 (913bp)
+		This contig is unaligned. (913 bp)
+		Unaligned bases: 913 (number of Ns: 0)
+
+CONTIG: contig_134000003 (1318bp)
+		This contig is unaligned. (1318 bp)
+		Unaligned bases: 1318 (number of Ns: 0)
+
+CONTIG: contig_135000003 (1211bp)
+		This contig is unaligned. (1211 bp)
+		Unaligned bases: 1211 (number of Ns: 0)
+
+CONTIG: contig_136000003 (871bp)
+		This contig is unaligned. (871 bp)
+		Unaligned bases: 871 (number of Ns: 0)
+
+CONTIG: contig_137000003 (867bp)
+		This contig is unaligned. (867 bp)
+		Unaligned bases: 867 (number of Ns: 0)
+
+CONTIG: contig_138000003 (866bp)
+		This contig is unaligned. (866 bp)
+		Unaligned bases: 866 (number of Ns: 0)
+
+CONTIG: contig_139000003 (866bp)
+		This contig is unaligned. (866 bp)
+		Unaligned bases: 866 (number of Ns: 0)
+
+CONTIG: contig_140000003 (861bp)
+		This contig is unaligned. (861 bp)
+		Unaligned bases: 861 (number of Ns: 0)
+
+CONTIG: contig_141000003 (859bp)
+		This contig is unaligned. (859 bp)
+		Unaligned bases: 859 (number of Ns: 0)
+
+CONTIG: contig_142000003 (1442bp)
+		This contig is unaligned. (1442 bp)
+		Unaligned bases: 1442 (number of Ns: 0)
+
+CONTIG: contig_143000003 (930bp)
+		This contig is unaligned. (930 bp)
+		Unaligned bases: 930 (number of Ns: 0)
+
+CONTIG: contig_144000003 (850bp)
+		This contig is unaligned. (850 bp)
+		Unaligned bases: 850 (number of Ns: 0)
+
+CONTIG: contig_145000003 (849bp)
+		This contig is unaligned. (849 bp)
+		Unaligned bases: 849 (number of Ns: 0)
+
+CONTIG: contig_146000003 (849bp)
+		This contig is unaligned. (849 bp)
+		Unaligned bases: 849 (number of Ns: 0)
+
+CONTIG: contig_147000003 (846bp)
+		This contig is unaligned. (846 bp)
+		Unaligned bases: 846 (number of Ns: 0)
+
+CONTIG: contig_148000003 (1240bp)
+		This contig is unaligned. (1240 bp)
+		Unaligned bases: 1240 (number of Ns: 0)
+
+CONTIG: contig_149000003 (835bp)
+		This contig is unaligned. (835 bp)
+		Unaligned bases: 835 (number of Ns: 0)
+
+CONTIG: contig_150000003 (833bp)
+		This contig is unaligned. (833 bp)
+		Unaligned bases: 833 (number of Ns: 0)
+
+CONTIG: contig_151000003 (823bp)
+		This contig is unaligned. (823 bp)
+		Unaligned bases: 823 (number of Ns: 0)
+
+CONTIG: contig_152000003 (822bp)
+		This contig is unaligned. (822 bp)
+		Unaligned bases: 822 (number of Ns: 0)
+
+CONTIG: contig_153000003 (813bp)
+		This contig is unaligned. (813 bp)
+		Unaligned bases: 813 (number of Ns: 0)
+
+CONTIG: contig_154000003 (1516bp)
+		This contig is unaligned. (1516 bp)
+		Unaligned bases: 1516 (number of Ns: 0)
+
+CONTIG: contig_155000003 (809bp)
+		This contig is unaligned. (809 bp)
+		Unaligned bases: 809 (number of Ns: 0)
+
+CONTIG: contig_156000003 (807bp)
+		This contig is unaligned. (807 bp)
+		Unaligned bases: 807 (number of Ns: 0)
+
+CONTIG: contig_157000003 (801bp)
+		This contig is unaligned. (801 bp)
+		Unaligned bases: 801 (number of Ns: 0)
+
+CONTIG: contig_158000003 (801bp)
+		This contig is unaligned. (801 bp)
+		Unaligned bases: 801 (number of Ns: 0)
+
+CONTIG: contig_159000003 (809bp)
+		This contig is unaligned. (809 bp)
+		Unaligned bases: 809 (number of Ns: 0)
+
+CONTIG: contig_160000003 (798bp)
+		This contig is unaligned. (798 bp)
+		Unaligned bases: 798 (number of Ns: 0)
+
+CONTIG: contig_161000003 (813bp)
+		This contig is unaligned. (813 bp)
+		Unaligned bases: 813 (number of Ns: 0)
+
+CONTIG: contig_162000003 (843bp)
+		This contig is unaligned. (843 bp)
+		Unaligned bases: 843 (number of Ns: 0)
+
+CONTIG: contig_163000003 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: contig_164000003 (788bp)
+		This contig is unaligned. (788 bp)
+		Unaligned bases: 788 (number of Ns: 0)
+
+CONTIG: contig_165000003 (787bp)
+		This contig is unaligned. (787 bp)
+		Unaligned bases: 787 (number of Ns: 0)
+
+CONTIG: contig_166000003 (1062bp)
+		This contig is unaligned. (1062 bp)
+		Unaligned bases: 1062 (number of Ns: 0)
+
+CONTIG: contig_167000003 (783bp)
+		This contig is unaligned. (783 bp)
+		Unaligned bases: 783 (number of Ns: 0)
+
+CONTIG: contig_168000003 (777bp)
+		This contig is unaligned. (777 bp)
+		Unaligned bases: 777 (number of Ns: 0)
+
+CONTIG: contig_169000003 (904bp)
+		This contig is unaligned. (904 bp)
+		Unaligned bases: 904 (number of Ns: 0)
+
+CONTIG: contig_170000003 (776bp)
+		This contig is unaligned. (776 bp)
+		Unaligned bases: 776 (number of Ns: 0)
+
+CONTIG: contig_171000003 (775bp)
+		This contig is unaligned. (775 bp)
+		Unaligned bases: 775 (number of Ns: 0)
+
+CONTIG: contig_172000003 (775bp)
+		This contig is unaligned. (775 bp)
+		Unaligned bases: 775 (number of Ns: 0)
+
+CONTIG: contig_173000003 (773bp)
+		This contig is unaligned. (773 bp)
+		Unaligned bases: 773 (number of Ns: 0)
+
+CONTIG: contig_174000003 (771bp)
+		This contig is unaligned. (771 bp)
+		Unaligned bases: 771 (number of Ns: 0)
+
+CONTIG: contig_175000003 (770bp)
+		This contig is unaligned. (770 bp)
+		Unaligned bases: 770 (number of Ns: 0)
+
+CONTIG: contig_176000003 (764bp)
+		This contig is unaligned. (764 bp)
+		Unaligned bases: 764 (number of Ns: 0)
+
+CONTIG: contig_177000003 (760bp)
+		This contig is unaligned. (760 bp)
+		Unaligned bases: 760 (number of Ns: 0)
+
+CONTIG: contig_178000003 (1028bp)
+		This contig is unaligned. (1028 bp)
+		Unaligned bases: 1028 (number of Ns: 0)
+
+CONTIG: contig_179000003 (759bp)
+		This contig is unaligned. (759 bp)
+		Unaligned bases: 759 (number of Ns: 0)
+
+CONTIG: contig_180000003 (759bp)
+		This contig is unaligned. (759 bp)
+		Unaligned bases: 759 (number of Ns: 0)
+
+CONTIG: contig_181000003 (756bp)
+		This contig is unaligned. (756 bp)
+		Unaligned bases: 756 (number of Ns: 0)
+
+CONTIG: contig_182000003 (781bp)
+		This contig is unaligned. (781 bp)
+		Unaligned bases: 781 (number of Ns: 0)
+
+CONTIG: contig_183000003 (809bp)
+		This contig is unaligned. (809 bp)
+		Unaligned bases: 809 (number of Ns: 0)
+
+CONTIG: contig_184000003 (751bp)
+		This contig is unaligned. (751 bp)
+		Unaligned bases: 751 (number of Ns: 0)
+
+CONTIG: contig_185000003 (750bp)
+		This contig is unaligned. (750 bp)
+		Unaligned bases: 750 (number of Ns: 0)
+
+CONTIG: contig_186000003 (750bp)
+		This contig is unaligned. (750 bp)
+		Unaligned bases: 750 (number of Ns: 0)
+
+CONTIG: contig_187000003 (735bp)
+		This contig is unaligned. (735 bp)
+		Unaligned bases: 735 (number of Ns: 0)
+
+CONTIG: contig_188000003 (735bp)
+		This contig is unaligned. (735 bp)
+		Unaligned bases: 735 (number of Ns: 0)
+
+CONTIG: contig_189000003 (734bp)
+		This contig is unaligned. (734 bp)
+		Unaligned bases: 734 (number of Ns: 0)
+
+CONTIG: contig_190000003 (730bp)
+		This contig is unaligned. (730 bp)
+		Unaligned bases: 730 (number of Ns: 0)
+
+CONTIG: contig_191000003 (729bp)
+		This contig is unaligned. (729 bp)
+		Unaligned bases: 729 (number of Ns: 0)
+
+CONTIG: contig_192000003 (728bp)
+		This contig is unaligned. (728 bp)
+		Unaligned bases: 728 (number of Ns: 0)
+
+CONTIG: contig_193000003 (726bp)
+		This contig is unaligned. (726 bp)
+		Unaligned bases: 726 (number of Ns: 0)
+
+CONTIG: contig_194000003 (724bp)
+		This contig is unaligned. (724 bp)
+		Unaligned bases: 724 (number of Ns: 0)
+
+CONTIG: contig_195000003 (722bp)
+		This contig is unaligned. (722 bp)
+		Unaligned bases: 722 (number of Ns: 0)
+
+CONTIG: contig_196000003 (720bp)
+		This contig is unaligned. (720 bp)
+		Unaligned bases: 720 (number of Ns: 0)
+
+CONTIG: contig_197000003 (719bp)
+		This contig is unaligned. (719 bp)
+		Unaligned bases: 719 (number of Ns: 0)
+
+CONTIG: contig_198000003 (719bp)
+		This contig is unaligned. (719 bp)
+		Unaligned bases: 719 (number of Ns: 0)
+
+CONTIG: contig_199000003 (1508bp)
+		This contig is unaligned. (1508 bp)
+		Unaligned bases: 1508 (number of Ns: 0)
+
+CONTIG: contig_200000003 (719bp)
+		This contig is unaligned. (719 bp)
+		Unaligned bases: 719 (number of Ns: 0)
+
+CONTIG: contig_201000003 (718bp)
+		This contig is unaligned. (718 bp)
+		Unaligned bases: 718 (number of Ns: 0)
+
+CONTIG: contig_202000003 (717bp)
+		This contig is unaligned. (717 bp)
+		Unaligned bases: 717 (number of Ns: 0)
+
+CONTIG: contig_203000003 (715bp)
+		This contig is unaligned. (715 bp)
+		Unaligned bases: 715 (number of Ns: 0)
+
+CONTIG: contig_204000003 (706bp)
+		This contig is unaligned. (706 bp)
+		Unaligned bases: 706 (number of Ns: 0)
+
+CONTIG: contig_205000003 (1095bp)
+		This contig is unaligned. (1095 bp)
+		Unaligned bases: 1095 (number of Ns: 0)
+
+CONTIG: contig_206000003 (705bp)
+		This contig is unaligned. (705 bp)
+		Unaligned bases: 705 (number of Ns: 0)
+
+CONTIG: contig_207000003 (705bp)
+		This contig is unaligned. (705 bp)
+		Unaligned bases: 705 (number of Ns: 0)
+
+CONTIG: contig_208000003 (1079bp)
+		This contig is unaligned. (1079 bp)
+		Unaligned bases: 1079 (number of Ns: 0)
+
+CONTIG: contig_209000003 (1065bp)
+		This contig is unaligned. (1065 bp)
+		Unaligned bases: 1065 (number of Ns: 0)
+
+CONTIG: contig_210000003 (698bp)
+		This contig is unaligned. (698 bp)
+		Unaligned bases: 698 (number of Ns: 0)
+
+CONTIG: contig_211000003 (694bp)
+		This contig is unaligned. (694 bp)
+		Unaligned bases: 694 (number of Ns: 0)
+
+CONTIG: contig_212000003 (699bp)
+		This contig is unaligned. (699 bp)
+		Unaligned bases: 699 (number of Ns: 0)
+
+CONTIG: contig_213000003 (692bp)
+		This contig is unaligned. (692 bp)
+		Unaligned bases: 692 (number of Ns: 0)
+
+CONTIG: contig_214000003 (690bp)
+		This contig is unaligned. (690 bp)
+		Unaligned bases: 690 (number of Ns: 0)
+
+CONTIG: contig_215000003 (716bp)
+		This contig is unaligned. (716 bp)
+		Unaligned bases: 716 (number of Ns: 0)
+
+CONTIG: contig_216000003 (686bp)
+		This contig is unaligned. (686 bp)
+		Unaligned bases: 686 (number of Ns: 0)
+
+CONTIG: contig_217000003 (1046bp)
+		This contig is unaligned. (1046 bp)
+		Unaligned bases: 1046 (number of Ns: 0)
+
+CONTIG: contig_218000003 (1023bp)
+		This contig is unaligned. (1023 bp)
+		Unaligned bases: 1023 (number of Ns: 0)
+
+CONTIG: contig_219000003 (671bp)
+		This contig is unaligned. (671 bp)
+		Unaligned bases: 671 (number of Ns: 0)
+
+CONTIG: contig_220000003 (884bp)
+		This contig is unaligned. (884 bp)
+		Unaligned bases: 884 (number of Ns: 0)
+
+CONTIG: contig_221000003 (670bp)
+		This contig is unaligned. (670 bp)
+		Unaligned bases: 670 (number of Ns: 0)
+
+CONTIG: contig_222000003 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_223000003 (669bp)
+		This contig is unaligned. (669 bp)
+		Unaligned bases: 669 (number of Ns: 0)
+
+CONTIG: contig_224000003 (667bp)
+		This contig is unaligned. (667 bp)
+		Unaligned bases: 667 (number of Ns: 0)
+
+CONTIG: contig_225000003 (659bp)
+		This contig is unaligned. (659 bp)
+		Unaligned bases: 659 (number of Ns: 0)
+
+CONTIG: contig_226000003 (658bp)
+		This contig is unaligned. (658 bp)
+		Unaligned bases: 658 (number of Ns: 0)
+
+CONTIG: contig_227000003 (655bp)
+		This contig is unaligned. (655 bp)
+		Unaligned bases: 655 (number of Ns: 0)
+
+CONTIG: contig_228000003 (650bp)
+		This contig is unaligned. (650 bp)
+		Unaligned bases: 650 (number of Ns: 0)
+
+CONTIG: contig_229000003 (643bp)
+		This contig is unaligned. (643 bp)
+		Unaligned bases: 643 (number of Ns: 0)
+
+CONTIG: contig_230000003 (642bp)
+		This contig is unaligned. (642 bp)
+		Unaligned bases: 642 (number of Ns: 0)
+
+CONTIG: contig_231000003 (641bp)
+		This contig is unaligned. (641 bp)
+		Unaligned bases: 641 (number of Ns: 0)
+
+CONTIG: contig_232000003 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_233000003 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_234000003 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: contig_235000003 (637bp)
+		This contig is unaligned. (637 bp)
+		Unaligned bases: 637 (number of Ns: 0)
+
+CONTIG: contig_236000003 (635bp)
+		This contig is unaligned. (635 bp)
+		Unaligned bases: 635 (number of Ns: 0)
+
+CONTIG: contig_237000003 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: contig_238000003 (631bp)
+		This contig is unaligned. (631 bp)
+		Unaligned bases: 631 (number of Ns: 0)
+
+CONTIG: contig_239000003 (630bp)
+		This contig is unaligned. (630 bp)
+		Unaligned bases: 630 (number of Ns: 0)
+
+CONTIG: contig_240000003 (718bp)
+		This contig is unaligned. (718 bp)
+		Unaligned bases: 718 (number of Ns: 0)
+
+CONTIG: contig_241000003 (915bp)
+		This contig is unaligned. (915 bp)
+		Unaligned bases: 915 (number of Ns: 0)
+
+CONTIG: contig_242000003 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_243000003 (623bp)
+		This contig is unaligned. (623 bp)
+		Unaligned bases: 623 (number of Ns: 0)
+
+CONTIG: contig_244000003 (998bp)
+		This contig is unaligned. (998 bp)
+		Unaligned bases: 998 (number of Ns: 0)
+
+CONTIG: contig_245000003 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_246000003 (620bp)
+		This contig is unaligned. (620 bp)
+		Unaligned bases: 620 (number of Ns: 0)
+
+CONTIG: contig_247000003 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: contig_248000003 (618bp)
+		This contig is unaligned. (618 bp)
+		Unaligned bases: 618 (number of Ns: 0)
+
+CONTIG: contig_249000003 (616bp)
+		This contig is unaligned. (616 bp)
+		Unaligned bases: 616 (number of Ns: 0)
+
+CONTIG: contig_250000003 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: contig_251000003 (633bp)
+		This contig is unaligned. (633 bp)
+		Unaligned bases: 633 (number of Ns: 0)
+
+CONTIG: contig_252000003 (616bp)
+		This contig is unaligned. (616 bp)
+		Unaligned bases: 616 (number of Ns: 0)
+
+CONTIG: contig_253000003 (612bp)
+		This contig is unaligned. (612 bp)
+		Unaligned bases: 612 (number of Ns: 0)
+
+CONTIG: contig_254000003 (610bp)
+		This contig is unaligned. (610 bp)
+		Unaligned bases: 610 (number of Ns: 0)
+
+CONTIG: contig_255000003 (607bp)
+		This contig is unaligned. (607 bp)
+		Unaligned bases: 607 (number of Ns: 0)
+
+CONTIG: contig_256000003 (605bp)
+		This contig is unaligned. (605 bp)
+		Unaligned bases: 605 (number of Ns: 0)
+
+CONTIG: contig_257000003 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_258000003 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: contig_259000003 (602bp)
+		This contig is unaligned. (602 bp)
+		Unaligned bases: 602 (number of Ns: 0)
+
+CONTIG: contig_260000003 (599bp)
+		This contig is unaligned. (599 bp)
+		Unaligned bases: 599 (number of Ns: 0)
+
+CONTIG: contig_261000003 (1021bp)
+		This contig is unaligned. (1021 bp)
+		Unaligned bases: 1021 (number of Ns: 0)
+
+CONTIG: contig_262000003 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: contig_263000003 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: contig_264000003 (591bp)
+		This contig is unaligned. (591 bp)
+		Unaligned bases: 591 (number of Ns: 0)
+
+CONTIG: contig_265000003 (588bp)
+		This contig is unaligned. (588 bp)
+		Unaligned bases: 588 (number of Ns: 0)
+
+CONTIG: contig_266000003 (587bp)
+		This contig is unaligned. (587 bp)
+		Unaligned bases: 587 (number of Ns: 0)
+
+CONTIG: contig_267000003 (585bp)
+		This contig is unaligned. (585 bp)
+		Unaligned bases: 585 (number of Ns: 0)
+
+CONTIG: contig_268000003 (584bp)
+		This contig is unaligned. (584 bp)
+		Unaligned bases: 584 (number of Ns: 0)
+
+CONTIG: contig_269000003 (680bp)
+		This contig is unaligned. (680 bp)
+		Unaligned bases: 680 (number of Ns: 0)
+
+CONTIG: contig_270000003 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: contig_271000003 (580bp)
+		This contig is unaligned. (580 bp)
+		Unaligned bases: 580 (number of Ns: 0)
+
+CONTIG: contig_272000003 (580bp)
+		This contig is unaligned. (580 bp)
+		Unaligned bases: 580 (number of Ns: 0)
+
+CONTIG: contig_273000003 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: contig_274000003 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_275000003 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_276000003 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: contig_277000003 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: contig_278000003 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: contig_279000003 (591bp)
+		This contig is unaligned. (591 bp)
+		Unaligned bases: 591 (number of Ns: 0)
+
+CONTIG: contig_280000003 (1258bp)
+		This contig is unaligned. (1258 bp)
+		Unaligned bases: 1258 (number of Ns: 0)
+
+CONTIG: contig_281000003 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_282000003 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_283000003 (573bp)
+		This contig is unaligned. (573 bp)
+		Unaligned bases: 573 (number of Ns: 0)
+
+CONTIG: contig_284000003 (571bp)
+		This contig is unaligned. (571 bp)
+		Unaligned bases: 571 (number of Ns: 0)
+
+CONTIG: contig_285000003 (570bp)
+		This contig is unaligned. (570 bp)
+		Unaligned bases: 570 (number of Ns: 0)
+
+CONTIG: contig_286000003 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: contig_287000003 (569bp)
+		This contig is unaligned. (569 bp)
+		Unaligned bases: 569 (number of Ns: 0)
+
+CONTIG: contig_288000003 (567bp)
+		This contig is unaligned. (567 bp)
+		Unaligned bases: 567 (number of Ns: 0)
+
+CONTIG: contig_289000003 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: contig_290000003 (566bp)
+		This contig is unaligned. (566 bp)
+		Unaligned bases: 566 (number of Ns: 0)
+
+CONTIG: contig_291000003 (563bp)
+		This contig is unaligned. (563 bp)
+		Unaligned bases: 563 (number of Ns: 0)
+
+CONTIG: contig_292000003 (558bp)
+		This contig is unaligned. (558 bp)
+		Unaligned bases: 558 (number of Ns: 0)
+
+CONTIG: contig_293000003 (787bp)
+		This contig is unaligned. (787 bp)
+		Unaligned bases: 787 (number of Ns: 0)
+
+CONTIG: contig_294000003 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: contig_295000003 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: contig_296000003 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: contig_297000003 (554bp)
+		This contig is unaligned. (554 bp)
+		Unaligned bases: 554 (number of Ns: 0)
+
+CONTIG: contig_298000003 (552bp)
+		This contig is unaligned. (552 bp)
+		Unaligned bases: 552 (number of Ns: 0)
+
+CONTIG: contig_299000003 (681bp)
+		This contig is unaligned. (681 bp)
+		Unaligned bases: 681 (number of Ns: 0)
+
+CONTIG: contig_300000003 (891bp)
+		This contig is unaligned. (891 bp)
+		Unaligned bases: 891 (number of Ns: 0)
+
+CONTIG: contig_301000003 (542bp)
+		This contig is unaligned. (542 bp)
+		Unaligned bases: 542 (number of Ns: 0)
+
+CONTIG: contig_302000003 (652bp)
+		This contig is unaligned. (652 bp)
+		Unaligned bases: 652 (number of Ns: 0)
+
+CONTIG: contig_303000003 (925bp)
+		This contig is unaligned. (925 bp)
+		Unaligned bases: 925 (number of Ns: 0)
+
+CONTIG: contig_304000003 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_305000003 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: contig_306000003 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_307000003 (532bp)
+		This contig is unaligned. (532 bp)
+		Unaligned bases: 532 (number of Ns: 0)
+
+CONTIG: contig_308000003 (532bp)
+		This contig is unaligned. (532 bp)
+		Unaligned bases: 532 (number of Ns: 0)
+
+CONTIG: contig_309000003 (530bp)
+		This contig is unaligned. (530 bp)
+		Unaligned bases: 530 (number of Ns: 0)
+
+CONTIG: contig_310000003 (695bp)
+		This contig is unaligned. (695 bp)
+		Unaligned bases: 695 (number of Ns: 0)
+
+CONTIG: contig_311000003 (531bp)
+		This contig is unaligned. (531 bp)
+		Unaligned bases: 531 (number of Ns: 0)
+
+CONTIG: contig_312000003 (606bp)
+		This contig is unaligned. (606 bp)
+		Unaligned bases: 606 (number of Ns: 0)
+
+CONTIG: contig_313000003 (528bp)
+		This contig is unaligned. (528 bp)
+		Unaligned bases: 528 (number of Ns: 0)
+
+CONTIG: contig_314000003 (527bp)
+		This contig is unaligned. (527 bp)
+		Unaligned bases: 527 (number of Ns: 0)
+
+CONTIG: contig_315000003 (1210bp)
+		This contig is unaligned. (1210 bp)
+		Unaligned bases: 1210 (number of Ns: 0)
+
+CONTIG: contig_316000003 (520bp)
+		This contig is unaligned. (520 bp)
+		Unaligned bases: 520 (number of Ns: 0)
+
+CONTIG: contig_317000003 (519bp)
+		This contig is unaligned. (519 bp)
+		Unaligned bases: 519 (number of Ns: 0)
+
+CONTIG: contig_318000003 (517bp)
+		This contig is unaligned. (517 bp)
+		Unaligned bases: 517 (number of Ns: 0)
+
+CONTIG: contig_319000003 (945bp)
+		This contig is unaligned. (945 bp)
+		Unaligned bases: 945 (number of Ns: 0)
+
+CONTIG: contig_320000003 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: contig_321000003 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: contig_322000003 (513bp)
+		This contig is unaligned. (513 bp)
+		Unaligned bases: 513 (number of Ns: 0)
+
+CONTIG: contig_323000003 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_324000003 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_325000003 (509bp)
+		This contig is unaligned. (509 bp)
+		Unaligned bases: 509 (number of Ns: 0)
+
+CONTIG: contig_326000003 (1300bp)
+		This contig is unaligned. (1300 bp)
+		Unaligned bases: 1300 (number of Ns: 0)
+
+CONTIG: contig_327000003 (506bp)
+		This contig is unaligned. (506 bp)
+		Unaligned bases: 506 (number of Ns: 0)
+
+CONTIG: contig_328000003 (506bp)
+		This contig is unaligned. (506 bp)
+		Unaligned bases: 506 (number of Ns: 0)
+
+CONTIG: contig_329000003 (505bp)
+		This contig is unaligned. (505 bp)
+		Unaligned bases: 505 (number of Ns: 0)
+
+CONTIG: contig_330000003 (505bp)
+		This contig is unaligned. (505 bp)
+		Unaligned bases: 505 (number of Ns: 0)
+
+CONTIG: contig_331000003 (503bp)
+		This contig is unaligned. (503 bp)
+		Unaligned bases: 503 (number of Ns: 0)
+
+CONTIG: contig_341000003 (505bp)
+		This contig is unaligned. (505 bp)
+		Unaligned bases: 505 (number of Ns: 0)
+
+CONTIG: contig_343000003 (612bp)
+		This contig is unaligned. (612 bp)
+		Unaligned bases: 612 (number of Ns: 0)
+
+CONTIG: contig_345000003 (745bp)
+		This contig is unaligned. (745 bp)
+		Unaligned bases: 745 (number of Ns: 0)
+
+CONTIG: contig_348000003 (772bp)
+		This contig is unaligned. (772 bp)
+		Unaligned bases: 772 (number of Ns: 0)
+
+CONTIG: contig_350000003 (746bp)
+		This contig is unaligned. (746 bp)
+		Unaligned bases: 746 (number of Ns: 0)
+
+CONTIG: contig_351000003 (507bp)
+		This contig is unaligned. (507 bp)
+		Unaligned bases: 507 (number of Ns: 0)
+
+CONTIG: contig_354000003 (582bp)
+		This contig is unaligned. (582 bp)
+		Unaligned bases: 582 (number of Ns: 0)
+
+CONTIG: contig_356000003 (979bp)
+		This contig is unaligned. (979 bp)
+		Unaligned bases: 979 (number of Ns: 0)
+
+CONTIG: contig_357000003 (522bp)
+		This contig is unaligned. (522 bp)
+		Unaligned bases: 522 (number of Ns: 0)
+
+CONTIG: contig_362000003 (840bp)
+		This contig is unaligned. (840 bp)
+		Unaligned bases: 840 (number of Ns: 0)
+
+CONTIG: contig_366000003 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: contig_372000003 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: contig_388000003 (717bp)
+		This contig is unaligned. (717 bp)
+		Unaligned bases: 717 (number of Ns: 0)
+
+CONTIG: contig_406000003 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_412000003 (582bp)
+		This contig is unaligned. (582 bp)
+		Unaligned bases: 582 (number of Ns: 0)
+
+CONTIG: contig_420000003 (1418bp)
+		This contig is unaligned. (1418 bp)
+		Unaligned bases: 1418 (number of Ns: 0)
+
+CONTIG: contig_421000003 (559bp)
+		This contig is unaligned. (559 bp)
+		Unaligned bases: 559 (number of Ns: 0)
+
+CONTIG: contig_438000003 (739bp)
+		This contig is unaligned. (739 bp)
+		Unaligned bases: 739 (number of Ns: 0)
+
+CONTIG: contig_440000003 (760bp)
+		This contig is unaligned. (760 bp)
+		Unaligned bases: 760 (number of Ns: 0)
+
+CONTIG: contig_449000003 (591bp)
+		This contig is unaligned. (591 bp)
+		Unaligned bases: 591 (number of Ns: 0)
+
+CONTIG: contig_456000003 (529bp)
+		This contig is unaligned. (529 bp)
+		Unaligned bases: 529 (number of Ns: 0)
+
+CONTIG: contig_458000003 (537bp)
+		This contig is unaligned. (537 bp)
+		Unaligned bases: 537 (number of Ns: 0)
+
+CONTIG: contig_529000003 (549bp)
+		This contig is unaligned. (549 bp)
+		Unaligned bases: 549 (number of Ns: 0)
+
+CONTIG: contig_534000003 (508bp)
+		This contig is unaligned. (508 bp)
+		Unaligned bases: 508 (number of Ns: 0)
+
+CONTIG: contig_539000003 (616bp)
+		This contig is unaligned. (616 bp)
+		Unaligned bases: 616 (number of Ns: 0)
+
+CONTIG: contig_564000003 (986bp)
+		This contig is unaligned. (986 bp)
+		Unaligned bases: 986 (number of Ns: 0)
+
+CONTIG: contig_611000003 (539bp)
+		This contig is unaligned. (539 bp)
+		Unaligned bases: 539 (number of Ns: 0)
+
+CONTIG: contig_618000003 (519bp)
+		This contig is unaligned. (519 bp)
+		Unaligned bases: 519 (number of Ns: 0)
+
+CONTIG: contig_622000003 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: contig_645000003 (505bp)
+		This contig is unaligned. (505 bp)
+		Unaligned bases: 505 (number of Ns: 0)
+
+CONTIG: contig_674000003 (524bp)
+		This contig is unaligned. (524 bp)
+		Unaligned bases: 524 (number of Ns: 0)
+
+CONTIG: contig_778000003 (662bp)
+		This contig is unaligned. (662 bp)
+		Unaligned bases: 662 (number of Ns: 0)
+
+CONTIG: contig_918000003 (512bp)
+		This contig is unaligned. (512 bp)
+		Unaligned bases: 512 (number of Ns: 0)
+
+CONTIG: contig_959000003 (3801bp)
+		This contig is unaligned. (3801 bp)
+		Unaligned bases: 3801 (number of Ns: 0)
+
+CONTIG: contig_969000003 (1307bp)
+		This contig is unaligned. (1307 bp)
+		Unaligned bases: 1307 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/minimap_output/Ray.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/biotech/probak/spades_corrected/corrected/quast_Geobac_out/contigs_reports/minimap_output/Ray.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1523 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 1621643
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 0
+
+	SNPs: 0
+	Insertions: 0
+	Deletions: 0
+

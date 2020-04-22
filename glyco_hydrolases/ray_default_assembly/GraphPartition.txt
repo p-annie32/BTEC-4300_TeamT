@@ -1,0 +1,8 @@
+#Rank	NumberOfKmers	IdealNumberOfKmers	Difference	RelativeDifference
+#TotalKmers: 4795996
+#Ranks: 4
+#IdealNumberOfKmers: 1198999
+0	1199734	1198999	735	0.0613011%
+1	1197974	1198999	-1025	-0.085488%
+2	1199184	1198999	185	0.0154295%
+3	1199104	1198999	105	0.00875731%
