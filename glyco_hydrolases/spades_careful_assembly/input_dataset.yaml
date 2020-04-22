@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/biotech/probak/spades_corrected/corrected/Geobac_1_pair.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/biotech/probak/spades_corrected/corrected/Geobac_2_pair.cor.fastq.gz"
+  "type": "paired-end"

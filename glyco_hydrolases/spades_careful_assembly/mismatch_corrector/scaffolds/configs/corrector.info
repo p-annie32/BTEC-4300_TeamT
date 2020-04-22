@@ -1,0 +1,7 @@
+"bwa": "/home/biotech/miniconda3/envs/genome_assembly_env/share/spades-3.11.1-4/bin/bwa-spades"
+"dataset": "/home/biotech/probak/spades_corrected/corrected/spades_careful_assembly/input_dataset.yaml"
+"log_filename": "log.properties"
+"max_nthreads": !!int "16"
+"output_dir": "/home/biotech/probak/spades_corrected/corrected/spades_careful_assembly/mismatch_corrector/scaffolds"
+"strategy": "mapped_squared"
+"work_dir": "/home/biotech/probak/spades_corrected/corrected/spades_careful_assembly/tmp/corrector_ksmnlque"
